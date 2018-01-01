@@ -1,0 +1,1761 @@
+<TEI.2 lang="nl-1900" xml:lang="nl-1900"><teiHeader type="text" status="new"><fileDesc><titleStmt><title>De Boeventaal: Zakwoordenboekje van het Bargoensch</title><author key="K&#246;ster Henke, Willem Lodewijk Hendrik" ref="https://viaf.org/viaf/289055013/">Willem Lodewijk Hendrik K&#246;ster Henke (&#8211;1947)</author><respStmt><resp lang="en" xml:lang="en">Transcription</resp><name key="Hellingman, Jeroen">Jeroen Hellingman</name></respStmt></titleStmt><publicationStmt><publisher>Project Gutenberg</publisher><pubPlace>Urbana, Illinois, USA.</pubPlace><idno type="epub-id">urn:uuid:9459b920-cf18-4b38-83cf-24acf8a408a3</idno><idno type="PGclearance">20081211141428ksterhenke</idno><idno type="PGDPProjectId">projectID494196905338e</idno><idno type="PGSrc">28715-Koster-Henke-Boeventaal</idno><idno type="PGnum">28715</idno><date>2009-05-08</date><availability lang="nl" xml:lang="nl"><p>Dit eBoek is voor kosteloos gebruik door iedereen overal, met vrijwel geen beperkingen van welke soort dan ook. U mag het kopi&#xEB;ren, weggeven of hergebruiken onder de voorwaarden van de <xref url='https://www.gutenberg.org/license' rel='license'>Project Gutenberg Licentie</xref> bij dit eBoek of on-line op <xref url='https://www.gutenberg.org/'>www.gutenberg.org</xref>.
+</p><p>Dit eBoek is geproduceerd door het on-line gedistribueerd correctieteam op <xref url="http://www.pgdp.net/">www.pgdp.net</xref>.
+</p></availability></publicationStmt><sourceDesc><bibl><author>W. L. H. K&#246;ster Henke</author>
+<title>De Boeventaal: Zakwoordenboekje van het Bargoensch</title>
+<date>1906</date></bibl></sourceDesc></fileDesc><encodingDesc lang="nl" xml:lang="nl"><p>Dit bestand is in een verouderde spelling. Er is geen poging gedaan de tekst te moderniseren. Afgebroken woorden aan het einde van de regel zijn stilzwijgend hersteld. Kennelijke zetfouten in het origineel zijn gecorrigeerd. Dergelijke correcties zijn gemarkeerd met het corr-element.
+</p><p>Hoewel in het origineel laag liggende aanhalingstekens openen gebruikt, zijn deze in dit bestand gecodeerd met &#8220;. Geneste dubbele aanhalingstekens zijn stilzwijgend veranderd in enkele aanhalingstekens.
+</p></encodingDesc><profileDesc><langUsage lang="nl" xml:lang="nl"><language id="nl-1900">Nederlands (Spelling De Vries-Te Winkel)</language><language id="nl">Nederlands</language><language id="en">Engels</language></langUsage><textClass><keywords><list><item>Languages, Secret</item><item>Dutch language - Slang</item></list></keywords></textClass></profileDesc><revisionDesc><list><item>2009-05-07 Begonnen.
+        </item><item>2010-04-27 Changes to improve ePub generation.
+    </item></list></revisionDesc></teiHeader><text><front id="frontmatter"><div1 id="cover" type="Cover"><p><figure id="cover-image" rend="image(images/voorkant.jpg)"><figDesc>Oorspronkelijke voorkant.</figDesc></figure>
+
+<pb/></p></div1><div1 id="titlepage" type="TitlePage"><titlePage><docTitle><titlePart type="main">De Boeventaal.</titlePart><titlePart type="sub">Zakwoordenboekje<lb/>
+van het<lb/>
+Bargoensch,<lb/>
+of<lb/>
+De taal van de jongens van de vlakte,<lb/>
+in woorden en zinnen alphabetisch gerangschikt.</titlePart></docTitle><byline>Met een voorwoord van
+
+<docAuthor>W. L. H. K&#246;ster Henke.</docAuthor></byline><docImprint>Schaafsma &amp; Brouwer&#8212;Dockum.</docImprint></titlePage><pb/><div1 id="copy" type="Copyright"><p rend="align(center) font-size(small)">Auteursrecht verzekerd.
+
+
+
+
+<pb n="3"/>
+<div1 id="pre" type="Preface"><head>Voorwoord.</head><p>Ieder, die veel met misdadigers in aanraking komt, weet, dat door die lieden en hun aanhang woorden en zinnen gebruikt worden, waarvan de beteekenis voor een oningewijde moeilijk of in het geheel niet te begrijpen is.
+</p><p>Men noemt dit gebruik van verouderde, verbasterde, uit vreemde talen al of niet gewijzigd overgenomen of andersgebruikte woorden of het toekennen van een andere dan de gewone beteekenis aan overigens goed Nederlandsch, het spreken van de boeventaal, ook wel dieventaal of Bargoensch. De misdadigers spreken van de Gabbertaal (Gabber = Kameraad).
+</p><p>Waar een groot deel der kroeghouders van het minste allooi, slaapsteehouders, prostitu&#233;es, opkoopers enz. enz., evenals kwartjesvinders en beroepsmisdadigers zich van deze boeventaal bedienen en laatstgenoemden zich zelfs zoozeer aan het gebruik daarvan gewend hebben, dat zij het niet kunnen laten ook in het verkeer met personen, die niet tot hunne vrienden gerekend kunnen worden, hunne eigenaardige uitdrukkingen te bezigen, daar is het wenschelijk, dat in de eerste plaats de politie, maar ook de justitie- en gevangenis-ambtenaren moeite doen om die taal te leeren verstaan.
+</p><p>Voor de politie is dit wel in het bijzonder wenschelijk. Immers, een enkele bijzondere uitdrukking in het Bargoensch, opgevangen in het voorbijgaan, zal voor een politieman, die de taal kent, voldoende zijn om te weten, dat hij te doen heeft met &#8220;jongens van de vlakte&#8221;, die in &#8217;t oog gehouden moeten worden. Ook wanneer misdadigers, die bij hun &#8220;werk&#8221; op heeterdaad betrapt worden, elkaar in het Bargoensch een aanwijzing geven voor de verder te volgen gedragslijn, zal de politiebeambte, die de taal verstaat, beter zijn maatregelen kunnen treffen dan hij die er nimmer iets van hoorde. Bij het verhooren van publieke vrouwen, opkoopers, pandjeshuis-houders en dergelijke, evenals bij het ondervragen van verdachten, zullen verschillende uitdrukkingen nadere verklaring behoeven, wanneer de ambtenaar, die het onderzoek leidt, niet met de dieventaal bekend is of geen hulpmiddel bij de hand heeft, waarin hij de verklaring van de onbekende uitdrukking <pb n="4"/>kan opzoeken. Die nadere verklaring kan hij, bij gemis van een woordenlijst, voorloopig alleen verkrijgen van hem, die in verhoor is en deze wint dus, door het gebruik van zijn eigenaardige taal, tijd, wat voor hem van groot belang is, omdat hij er dan nog eens op zijn gemak over kan nadenken, wat hij den ambtenaar op de mouw zal spelden. Later, voor den rechter, zal de beroepsmisdadiger of de getuige tegen wil en dank&#8212;als blijkt dat zijn opgaven niet juist geweest zijn&#8212;niet aarzelen te zeggen, dat de politie hem misverstaan heeft en dat hij geheel te goeder trouw was. Hij zal zelfs bereidwillig herhalen de uitdrukking, die hij beweert gebezigd te hebben, en de politieman, die de taal niet kent, zal zulks dan niet meer voldoende kunnen tegenspreken.
+</p><p>Ook de rechter, die te oordeelen heeft over de beteekenis van een gebezigde Bargoensche uitdrukking, tast dikwijls in het duister, omdat hij de taal niet verstaat en hij ook moeilijk een anderen misdadiger als deskundige kan hooren.
+</p><p>Dat in gevangenissen door de bevolking heel wat besproken, afgesproken en getikt kan worden, als de bewaarders niet met het Bargoensch bekend zijn, behoeft geen betoog.
+</p><p>Een eenigszins betrouwbare woordenlijst van de Nederlandsche boeventaal bestond tot heden niet, hoewel er wel behoefte aan gevoeld wordt.
+</p><p>Nu is het een gelukkig verschijnsel, dat in den laatsten tijd verschillende ambtenaren&#8212;het groote belang dezer aangelegenheid begrijpende&#8212;de woorden en uitdrukkingen uit het Bargoensch, die zij bij de uitoefening van hun dienst hoorden gebruiken, hebben opgeschreven met de beteekenis, die er algemeen aan gegeven wordt, er bij. Dit heeft aanleiding gegeven tot het ontstaan van deze woordenlijst die, hoewel niet volmaakt, toch reeds vrij volledig is.
+</p><p>Ik heb niet gerust voordat ik bewerkt had, dat deze vrucht van voortdurende oplettendheid en nauwkeurige aanteekening, door de drukpers vermenigvuldigd kon worden, opdat velen daarvan een nuttig gebruik zouden kunnen maken, en ik heb dan ook niet geaarzeld te voldoen aan het verzoek van den Uitgever om een aanbevelend woord aan dit werkje te doen voorafgaan.
+</p><p rend="class(signed)">W. L. H. K&#246;ster Henke.
+</p><p rend="class(dateline)"><hi rend="sc">Amsterdam</hi>, Mei 1906.
+
+
+</p></div1></p></div1></div1></front><pb n="5"/><body><div1 id="a" n="A" type="Chapter"><head>A.</head><p id="aangebrand"><hi rend="bold">Aangebrand</hi>, veneriek.
+</p><p id="aanklennen"><hi rend="bold">Aanklennen</hi> of <hi rend="bold">aankleinen</hi>, lijmen, lokken, meetroonen.
+</p><p id="aankwatsen"><hi rend="bold">Aankwatsen</hi>, aanspreken. Een niese (meid) of een sirool (man) aankwatsen.
+</p><p id="aanschieten"><hi rend="bold">Aanschieten</hi>, aanvallen. Hij heeft dien vrijer (kerel) aangeschoten.
+</p><p id="aanslaan"><hi rend="bold">Aanslaan</hi>, aanspreken<corr sic=",">.</corr> Een poging in &#8217;t werk stellen. Ik zal dat heertje reis aanslaan. Sla dien broger (man) aan, misschien heeft hij poen (geld). Jongens, er moet aangeslagen worden, daar loopt mooi gajes (menschen daar wat van te halen is).
+</p><p><hi rend="bold">Aas-Neus</hi>, &#233;&#233;n, twee, (bij &#8217;t kaarten en dobbelen).
+</p><p id="aberdoedas"><hi rend="bold">Aberdoedas</hi> of <hi rend="bold">Appeldoedas</hi>, zie <ref target="haberdoedas">Haberdoedas</ref>.
+</p><p id="achelen"><hi rend="bold">Achelen</hi>, bikken, eten.
+</p><p id="achtermeeluk"><hi rend="bold">Achtermeeluk</hi>, zakje, achter op den pantalon.
+</p><p id="achterwiel"><hi rend="bold">Achterwiel</hi>, rijksdaalder. Er is me een achterwiel voor dien joekel (hond) geboden.
+</p><p id="adje"><hi rend="bold">Adje</hi>, agent van politie.
+</p><p id="afdokken"><hi rend="bold">Afdokken</hi>, betalen, afstaan.
+</p><p id="afgelajen"><hi rend="bold">Afgelajen</hi>, af, afgetobd. Me niese is afgelajen. (Mijn meid kan niet meer).
+</p><p id="afgelooid"><hi rend="bold">Afgelooid</hi>, van alles beroofd.
+</p><p id="afgrissen"><hi rend="bold">Afgrissen</hi>, afrukken.
+</p><p id="afleggen"><hi rend="bold">Afleggen</hi>, beloeren, ongemerkt nagaan, verkennen. De russen (rechercheurs) hebben hem afgelegen (beloerd). Dat spiese (huis) moet eerst afgelegen worden. Een smeris legt je af. (Een agent bespiedt je).
+</p><p id="aflenzen"><hi rend="bold">Aflenzen</hi>, afloeren.
+</p><p id="afloeken"><hi rend="bold">Afloeken</hi>, afloeren. Als het gajes (volk) weggaat, zullen we afloeken, of het nobel (veilig) is.
+</p><p id="afroojemen"><hi rend="bold">Afroojemen</hi>, afloeren.
+</p><p id="aftrekken"><hi rend="bold">Aftrekken</hi>, onanie plegen.
+<pb n="6"/></p><p id="aftrekker"><hi rend="bold">Aftrekker</hi>, onanist.
+</p><p><hi rend="bold">Aksie</hi> en <hi rend="bold">refaksie</hi>, last en schade. Ga jij maar pleite (weg) met de kooler (trein), ik ga met de batterik (boot) dan heb je niks geen aksie of refaksie.
+</p><p id="amper"><hi rend="bold">Amper</hi>, nauwelijks.
+</p><p id="arres"><hi rend="bold">Arres</hi>, vrees, angst. In arres zitten. (In angst zitten).
+</p><p id="askelen"><hi rend="bold">Askelen</hi>, handelen; koopen en verkoopen.
+</p><p id="askenen"><hi rend="bold">Askenen</hi>, stelen, bestelen. Zeg mokkeltje, ik heb een mooie gooser voor je meegebracht, dien kan je askenen. Wel 60 goosers zijn dien dag geaskend.
+</p><p id="attenoj"><hi rend="bold">Attenoj</hi>, hemel, zeg, kijk, als uitroep. Attenoj donder op (zeg ga weg). Attenoj daar komen Heintje en Pastoortje. (Hemel, daar komen twee bekende rechercheurs).
+</p><p id="averkoot"><hi rend="bold">Averkoot</hi>, zak, beurs.
+</p><p id="azen"><hi rend="bold">Azen</hi>, twee &#233;&#233;nen werpen (bij &#8217;t dobbelen).
+
+
+</p></div1><div1 id="b" n="B" type="Chapter"><head>B.</head><p id="baardaap"><hi rend="bold">Baardaap</hi>, bijzonder leelijke vrouw of een knappert (revolver) die niet schreeuwt (geen knal geeft).
+</p><p id="badderen"><hi rend="bold">Badderen</hi>, zwemmen.
+</p><p id="bajes"><hi rend="bold">Bajes</hi>, winkel, huis, gevangenis.
+</p><p id="bajeskar"><hi rend="bold">Bajeskar</hi> of <hi rend="bold">bajeswagen</hi>, celwagen.
+</p><p id="bajesklant"><hi rend="bold">Bajesklant</hi>, iemand die veel in de gevangenissen terecht komt.
+</p><p><hi rend="bold">Bak</hi>, kop.
+
+<table><row><cell rows="1" cols="1">Een bak zog,                 </cell><cell rend="image(images/brace4.gif) valign(middle)" rows="4" cols="1"/><cell rend="valign(middle)" rows="4" cols="1">een kop koffie<corr>.</corr></cell></row><row><cell rows="1" cols="1"><ditto>Een bak</ditto> slobber,</cell></row><row><cell rows="1" cols="1"><ditto>Een bak</ditto> zweet,</cell></row><row><cell rows="1" cols="1"><ditto>Een bak</ditto> leut,</cell></row></table>
+</p><p id="bak"><hi rend="bold">Bak</hi>, verzinsel. Een bak zetten (een verhaal opdisschen).
+</p><p id="balbes"><hi rend="bold">Balbes</hi>, huisbaas. (Bollebof).
+</p><p id="baldoveren"><hi rend="bold">Baldoveren</hi>, klikken, nakijken. Pas op dat je niet gebaldoverd (nagekeken) wordt.
+</p><p id="baljisrool"><hi rend="bold">Baljisrool</hi>, (zie <ref target="basserool">Basserool</ref>).
+</p><p id="bamser"><hi rend="bold">Bamser</hi>, (bamboesjeur). Een uitgaander; kroeglooper.
+<pb n="7"/></p><p id="bangmakertje"><hi rend="bold">Bangmakertje</hi>, in zijn bangmakertje staan (ontkleed staan, als gereed om te vechten).
+</p><p id="banjer"><hi rend="bold">Banjer</hi>, heer.
+</p><p id="banken"><hi rend="bold">Banken</hi>, kaartspel (vingt et un).
+</p><p id="bankie"><hi rend="bold">Bankie</hi>, bank. Een bankie zetten (een spelletje banken).
+</p><p id="barrasch"><hi rend="bold">Barrasch</hi>, schurft.
+</p><p id="bas"><hi rend="bold">Bas</hi>, stuiver, 5 spie. Kimmel bas (3 stuiver). Joet bas (10 stuivers). Geef me een bas bier.
+</p><p id="basserool"><hi rend="bold">Basserool</hi>, Heer; chef. Deisje (stil!) voor den basserool. (Neem je in acht voor dien meneer).
+</p><p id="bast"><hi rend="bold">Bast</hi>, lijf. Hij had geen goed stuk kleeren aan zijn bast.
+</p><p id="batterik"><hi rend="bold">Batterik</hi>, schip, schuit, stoomboot. Ik heb hem met een batterik pleite moeten maken (weg moeten helpen).
+</p><p><hi rend="bold">Bauernf&#228;nger</hi>, kwartjesvinder.
+</p><p id="bavianen"><hi rend="bold">Bavianen</hi>, hard werken; in &#8217;t bijz. kolentremmen op een groote boot.
+</p><p id="bazaar"><hi rend="bold">Bazaar</hi>, politiebureau.
+</p><p id="bedibberen"><hi rend="bold">Bedibberen</hi>, zeggen, praten, vertellen; ook: bedotten. Noppes bedibberen (houd je mond).
+</p><p id="bedissen"><hi rend="bold">Bedissen</hi>, verdienen, (stelen). Weet je wat te bedissen? Ja, ik weet een mooie val (huis).
+</p><p>De Prinserij komt altijd, als er niets meer te bedissen (aan de hand) is.
+</p><p id="bedist"><hi rend="bold">Bedist</hi>, verdiend (gestolen). Kan ik het helpen, dat er zoo weinig bedist wordt?
+</p><p id="begieten"><hi rend="bold">Begieten</hi>, bevreesd. Je bent toch niet begieten, dat zaakje op te knappen?
+</p><p>Hij durft niet te seinen (informeeren) niet te dekken en niet aan te nemen (bij het zakkenrollen) ook, hij is veel te begieten voor de bajes (gevangenis).
+</p><p id="beginnem"><hi rend="bold">Beginnem</hi>, spotprijs. &#8217;t Is voor een beginnem te krijgen.
+</p><p id="begoulesj"><hi rend="bold">Begoulesj</hi>, veneriek.
+</p><p id="behaai"><hi rend="bold">Behaai</hi>, lawaai, drukte.
+</p><p id="behaaimaker"><hi rend="bold">Behaaimaker</hi>, levenmaker.
+</p><p id="beheime"><hi rend="bold">Beheime</hi>, beest, dier, vee. <lb/>Kijk wat slaat-ie dat arme beheime.
+<pb n="8"/></p><p id="behojje"><hi rend="bold">Behojje</hi>, vrouwel. schaamdeelen.
+</p><p id="behojjebikker"><hi rend="bold">Behojjebikker</hi>, een kerel, die leeft (bikt) van het zedeloos bedrijf van zijn vrouw of meid.
+</p><p>Ook een scheldnaam voor den houder van een caf&#233; met dames. (Zie <ref target="kutpooier">Kutpooier</ref>).
+</p><p id="beis-1"><hi rend="bold">Beis</hi>, straat, buurt, volksbuurt.
+
+<list rend="columns(2)"><item>Foeliebeis</item><item>Kinkerbeis</item><item>Willemsbeis</item><item>Bloembeis</item><item>Monnikenbeis</item><item>Ridderbeis</item><item>Jonkerbeis</item><item>enz.</item></list>
+</p><p id="beis-2"><hi rend="bold">Beis</hi>, telwoord <hi>twee</hi>. Beis hondjes, (2 dubbeltjes). Beis meier (&#402;200).
+</p><p id="beis-3"><hi rend="bold">Beis</hi>, valsche omwegen. Maak geen beis met mij, leid me niet om den tuin.
+</p><p id="beisko"><hi rend="bold">Beisko</hi>, jood, snees, of in &#8217;t algemeen iemand dien men in zijn zaak betrekt. Deis je voor den beisko. (Neem je in acht voor den opkooper).
+</p><p id="beizen"><hi rend="bold">Beizen</hi>, oogen. Die vrijer knijst (kijkt) link (loos) uit zijn beizen.
+</p><p id="beizie"><hi rend="bold">Beizie</hi>, dubbeltje.
+</p><p id="beizige"><hi rend="bold">Beizige</hi>, met zijn beizige, met zijn twee&#235;n.
+</p><p id="beizig-dollet"><hi rend="bold">Beizig dollet</hi>, (2 &#215; 4 = 8).
+</p><p id="beizig-kimmel"><hi rend="bold">Beizig kimmel</hi>, (2 &#215; 3 = 6).
+</p><p id="bekaan"><hi rend="bold">Bekaan</hi> of <hi rend="bold">Pekaan</hi>, hier. Noppes bekaan. (Hier is niets; niets aanwezig).
+</p><p id="bekattering"><hi rend="bold">Bekattering</hi>, uitbrander, berisping, bekeuring.
+</p><p id="beknijsd"><hi rend="bold">Beknijsd</hi>, bekend. Beknijsd bij de prinserij (bekend bij de politie).
+</p><p id="beknijzen"><hi rend="bold">Beknijzen</hi>, bekijken.
+</p><p id="bekwaam"><hi rend="bold">Bekwaam</hi>, al de bekwame jongens (ervaren dieven) wonen in de Nes.
+</p><p id="bel"><hi rend="bold">Bel</hi>, groot glas.
+</p><p id="belabberd"><hi rend="bold">Belabberd</hi>, beroerd, ellendig. &#8217;s Morgens sta je half belabberd op, en knijst uit je doppen als een verzopen mauwerik (kat).
+</p><p id="belatafeld"><hi rend="bold">Belatafeld</hi>, belazerd, zot. Ben je belatafeld? ook <hi>belaaitafeld</hi>.
+<pb n="9"/></p><p id="bemore"><hi rend="bold">Bemore</hi>, bevreesd, (zie <ref target="morig">Morig</ref>).
+</p><p id="bengel"><hi rend="bold">Bengel</hi>, een tik met een bengel, (een horloge met ketting of signetten).
+</p><p id="benosselen"><hi rend="bold">Benosselen</hi>, zie <ref target="nosselen">nosselen</ref>.
+</p><p id="bensen"><hi rend="bold">Bensen</hi>, drinken.
+</p><p id="beseibelen"><hi rend="bold">Beseibelen</hi>, bedriegen.
+</p><p id="besjoche"><hi rend="bold">Besjoche</hi>, zie <ref target="mesjoche">Mesjoche</ref>.
+</p><p id="besjoechem"><hi rend="bold">Besjoechem</hi>, loos, bij de hand. Die een beetje besjoechem is maakt wel dat hij op tijd te bikken (eten) heeft.
+</p><p id="besjoechen"><hi rend="bold">Besjoechen</hi>, verliefd. Je ziet wel, hoe besjoechen zij op mij is.
+</p><p id="besjolemen"><hi rend="bold">Besjolemen</hi>, betalen. Besjoolmd, (betaald). Als je besjoolmt, dan kun je slapen.
+</p><p id="besluit"><hi rend="bold">Besluit</hi>, vrouwel. schaamdeelen.
+</p><p id="betoeft"><hi rend="bold">Betoeft</hi>, goed weg. Die is betoeft, hij heb een paar meier op ze kippen. (Die is goed af, hij heeft een paar honderd gulden voor zijn aandeel). Spottend wordt van iemand die getrouwd is gezegd: Hij is betoeft.
+</p><p><hi rend="bold">Betoeg(d)</hi>, gered, uit den brand, rijk. Een betoege goozer, (een rijke kerel).
+</p><p id="betoft"><hi rend="bold">Betoft</hi>, onder dak. Als ik jou spi&#235;en had, was ik wel half betoft of heel.
+</p><p><hi rend="bold">Bevroren hond</hi>, gebochelde.
+</p><p id="bezaar"><hi rend="bold">Bezaar</hi>, politiebureau.
+</p><p id="bezarretje"><hi rend="bold">Bezarretje</hi>, bekeuring. Ze hebben beide een bezarretje gekregen.
+</p><p id="bezokke"><hi rend="bold">Bezokke</hi> of <hi rend="bold">Besjoche</hi>, gek. (Zie <ref target="mesokke">Mesokke</ref>).
+</p><p id="bezoles"><hi rend="bold">Bezoles</hi>, ziek, bedorven, kapot. (Zie <ref target="mezoles">Mezoles</ref>).
+</p><p id="bezolletje"><hi rend="bold">Bezolletje</hi>, koopje. Je hebt er een bezolletje aan.
+</p><p id="bezommen"><hi rend="bold">Bezommen</hi>, geld. (Zie <ref target="mezoomen">Mezommen</ref>).
+</p><p id="biet"><hi rend="bold">Biet</hi>, suiker. Hij peest in de biet, (hij werkt in suiker).
+</p><p id="bivakken"><hi rend="bold">Bivakken</hi>, in de open lucht slapen.
+</p><p id="bivakker"><hi rend="bold">Bivakker</hi>, daklooze.
+</p><p id="bikken"><hi rend="bold">Bikken</hi>, eten, smullen. Hij bikt van zijn niese (meid).
+</p><p><hi rend="bold">Bikken-cement</hi>, warm eten; ook <hi>bikkesment</hi>.
+<pb n="10"/></p><p id="bikker"><hi rend="bold">Bikker</hi>, smulpaap.
+</p><p id="bikkesment"><hi rend="bold">Bikkesment</hi>, eten; warm eten. Zeg nou niet, dat jij alleen voor &#8217;t bikkesment zorgt.
+</p><p id="bink"><hi rend="bold">Bink</hi>, man.
+</p><p id="binnenkomen"><hi rend="bold">Binnenkomen</hi>, in de gevangenis geraken.
+</p><p id="binnenmeeluk"><hi rend="bold">Binnenmeeluk</hi>, binnenzak.
+</p><p><hi rend="bold">Binnen mikken</hi>, geborgen. Die zijn binnen mikken, (die hebben genoeg).
+</p><p id="blad"><hi rend="bold">Blad</hi>, dak van een huis. Ze gaan met een nijf (mes) het blad op.
+</p><p><hi rend="bold">Blauw laken</hi>, lood.
+</p><p id="bobbert"><hi rend="bold">Bobbert</hi>, lichaam, lijf. Op zijn bobbert krijgen (slaag).
+</p><p id="boddie"><hi rend="bold">Boddie</hi>, lijf.
+</p><p id="boender"><hi rend="bold">Boender</hi>, smeerpoes, vuilik.
+</p><p id="bokkenvreter"><hi rend="bold">Bokkenvreter</hi>, veertig gulden.
+</p><p id="bokkepoot"><hi rend="bold">Bokkepoot</hi>, marinier.
+</p><p id="boks"><hi rend="bold">Boks</hi>, broek.
+</p><p id="boldoveren"><hi rend="bold">Boldoveren</hi>, zie <ref target="baldoveren">Baldoveren</ref>.
+</p><p id="bollebof"><hi rend="bold">Bollebof</hi>, de baas. De bollebof van de keet, (de chef van de zaak).
+</p><p>Commissaris van Politie; Directeur van een gevangenis; kostbaas; kastelein.
+</p><p>De bollebof van de luimkeet, (de kastelein van de slaapstee).
+</p><p>Die bakker is een godinne bollebof, (een flinke kostbaas).
+</p><p id="bolleboffin"><hi rend="bold">Bolleboffin</hi>, kasteleines.
+</p><p id="bommelen"><hi rend="bold">Bommelen</hi>, dobbelen.
+</p><p id="bommelaar"><hi rend="bold">Bommelaar</hi>, dobbelaar.
+</p><p id="bonjer-1"><hi rend="bold">Bonjer</hi>, gesnapt. Als ik weer bonjer kom (gesnapt word), is het jou schuld.
+</p><p>Zij werden bonjer geslagen, (verraden aan de politie).
+</p><p>De snees (opkooper), wil ook niet graag bonjer worden.
+</p><p id="bonjer-2"><hi rend="bold">Bonjer</hi>, ruzie, schuld. Je moet noodig nog bonjer tegen me maken. Ik heb nooit bonjer met hem gehad. Hij gooide de bonjer op mijn. Hij is bonjer. (Hij is gesnapt). Hij legde mij alle bonjer in de schoenen. (Hij gaf mij overal de schuld van).
+<pb n="11"/></p><p id="bonk"><hi rend="bold">Bonk</hi>, leugen, verzinsel.
+</p><p id="bonsen"><hi rend="bold">Bonsen</hi> of <hi rend="bold">Bonzen</hi>, aardappelen.
+</p><p id="boosjer"><hi rend="bold">Boosjer</hi> of <hi rend="bold">Boosor</hi>, vleesch.
+</p><p><hi rend="bold">Boot afhouden</hi>, lijntrekken. De dokter zegt dat is maar boot afhouden (voorgewend ziek zijn om vrij van werk te komen).
+</p><p id="borjen"><hi rend="bold">Borjen</hi>, (zie <ref target="jenner">jenner</ref>). Een medespeler voor de leus, die tot het complot der kwartjes-vinders behoort.
+</p><p id="boterpapiertje"><hi rend="bold">Boterpapiertje</hi>, huwelijksbewijs. Wij hebben geen boterpapiertje noodig.
+</p><p id="botten"><hi rend="bold">Botten</hi>, eten. Botten en bensen (eten en drinken).
+</p><p id="bout"><hi rend="bold">Bout</hi>, agent van politie, (koperen bout).
+</p><lg type="Group"><l>Hij is van koper, en niet van goud,
+    </l><l>Daarom noemen ze&#8217;m, de koperen bout.</l></lg><p>De bouten scharrelen hier erg in de beis, (straat of buurt).
+</p><p id="bouten"><hi rend="bold">Bouten</hi>, zich ontlasten, een groote boodschap verrichten.
+</p><p id="boutje"><hi rend="bold">Boutje</hi>, potje, sommetje. Ik waag dat boutje.
+</p><p id="boutkitje"><hi rend="bold">Boutkitje</hi>, privaat.
+</p><p id="bovenkruis"><hi rend="bold">Bovenkruis</hi>, sleutel. (Zie <ref target="kienen">kienen</ref>).
+</p><p id="bovenmeester"><hi rend="bold">Bovenmeester</hi>, commissaris van Politie.
+</p><p id="braceletten"><hi rend="bold">Braceletten</hi>, handboeien. (Paternosters).
+</p><p id="brand"><hi rend="bold">Brand</hi>, hij heb de brand. (Hij is dronken).
+</p><p id="branderig"><hi rend="bold">Branderig</hi>, heet, belust. Hij staat branderig op mijn joekel (hij heeft veel zin in mijn hond).
+</p><p id="brandspinozer"><hi rend="bold">Brandspinozer</hi>, brandkast.
+</p><p id="branie"><hi rend="bold">Branie</hi>, heer, praatsmaker.
+</p><p id="brankalie"><hi rend="bold">Brankalie</hi>, kaalhoofd.
+</p><p id="brasem"><hi rend="bold">Brasem</hi>, kerel. Wat een olmse brasem is dat. (Wat een gekke kwast is dat).
+</p><p id="brassen"><hi rend="bold">Brassen</hi>, verlangen, hunkeren.
+</p><p id="brasser"><hi rend="bold">Brasser</hi>, lokduif.
+</p><p id="breektiejijs"><hi rend="bold">Breektiejijs</hi>, breekijzer.
+</p><p id="brem"><hi rend="bold">Brem</hi>, chocolade.
+</p><p id="broeier"><hi rend="bold">Broeier</hi>, zwerver, daklooze.
+<pb n="12"/></p><p id="broekmeeluk"><hi rend="bold">Broekmeeluk</hi>, broekzak.
+</p><p id="broochem"><hi rend="bold">Broochem</hi>, voorwerp, goederen. Massel en broochem (goede zaken).
+</p><p id="broocher"><hi rend="bold">Broocher</hi> of <hi rend="bold">Broger</hi>, man. Een sikkere broger (een dronken man).
+</p><p id="brommer"><hi rend="bold">Brommer</hi>, ketel. Een loensche brommer (een koperen ketel).
+</p><p id="bronzen"><hi rend="bold">Bronzen</hi>, slapen.
+</p><p id="bruggetrekker"><hi rend="bold">Bruggetrekker</hi>, leeglooper.
+</p><p id="bruintje"><hi rend="bold">Bruintje</hi>, bier.
+</p><p id="buiter"><hi rend="bold">Buiter</hi>, dronkaard.
+</p><p id="buizen"><hi rend="bold">Buizen</hi>, drinken, zuipen.
+</p><p id="bulboef"><hi rend="bold">Bulboef</hi>, (zie <ref target="bollebof">Bollebof</ref>).
+</p><p id="bulle"><hi rend="bold">Bulle</hi>, kleeren. Mooie bullen, (zie <ref target="spulle"><corr sic="spullen">Spulle</corr></ref>).
+</p><p id="bult"><hi rend="bold">Bult</hi>, bed. Bultzak, beddezak.
+</p><p id="bulten"><hi rend="bold">Bulten</hi>, bevallen. Dat niese moet bulten.
+</p><p id="bijbel"><hi rend="bold">Bijbel</hi>, spel kaarten.
+</p><p id="bijl"><hi rend="bold">Bijl</hi>, balie. Ik moet voor de bijl (voor &#8217;t gerecht).
+</p><p id="bijt"><hi rend="bold">Bijt</hi>, teleurstelling. Hij ging uit jatten (stelen) maar liep een bijt op. De grandige had een bijt. (De agent kwam bekaaid weg).
+</p><p id="bijter"><hi rend="bold">Bijter</hi>, nijptang.
+
+
+</p></div1><div1 id="c" n="C" type="Chapter"><head>C.</head><p id="cabanes"><hi rend="bold">Cabanes</hi>, herrie.
+</p><p id="casavie"><hi rend="bold">Casavie</hi>, brief, bankbiljet.
+</p><p id="cenijve"><hi rend="bold">Cenijve</hi>, brand.
+</p><p id="chocoladewagen"><hi rend="bold">Chocoladewagen</hi>, celwagen.
+</p><p id="citroendraaier"><hi rend="bold">Citroendraaier</hi>, gebochelde. (Krates, kriek).
+</p><p id="couchee"><hi rend="bold">Couchee</hi>, bed.
+</p><p id="croupier"><hi rend="bold">Croupier</hi>, kashouder van dobbelaars.
+
+
+</p></div1><div1 id="d" n="D" type="Chapter"><head>D.</head><p id="daai-1"><hi rend="bold">Daai</hi>, klap.
+</p><p id="daai-2"><hi rend="bold">Daai</hi>, steen, dobbelsteenen, diamant, ook keien. Ik koop van alles: een stelletje foks (een partijtje goud) of een <pb n="13"/>paar daaien. Een veemsteker (ring) met daai. Hij rolde met z&#8217;n test (hoofd) tegen de daaien. Een loensche daai (een valsche diamant).
+</p><p id="daaitje"><hi rend="bold">Daaitje</hi>, steentjes, diamanten, keitjes.
+</p><p id="daas"><hi rend="bold">Daas</hi>, zot, krankzinnig. Als hij maar niet zoo daas is geweest, hard weg te tippelen. Zou je niet zeggen met een stel dazen uit Meerenberg te doen te hebben?
+</p><p id="dajem"><hi rend="bold">Dajem</hi>, eed. Loensche dajem (valsche eed).
+</p><p id="dalf"><hi rend="bold">Dalf</hi>, op de dalf van (gebedeld van).
+</p><p>Hij drinkt een jajempie (slokje) op de dalf van een ander.
+</p><p id="dalfenoor"><hi rend="bold">Dalfenoor</hi>, (zie <ref target="dalver">dalver</ref>).
+</p><p id="dallastdekker"><hi rend="bold">Dallastdekker</hi>, armoedzaaier.
+</p><p id="dalles"><hi rend="bold">Dalles</hi>, armoede. Hij heb de dalles. (Hij is aan lager wal) (zie <ref target="gedallist">gedallist</ref>).
+</p><p id="dallet"><hi rend="bold">Dallet</hi>, 4.
+</p><p id="dalven"><hi rend="bold">Dalven</hi>, (dalleven, dalfen), bedelen, schooien, ook zwerven.
+</p><p id="dalver"><hi rend="bold">Dalver</hi>, (dalfer), zwerver, landlooper, bedelaar, ook dalfenoor. Een sjofele dalfenoor (een arme drommel).
+</p><p id="dampen"><hi rend="bold">Dampen</hi>, iemand de dampen aandoen (de pest injagen).
+</p><p id="dansspiese"><hi rend="bold">Dansspiese</hi>, danshuis.
+</p><p id="darren"><hi rend="bold">Darren</hi>, sarren, tarten. Laat je niet darren.
+</p><p id="dein"><hi rend="bold">Dein</hi>, Plezier<corr sic=".">,</corr> (zie <ref target="dijn">dijn</ref>).
+</p><p id="deinzen"><hi rend="bold">Deinzen</hi>, afzakken. De sooger deinst. (De kerel zakt af, gaat weg).
+</p><p id="deisje"><hi rend="bold">Deisje</hi>, (deize), stil! Hou je mond. Spreek niet zoo luid. Deize voor den vrijer (kerel), die daar steunt (zit).
+</p><p id="deken-1"><hi rend="bold">Deken</hi>, grasveld. Daar ligt een goozer (man) op de deken (in het gras). Die heeft vast poen (geld) bij zich.
+</p><p id="deken-2"><hi rend="bold">Deken</hi> (<hi rend="bold">groene</hi>), het gras. Luimen op de groene deken. (Op &#8217;t gras slapen).
+</p><p id="dekkel"><hi rend="bold">Dekkel</hi>, politieagent.
+</p><p id="dekken"><hi rend="bold">Dekken</hi>, aan &#8217;t gezicht of gehoor onttrekken. De persoon, die genomen wordt, staat tusschen den roller en den dekker. Gedekt smoezen (zacht praten).
+<pb n="14"/></p><p id="dekkie"><hi rend="bold">Dekkie</hi> of <hi rend="bold">Detje</hi>, halve cent.
+</p><p id="derig"><hi rend="bold">Derig</hi>, grond, aardoppervlakte, ook weg. Een linke derig, (een slechte weg). Een toffe derig (een goede weg). Schoren of poen onder de derig gewoer maken (goederen of geld onder den grond stoppen). Ga de derig maar op. (Ga maar de straat op). Ik ga de derig op. (Ik ga op stap of op reis).
+</p><p id="detje"><hi rend="bold">Detje</hi>, halve cent.
+</p><p id="deurkienen"><hi rend="bold">Deurkienen</hi>, sleutels voor deuren. (Zie <ref target="kienen">Kienen</ref>).
+</p><p id="dief"><hi rend="bold">Dief</hi>, verkorting van hartedief. Jonge, wat een mooie dief (mooie vrouw) is dat.
+</p><p id="dinkelen"><hi rend="bold">Dinkelen</hi>, (zie <ref target="tippelen">tippelen</ref>).
+</p><p id="disch"><hi rend="bold">Disch</hi>, tafel.
+</p><p id="dobberen"><hi rend="bold">Dobberen</hi>, (zie <ref target="doppen-1">Doppen</ref>), vechten. Ze waren aan het dobberen, omdat Jaap aan Lukas zijn prames (aandeel) niet gegeven had.
+</p><p id="doei"><hi rend="bold">Doei</hi>, honger. Als ik mijn nefke zag smikkelen, vergat ik mijn doei en mijn armoe.
+</p><p id="doerak"><hi rend="bold">Doerak</hi>, deugniet. Wat dee ze zich aan zoo&#8217;n doerak te vergooien.
+</p><p id="dofferd"><hi rend="bold">Dofferd</hi>, klap, maar ook ketel.
+</p><p>Een rooie dofferd (een ketel van rood koper).
+</p><p>Een gele dofferd (een ketel van geel koper).
+</p><p><hi rend="bold">Dof gajes</hi>, loos volk, rechercheurs.
+</p><p id="doft"><hi rend="bold">Doft</hi>, knap, netjes. Dofte flep (goede papieren).
+</p><p id="dokken"><hi rend="bold">Dokken</hi>, afdokken, betalen.
+</p><p id="dold"><hi rend="bold">Dold</hi> of <hi rend="bold">Dollet</hi>, zie <ref target="dallet">dallet</ref>, 4. Hij zit weer voor dollet jantjes (4 jaar) in de bajes. Dold meier (&#402; 400).
+</p><p id="dollen"><hi rend="bold">Dollen</hi>, groot doen (b.v. met geld rammelen).
+</p><p id="dolmen"><hi rend="bold">Dolmen</hi>, slapen.
+</p><p id="dolmspiese"><hi rend="bold">Dolmspiese</hi>, slaapstee.
+</p><p id="dolver"><hi rend="bold">Dolver</hi>, boksijzer.
+</p><p><hi rend="bold">Doorgefourneerd lommerdbriefje</hi>, hoer.
+</p><p id="doorslaan"><hi rend="bold">Doorslaan</hi>, bekennen, de zaak blootleggen. Ik heb niet doorgeslagen en zoodoende is hij vrijgekomen.
+<pb n="15"/></p><p><hi rend="bold">Doorslaan op een ander</hi>, alle schuld op een ander werpen. Lammetje had een hekel aan een jongen die doorgeslagen had.
+</p><p id="doorslaander"><hi rend="bold">Doorslaander</hi>, iemand die voor de rechtbank alles bekent.
+</p><p id="doortimmeren"><hi rend="bold">Doortimmeren</hi>, doorslaan.
+</p><p id="dopkien"><hi rend="bold">Dopkien</hi>, sleutel zonder gat. (Zie <ref target="kienen">kienen</ref>).
+</p><p id="doppen-1"><hi rend="bold">Doppen</hi>, vechten.
+</p><p id="doppen-2"><hi rend="bold">Doppen</hi>, oogen. Goed uit zijn doppen kijken. Hij wreef zich de doppen eens uit.
+</p><p id="dormen"><hi rend="bold">Dormen</hi>, luimen, slapen.
+</p><p id="dossement"><hi rend="bold">Dossement</hi>, papiergeld.
+</p><p id="dot"><hi rend="bold">Dot</hi>, groote hoeveelheid. Daar steunt een dot poen. (Daar zit een hoop geld).
+</p><p id="dravertje"><hi rend="bold">Dravertje</hi>, fiets, rijwiel.
+</p><p id="drenzen"><hi rend="bold">Drenzen</hi>, dreinen. Hij begon te drenzen als een klein kind.
+</p><p id="drosjes"><hi rend="bold">Drosjes</hi>, gekheid, onzin, malligheid.
+</p><p id="drossen"><hi rend="bold">Drossen</hi>, op den loop gaan. Mijn niese heeft &#8217;m stiekem gedrost (ze is stil weggeloopen).
+</p><p id="druif"><hi rend="bold">Druif</hi>, kerel. Wat is me dat voor een druif?
+</p><p id="drukken"><hi rend="bold">Drukken</hi>, zitten. Waar druk je voor?
+</p><p id="drukkerd"><hi rend="bold">Drukkerd</hi>, straf. Een haaie drukkerd (een zware straf).
+</p><p id="drutten"><hi rend="bold">Drutten</hi>, twee drie&#235;n werpen, (bij &#8217;t dobbelen).
+</p><p id="duimeling"><hi rend="bold">Duimeling</hi>, duim.
+</p><p id="duimen"><hi rend="bold">Duimen</hi>, (duimsen). Valsch spelen. Wat, duim ik ze? Zeg dat nog eens, dan zal ik je een smeer in je tronie geven.
+</p><p id="duimpje"><hi rend="bold">Duimpje</hi>, daalder, &#402;1.50.
+</p><p id="dun"><hi rend="bold">Dun</hi>, klare.
+</p><p id="dusken"><hi rend="bold">Dusken</hi>, kleine jongen.
+</p><p id="dijn"><hi rend="bold">Dijn</hi>, plezier. Hij lachte of hij de grootste dijn had.
+
+
+</p></div1><div1 id="e" n="E" type="Chapter"><head>E.</head><p id="edelvolk"><hi rend="bold">Edelvolk</hi>, beroepsdieven. (<corr sic="zie">Zie</corr> nobele).
+</p><p id="eegit"><hi rend="bold">Eegit</hi>, 1. Eegit jantje (1 jaar).
+<pb n="16"/></p><p id="eens"><hi rend="bold">Eens</hi>, achterdocht, vermoeden. De grandigers (politie) hebben eens op je.
+</p><p id="eesche"><hi rend="bold">Eesche</hi>, huismoeder, echtgenoote.
+</p><p id="ei"><hi rend="bold">Ei</hi>, Die werkt met een ei. (Hij heeft altijd geld, maar hoe hij er aan komt, is een raadsel).
+</p><p id="emmer"><hi rend="bold">Emmer</hi>, scheldnaam voor hoer.
+</p><p id="emmes"><hi rend="bold">Emmes</hi>, (zie <ref target="immes">Immes</ref>) goed. Een emmese lik (een deugdelijke gevangenis).
+</p><p id="engelschman"><hi rend="bold">Engelschman</hi>, Engelsche sleutel. (Zie <ref target="kienen">Kienen</ref>).
+</p><p id="engerd"><hi rend="bold">Engerd</hi>, vervelende vent.
+</p><p id="ertje"><hi rend="bold">Ertje</hi>, electrische schel.
+</p><p id="ezeltje-1"><hi rend="bold">Ezeltje</hi>, lessenaar. Loopend ezeltje (beweegbare lessenaar). Staand ezeltje (vaste lessenaar).
+</p><p id="ezeltje-2"><hi rend="bold">Ezeltje</hi>, winkellade. Hij heeft een ezeltje gepiept (een lade gelicht). Het ezeltje springt (de lade springt los).
+</p><p id="ezeltje"><hi rend="bold">Ezeltje</hi>, foulard, das. Een zijden ezeltje (een zijden das).
+</p><p id="ezeltjesdrijver"><hi rend="bold">Ezeltjesdrijver</hi>, ladenlichter.
+
+
+</p></div1><div1 id="f" n="F" type="Chapter"><head>F.</head><p id="fakkel"><hi rend="bold">Fakkel</hi>, brief, bedelbrief, brandbrief.
+</p><p id="fakkelen"><hi rend="bold">Fakkelen</hi>, schrijven, een brief schrijven.
+</p><p id="falle"><hi rend="bold">Falle</hi>, lichaamsgebrek.
+</p><p><hi rend="bold">Falle maken</hi>, een lichaamsgebrek voorwenden, om er mee te gaan dalfen, (bedelen).
+</p><p id="feemen"><hi rend="bold">Feemen</hi>, (zie <ref target="veemen">veemen</ref>) vingers, grijpelingen.
+</p><p><hi rend="bold">Fidel (letje)</hi>, vloo.
+</p><p id="fiets"><hi rend="bold">Fiets</hi>, 2 Rijksdaalders.
+</p><p id="fietsen-1"><hi rend="bold">Fietsen</hi>, handen, ook wel beenen. Daar zag ik Frans, met paternosters om ze fietsen. Hij had z&#8217;n keesje in z&#8217;n linkerfiets gespuwd.
+</p><p id="fietsen-2"><hi rend="bold">Fietsen</hi>, uitoefenen van de bijslaap. Dat niese is bezoles van het fietsen.
+</p><lg type="Group"><l>En als het fietsen is gedaan,
+    </l><l>Dan moet het meisje in de kraam.</l></lg><pb n="17"/><p id="filippie"><hi rend="bold">Filippie</hi>, tien gulden.
+</p><p id="fladder"><hi rend="bold">Fladder</hi>, krant, maar ook kaart. De Fladders (een spel kaarten).
+</p><p id="flapdrol"><hi rend="bold">Flapdrol</hi>, meid, waar geen boon aan gelegen is.
+</p><p><hi rend="bold">Flauwe kul</hi>, onzin.
+</p><p id="flens"><hi rend="bold">Flens</hi>, melk.
+</p><p id="flep"><hi rend="bold">Flep</hi>, getuigschrift. Dofte flep (goede papieren); linke flep (valsche papieren).
+</p><p id="flepje"><hi rend="bold">Flepje</hi>, papiertje, briefje. Een flepje van 100. Een groen flepje (&#402;40). Een geel flepje (&#402;25). Een ros flepje (&#402;60).
+</p><p id="flik"><hi rend="bold">Flik</hi>, krant. Daar zal wel een labe (een hoop) van in de flik steunen (in de krant staan).
+</p><p>Maar ook: spel kaarten. Kees is een jongen, die met de flik peest (met de kaarten werkt).
+</p><p id="flikflooier"><hi rend="bold">Flikflooier</hi>, mooidoener.
+</p><p id="flikker"><hi rend="bold">Flikker</hi>, vuilik, sodomieter; veel als scheldnaam gebezigd zonder bepaalde beteekenis. Het bennen flikkers hoor, die russen (rechercheurs), ze loopen altijd vlak achter je kont.
+</p><p id="flip"><hi rend="bold">Flip</hi>, lade, kast, waggon, etc.
+</p><p id="flok"><hi rend="bold">Flok</hi>, hemd.
+</p><p id="flonkewit"><hi rend="bold">Flonkewit</hi>, lekker eten.
+</p><p id="foelie"><hi rend="bold">Foelie</hi>, kerfstok. Je hebt veel op je foelie.
+</p><p id="fok"><hi rend="bold">Fok</hi>, rijk, ook wel bril. Een fokke vrijer (een rijke kerel). De goozer had een fok op ze penooze. (De man had een bril op zijn neus).
+</p><p id="foks"><hi rend="bold">Foks</hi>, goud. Het foks gaat in den pot (de smeltkroes) waar je bijstaat.
+</p><p>Een paar fokse bellen.
+</p><p id="fokse"><hi rend="bold">Fokse</hi>, me fokse (mijn schat).
+</p><p id="foksespiese"><hi rend="bold">Foksespiese</hi>, goudsmidswinkel.
+</p><p><hi rend="bold">Fokse oksenaar</hi>, gouden horloge.
+
+<table><row><cell rows="1" cols="1"><hi rend="bold">Fokse cent</hi>,      </cell><cell rend="image(images/brace3.gif) valign(middle)" rows="3" cols="1"/><cell rend="valign(middle)" rows="3" cols="1">gouden tientje.</cell></row><row><cell rows="1" cols="1"><hi rend="bold">Fokse schrabber</hi>,</cell></row><row><cell rows="1" cols="1"><hi rend="bold">Fokse spie</hi>,</cell></row></table>
+<pb n="18"/></p><p><hi rend="bold">Fokse medaille</hi>, dat niese is bekroond met de fokse medaille (er is niets meer aan die meid gelegen).
+</p><p><hi rend="bold">Fokse slang</hi>, gouden horlogeketting.
+</p><p><hi rend="bold">Foks-malogemer</hi>, goudsmidswerkplaats.
+</p><p><hi rend="bold">Fokse veemsteker</hi>, gouden vingerring.
+</p><p id="fonk"><hi rend="bold">Fonk</hi>, (zie <ref target="vonk">vonk</ref>). Licht.
+</p><p id="fonkert"><hi rend="bold">Fonkert</hi>, (zie <ref target="vonkert">Vonkert</ref>). Kachel.
+</p><p id="forts"><hi rend="bold">Forts</hi>, een kleinigheid, een duit. Ik geef er geen forts voor.
+</p><p id="frotterin"><hi rend="bold">Frotterin</hi>, smeerpoets, vuil wijf.
+
+
+</p></div1><div1 id="g" n="G" type="Chapter"><head>G.</head><p id="gaai"><hi rend="bold">Gaai</hi>, man.
+</p><p id="gabber"><hi rend="bold">Gabber</hi>, kameraad, vriend.
+</p><p id="gabbertaal"><hi rend="bold">Gabbertaal</hi>, taal der kameraden, Bargoensch.
+</p><p id="gabel"><hi rend="bold">Gabel</hi>, vork.
+</p><p id="gadjeener"><hi rend="bold">Gadjeener</hi>, slager.
+</p><p id="gaf"><hi rend="bold">Gaf</hi>, 20.
+</p><p id="gajes"><hi rend="bold">Gajes</hi>, (zie <ref target="gaai">gaai</ref>), volk, menschen. De steeg is vuil en het gajes, dat er steunt, zijn meestal luitjes van de universiteiten (gevangenissen). Dof gajes (loos volk, rechercheurs). Link gajes (niet te vertrouwen personen). Om gajes gaan (om zeep gaan, krepeeren). Het gajes is pleite (de bewoners zijn uit). Tof gajes (volk dat niet hindert, in tegenstelling met link gajes, politie).
+</p><p id="gakmoos"><hi rend="bold">Gakmoos</hi>, (zie <ref target="jatmoos">Jatmoos</ref>), handgeld, eerste inbeuring.
+</p><p id="galf"><hi rend="bold">Galf</hi>, mes.
+</p><p id="galg"><hi rend="bold">Galg</hi>, knip van een deur, ook: bretel. Onder- en bovengalg.
+</p><p id="gallach"><hi rend="bold">Gallach</hi>, pastoor, priester.
+</p><p id="galsterd"><hi rend="bold">Galsterd</hi>, gemeene kerel.
+</p><p id="gammel"><hi rend="bold">Gammel</hi>, ziek. Dat niese is zoo gammel als de pest, door en door kapot.
+</p><p id="gammor"><hi rend="bold">Gammor</hi>, domoor, ezel.
+</p><p id="gannef"><hi rend="bold">Gannef</hi>, dief, bedrieger.
+<pb n="19"/></p><p id="gannefen"><hi rend="bold">Gannefen</hi>, stelen, bedriegen.
+</p><p id="gappen"><hi rend="bold">Gappen</hi>, pakken, stelen.
+</p><p id="gasjewijnen"><hi rend="bold">Gasjewijnen</hi>, weggaan, er van door gaan. Sjewijn (fiets).
+</p><p><hi rend="bold">Gasse(r)</hi>, zwerver.
+</p><p id="gassenen"><hi rend="bold">Gassenen</hi>, trouwen.
+</p><p id="gasser"><hi rend="bold">Gasser</hi>, spek, ook zwijn.
+</p><p id="gasserol"><hi rend="bold">Gasserol</hi>, pet.
+</p><p id="gassie"><hi rend="bold">Gassie</hi>, pet of muts. Glimmend gassie (agent van Politie).
+</p><p id="gattes"><hi rend="bold">Gattes</hi>, deugniet.
+</p><p id="gavver"><hi rend="bold">Gavver</hi>, zie <ref target="gabber">Gabber</ref>. Kameraad.
+</p><p id="gebbetje"><hi rend="bold">Gebbetje</hi>, grapje, lolletje.
+</p><p><hi rend="bold">Gebeft gajes</hi>, Heeren van &#8217;t Gerecht.
+</p><p id="gebenscht"><hi rend="bold">Gebenscht</hi>, gezegend.
+</p><p id="gebrand"><hi rend="bold">Gebrand</hi>, gebrande jongen (iemand die veel op zijn kerfstok heeft).
+</p><p id="gebroedsel"><hi rend="bold">Gebroedsel</hi>, familie. Span, daar steunt gebroedsel van je. (Kijk, daar staat familie van je).
+</p><p id="gedagis"><hi rend="bold">Gedagis</hi>, iemand de gedagis ingeven. (Iemand de les lezen, hem inlichten of waarschuwen).
+</p><p id="gedallist"><hi rend="bold">Gedallist</hi>, op straat, op de keien, zonder geld. Ik ben (of ik sta) gedallist. Schei uit, ik ben net zoo gedallist als jij.
+</p><p id="gedekt"><hi rend="bold">Gedekt</hi>, aan het gezicht of het gehoor onttrokken. Hij staat gedekt. Gedekt smoezen. Houd je gedekt (zeg niets).
+</p><p id="gediegen"><hi rend="bold">Gediegen</hi> of <hi rend="bold">gedegen</hi>, bekend.
+</p><p id="gedoft"><hi rend="bold">Gedoft</hi>, gepoetst. Hij draagt altijd een paar gedofte hiepen (schoenen).
+</p><p id="gedrost"><hi rend="bold">Gedrost</hi>, op den loop gegaan. Ook: naar de bajes gebracht.
+</p><p id="geeltje"><hi rend="bold">Geeltje</hi>, bankbiljet van 25 gulden.
+</p><p id="geflescht"><hi rend="bold">Geflescht</hi>, beetgenomen. Ik heb hem geflescht.
+</p><p id="gefloten"><hi rend="bold">Gefloten</hi>, gestolen. Gefloten goederen.
+</p><p id="gehaaid"><hi rend="bold">Gehaaid</hi>, flink, ferm, handig, doorkneed. Een gehaaide jongen. Dat gaat hier gehaaid, hoor!
+</p><p id="gehad"><hi rend="bold">Gehad</hi>, bemachtigd. Ik heb gisteravond wat schooren gehad (goederen bemachtigd).
+<pb n="20"/></p><p id="gehandeld"><hi rend="bold">Gehandeld</hi>, gestolen. Hij had een paar stukkies blauw laken gehandeld (lood gestolen).
+</p><p id="geheibeld"><hi rend="bold">Geheibeld</hi>, gestoord.
+</p><p id="geilkenen"><hi rend="bold">Geilkenen</hi>, deelen.
+</p><p id="geiluk"><hi rend="bold">Geiluk</hi>, aandeel.
+</p><p id="gein"><hi rend="bold">Gein</hi>, pret, plezier. Ik had mijn grootste gein in dien ouwe.
+</p><p id="geintjes"><hi rend="bold">Geintjes</hi>, grappen, lolletjes.
+</p><p id="gekloft"><hi rend="bold">Gekloft</hi> ook wel <hi rend="bold">geklopt</hi>, gekleed of netjes gekleed. Hij loopt joven (mooi) gekloft, draagt een paar godinne (beste) hiepen (schoenen) en heeft een godinne gooferd (hoed) op. De heitjes-piejijzers loopen er gewoonlijk gekloft bij.
+</p><p id="geknipt"><hi rend="bold">Geknipt</hi>, aangehouden.
+</p><p id="gelicht"><hi rend="bold">Gelicht</hi>, gerold. Ik knijsde dat de vink werd gelicht. (Ik zag dat de portemonnaie werd gerold).
+</p><p id="gelitanieerd"><hi rend="bold">Gelitanieerd</hi>, gebruikt (gezegd van een vrouw). Als dat niese 10 of 12 maal op een avond gelitanieerd is, etc.
+</p><p id="gelooid"><hi rend="bold">Gelooid</hi>, sterk. Een gelooide gooser (een sterke kerel).
+</p><p><hi rend="bold">&#8217;t Gemot</hi>, &#8217;t Gerecht. Ik heb lieve zaakies gehad en nooit last van &#8217;t gemot.
+</p><p id="genifterd"><hi rend="bold">Genifterd</hi>, gedood.
+</p><p id="gepensionneerde"><hi rend="bold">Gepensionneerde</hi>, veeljarig gestrafte. Gepensionneerd met het fokse medaille (iemand, die 20 jaar gezeten heeft).
+</p><p id="gepiept"><hi rend="bold">Gepiept</hi>, gestolen.
+</p><p id="geplakt"><hi rend="bold">Geplakt</hi>, gevangen, gearresteerd.
+</p><p id="ges"><hi rend="bold">Ges</hi>, ook wel <hi rend="bold">get</hi> of <hi rend="bold">gis</hi>, 8. Ges knaken (8 rijksd.).
+</p><p id="geschaakt"><hi rend="bold">Geschaakt</hi>, gesnapt. Al wordt er een geschaakt, geen moed opgeven!
+</p><p id="gescheft"><hi rend="bold">Gescheft</hi> of <hi rend="bold">Gesjeft</hi>, een geschefte jongen (een, die reeds veel in de gevangenis is geweest).
+</p><p id="geschote"><hi rend="bold">Geschote</hi>, gezien, begrepen. Heit niemand je geschote?
+</p><p id="geseewerd"><hi rend="bold">Geseewerd</hi>, gestolen. Zie <ref target="gezeeferd">Gezeeferd</ref>.
+</p><p id="gesimpt"><hi rend="bold">Gesimpt</hi>, geschreid.
+</p><p id="gesjankt"><hi rend="bold">Gesjankt</hi>, getrouwd; ook gesnapt. Laat mijn meid geweest zijn, wie ze wil, nu is ze gesjankt, meneer.
+</p><p>Ben je met je niese gesjankt?
+<pb n="21"/></p><p id="gesjochten"><hi rend="bold">Gesjochten</hi>, arm.
+</p><p id="geslagen"><hi rend="bold">Geslagen</hi>, gestolen.
+</p><p id="geslikt"><hi rend="bold">Geslikt</hi>, gestolen.
+</p><p id="gesprongen"><hi rend="bold">Gesprongen</hi>, uitgegeven. Drie loensche (valsche) knaken (rijksd.) zijn er gesprongen.
+</p><p>Het ezeltje is gesprongen. (De lade is open gegaan).
+</p><p id="geteistem"><hi rend="bold">Geteistem</hi>, uitvaagsel. Wij komen niet meer met dat geteistem in aanraking.
+</p><p id="gevazel"><hi rend="bold">Gevazel</hi>, valsch spel.
+</p><p id="geweirim"><hi rend="bold">Geweirim</hi>, kameraden. Is dat je geweirim? (zijn dat je gabbers?)
+</p><p id="geweldje"><hi rend="bold">Geweldje</hi>, geweldpleging. Een krakie (inbraak) en een geweldje; &#8217;t wil wat zeggen ook.
+</p><p id="gewikst"><hi rend="bold">Gewikst</hi>, glad, slim, loos, scherpzinnig.
+</p><p id="gewoer"><hi rend="bold">Gewoer</hi> of <hi rend="bold">gewoerig maken</hi>, wegstoppen. Ik heb het gewoere gemaakt onder de derig (aardoppervlakte).
+</p><p id="gezeeferd"><hi rend="bold">Gezeeferd</hi> of <hi rend="bold">gesewerd</hi>, gestolen. Een kar met gezeeferd blauw laken (gestolen lood).
+</p><p id="gezopen"><hi rend="bold">Gezopen</hi>, beetgenomen.
+</p><p id="gibbissen"><hi rend="bold">Gibbissen</hi>, bijten. Dat joekel (hond) heb me in me fiets gegibbist.
+</p><p id="gies"><hi rend="bold">Gies</hi>, meid, dienstmaagd, vrouw.
+</p><p id="gif-1"><hi rend="bold">Gif</hi>, slim. Zoo gif binne we ook wel.
+</p><p id="gif-2"><hi rend="bold">Gif</hi> (<hi rend="bold">Kif</hi>), boosheid. De gooser sloeg alles kort en klein; dat komt door de kif.
+</p><p id="giftig"><hi rend="bold">Giftig</hi>, boos.
+</p><p id="gila"><hi rend="bold">Gila</hi>, spek.
+</p><p id="gilleskrauter"><hi rend="bold">Gilleskrauter</hi>, dief of inbreker op klaarlichten dag.
+</p><p id="gilkemen"><hi rend="bold">Gilkemen</hi>, <hi rend="bold">Gilkunnen</hi> of <hi rend="bold">Gilkanen</hi>, deelen. Zie <ref target="geilkenen">Geilkenen</ref>.
+</p><p id="gimme"><hi rend="bold">Gimme</hi>, boter.
+</p><p id="gis"><hi rend="bold">Gis</hi>, loos, verstandig. Hij is een gisse jongen; hij laat zich niet meevoeren.
+</p><p>Ook: onveilig. &#8217;t Is me hier een beetje al te gis. Zie ook <ref target="ges">Ges</ref>.
+</p><p id="glamonius"><hi rend="bold">Glamonius</hi>, ruit.
+<pb n="22"/></p><p><hi rend="bold">Glimmende gajes</hi>, politiemannen in uniform.
+</p><p><hi rend="bold">Glimmende gassie</hi>, agent van politie.
+</p><p id="glimmert"><hi rend="bold">Glimmert</hi>, politieagent.
+</p><p id="glimmerik"><hi rend="bold">Glimmerik</hi>, oog, ook politieagent. Ze hebben hem in de glimmerikken. Gekleurde glimmerikken (blauwe oogen).
+</p><p id="glonis"><hi rend="bold">Glonis</hi>, raam, glasruit. Kijk me die gooser daar zitten roojemen door die glonissen. (Kijk me dien vent daar zitten kijken door de ruiten).
+</p><p id="gnajen"><hi rend="bold">Gnajen</hi>, (<hi rend="bold">ngajin</hi>), 70.
+</p><p id="gnorel"><hi rend="bold">Gnorel</hi>, onbesnedene, christen. (Zie <ref target="orel">Orel</ref>).
+</p><p id="gochem"><hi rend="bold">Gochem</hi>, loos.
+</p><p id="godin"><hi rend="bold">Godin</hi>, oprecht, echt, vertrouwd, best. Een godinne jongen. Godin! ik weet het niet.
+</p><p>Jozef Godin (de eerlijke Jozef). Godinne schoren (kostelijke of eerlijk verkregen goederen).
+</p><p id="godinne"><hi rend="bold">Godinne</hi>, houd je goed!
+</p><p><hi rend="bold">Go&#239;m</hi>, christen.
+</p><p id="goj"><hi rend="bold">Goj</hi>, de mannelijkheid.
+</p><p><hi rend="bold">Gok bajes</hi>, speelhuis.
+</p><p id="gokken"><hi rend="bold">Gokken</hi>, spelen om geld.
+</p><p id="gokker"><hi rend="bold">Gokker</hi>, speler.
+</p><p id="goksie"><hi rend="bold">Goksie</hi>, voor de goksie (voor de grap).
+</p><p id="golof"><hi rend="bold">Golof</hi>, melk.
+</p><p id="gondel"><hi rend="bold">Gondel</hi>, dame. Frits is verschud (opgepakt); hij nam een vinkie (portemonnaie) met 23 centen van een gondel.
+</p><p>Ook: de achterzak op de japon van een dame. Daar zit een vinkie in die gondel. Kijk, wat een gondel, &#8217;t lijkt wel een gaper.
+</p><p>Ik besteedde mijn laatsten schrabber (cent) aan een kluif voor me gondel.
+
+<table><row><cell rows="1" cols="1"><hi rend="bold">Gondelbajes</hi>,  </cell><cell rend="image(images/brace3.gif) valign(middle)" rows="3" cols="1"/><cell rend="valign(middle)" rows="3" cols="1">Bordeel.</cell></row><row><cell rows="1" cols="1"><hi rend="bold">Gondelspiese</hi>,</cell></row><row><cell rows="1" cols="1"><hi rend="bold">Gondeltas</hi>,</cell></row></table>
+</p><p id="gons"><hi rend="bold">Gons</hi>, een steek, een por.
+</p><p id="goochem"><hi rend="bold">Goochem</hi>, loos.
+<pb n="23"/></p><p id="goochemerd"><hi rend="bold">Goochemerd</hi>, de rechter van instructie. Je moet voor den goochemerd kotsen (opbiechten).
+</p><p id="gooferd"><hi rend="bold">Gooferd</hi> of <hi rend="bold">Goofertje</hi>, hoed. Geef je goofertje maar hier!
+</p><p id="gooien"><hi rend="bold">Gooien</hi>, ik heb er alle kienen (sleutels) opgegooid (aangewend).
+</p><p id="goozer"><hi rend="bold">Goozer</hi>, kerel; ook vrijer. Een haaie goozer (een sterke kerel). Uitgaan op sikkere goozers (dronken kerels).
+</p><p>Heb je mijn goozer van avond nog gezien?
+</p><p>Kijk me die goozers eens tippelen.
+</p><p id="goozertjes"><hi rend="bold">Goozertjes</hi>, id. id., ik ga op de goozertjes tippelen.
+</p><p id="goozertippelaar"><hi rend="bold">Goozertippelaar</hi>, die bij avond op dronken lui uitgaat, om ze te berooven.
+</p><p><hi rend="bold">Gouden ploeg</hi>, groote dievenbende.
+</p><p id="gouden-regen"><hi rend="bold">Gouden regen</hi>, rijke buit.
+</p><p><hi rend="bold">Gouden spie</hi>, gouden tientje (fokse spie).
+</p><p id="goudvink"><hi rend="bold">Goudvink</hi>, officier.
+</p><p id="grammonen"><hi rend="bold">Grammonen</hi>, gereedschap voor inbraak.
+</p><p id="granderik"><hi rend="bold">Granderik</hi>, hemel.
+</p><p id="grandig"><hi rend="bold">Grandig</hi>, voornaam, deftig. Grandig gekloft of geklopt (deftig gekleed).
+</p><p id="grandige"><hi rend="bold">Grandige</hi>, heerschap. Zeg grandige, stiek (geef) me een bas (stuiver), dan heb ik net luimspie&#235;n (centen voor slaapgeld) genoeg.
+</p><p><hi rend="bold">Grandige(r)</hi>, politieman.
+</p><p><hi rend="bold">Grauwe erwten</hi>, hij is in de grauwe erwten gevallen (hij is mottig).
+</p><p id="grazen"><hi rend="bold">Grazen</hi>, iemand te grazen nemen (beetnemen, bedotten).
+</p><p id="greppel"><hi rend="bold">Greppel</hi>, grens. Over de greppel gaan. (Over de grens of naar &#8217;t buitenland gaan).
+</p><p id="gribus"><hi rend="bold">Gribus</hi>, gevangenis. Ook een verdachte steeg. Pas op dat je niet in die gribus gaat.
+</p><p id="grikse"><hi rend="bold">Grikse</hi>, wandluizen.
+</p><p id="grimmerigen"><hi rend="bold">Grimmerigen</hi>, lachen. Loek, de gooser grimmerigt. (Zie de vent lacht). Wat grimmerigt die gooser schijnheilig. (Wat lacht die kerel smerig).
+<pb n="24"/></p><p id="groen"><hi rend="bold">Groen</hi>, dom, onnoozel. Er zijn nog wel groene goosers onder de prinserij.
+</p><p><hi rend="bold">Groene deken</hi>, het gras. Luimen op de groene deken. (In &#8217;t gras slapen).
+</p><p id="groentjes"><hi rend="bold">Groentjes</hi>, onervaren jongens.
+</p><p id="grom-1"><hi rend="bold">Grom</hi>, klein.
+</p><p id="grom-2"><hi rend="bold">Grom</hi>, kleintje (kind). Dat niese zit met grom (is zwanger).
+</p><p id="grommerig"><hi rend="bold">Grommerig</hi>, jong, klein. Hij heeft zulke grommerige jatten (kleine handen), dat hij haai (goed) op de meeluk kan peezen (zakken rollen).
+</p><p id="grommetje"><hi rend="bold">Grommetje</hi>, kind. Bet heeft twee kleine grommetjes. Ze zit den heelen dag met de grommetjes opgescheept.
+</p><p>Ook meisje. Een grommetje waarschuwde hem, dat de vrijer (man) een nijf in zijn jat had.
+</p><p><hi rend="bold">Groot Bajes</hi>, strafgevangenis te Leeuwarden.
+</p><p id="grootlef"><hi rend="bold">Grootlef</hi>, hart, moed; ook wel goed geluk, avontuur. Op groot lef tippelen (zonder vrees, zonder iets te ontzien op diefstal uitgaan). Hij had bij &#8220;Moeke&#8221; een goede cent schuld; dus ging hij op groot lef tippelen. Ze hebben hem op grootlef geplakt (ze hebben hem op goed geluk aangehouden).
+</p><p><hi rend="bold">Groot-Mokum</hi>, Amsterdam.
+</p><p><hi rend="bold">Groote knoop</hi>, rijksdaalder.
+</p><p id="grijns"><hi rend="bold">Grijns</hi>, gezicht. Hij gaf den rus (rechercheur) een mekajem (klap) voor zijn grijns, dat ie tuimelde.
+</p><p id="grijnzen"><hi rend="bold">Grijnzen</hi>, huilen.
+</p><p id="grijpelingen"><hi rend="bold">Grijpelingen</hi>, vingers.
+
+
+</p></div1><div1 id="h" n="H" type="Chapter"><head>H.</head><p id="haai"><hi rend="bold">Haai</hi>, sterk, groot, bij de hand, geducht.
+</p><p>Een haaie gooser (een sterke kerel).
+</p><p>Er is een haaie brand op de Nieuwmarkt.
+</p><p>Hij is haai met de flik (de kaarten).
+</p><p>Een haaie lel. (Een groote borrel).
+</p><p>Een haaie drukker (een zware straf).
+<pb n="25"/></p><p id="habbekras"><hi rend="bold">Habbekras</hi>, bagatel. Voor een habbekras kwam hij weer in de lik (gevangenis).
+</p><p id="haberdoedas"><hi rend="bold">Haberdoedas</hi> (<hi rend="bold">appeldoedas</hi>), peuter, stomp, klap. Habe du das.
+</p><p id="hal"><hi rend="bold">Hal</hi>, politiebureau. St. Pietershal te Amsterdam. De kar met het gezeeferd blauw laken werd naar de hal gebracht.
+</p><p><hi rend="bold">Half meier</hi>, 50 gulden. (Meier, 100).
+</p><p><hi rend="bold">Half poppie</hi>, halve gulden.
+</p><p id="halfvast"><hi rend="bold">Halfvast</hi>, onzeker. Ik ga er halfvast op. (Ik ben er niet zeker van).
+</p><p id="hallas"><hi rend="bold">Hallas</hi> (<hi rend="bold">Halles</hi>), herrie, drukte.
+</p><p id="halvebroer"><hi rend="bold">Halvebroer</hi>, boezemvriend.
+</p><p><hi rend="bold">Halve rooderug</hi>, 500 gulden.
+</p><p id="ham"><hi rend="bold">Ham</hi> (<hi rend="bold">Heim</hi>), huis. Ik smeer hem (ga weg) naar ham.
+</p><p id="handje"><hi rend="bold">Handje</hi>, een handje geven (waarschuwen).
+</p><p id="handvol"><hi rend="bold">Handvol</hi>, 5 jaar. Ik wed, hij krijgt kimmel (3) jantjes (jaren). En ik wed, hij krijgt een handvol (5).
+</p><p>Twee handen vol (10 jaar).
+</p><p id="hassebassie"><hi rend="bold">Hassebassie</hi>, slokje.
+</p><p id="hebbedinge"><hi rend="bold">Hebbedinge</hi>, zaken.
+</p><p id="heetspeler"><hi rend="bold">Heetspeler</hi>, iemand, die met hartstocht speelt.
+</p><p id="heibel"><hi rend="bold">Heibel</hi>, drukte, rumoer, herrie, ruzie.
+</p><p id="heibelmaker"><hi rend="bold">Heibelmaker</hi>, ruziemaker.
+</p><p id="heilie"><hi rend="bold">Heilie</hi>, drukte. Wat maak je weer een heilie.
+</p><p id="heit"><hi rend="bold">Heit</hi>, 5. Heit jantjes (5 jaar). Heit meier (&#402; 500).
+</p><p><hi rend="bold">Heit en dollet</hi>, 5 + 4 = 9.
+</p><p id="heitje"><hi rend="bold">Heitje</hi>, 5 stuivers (kwartje). Ik zet er een heitje.
+</p><p><hi rend="bold">Heitjes-piejijzers</hi>, kwartjesvinders.
+</p><p id="helle"><hi rend="bold">Helle</hi>, wijs, slim.
+</p><p id="hengelen"><hi rend="bold">Hengelen</hi>, de klink van een deur etc. lichten met behulp van een ijzerdraad.
+</p><p id="hengs"><hi rend="bold">Hengs</hi>, uitroep, bij het toebrengen van een kopstoot.
+</p><p id="hengst"><hi rend="bold">Hengst</hi>, schok hem een hengst (geef hem een stoot of klap); kopstoot.
+<pb n="26"/></p><p id="hiep"><hi rend="bold">Hiep</hi>, schoen, ook wel klomp. Meneer had zoo goed als geen hiepen om de kleezen.
+</p><p id="hiepenmaker"><hi rend="bold">Hiepenmaker</hi>, schoenmaker.
+</p><p id="hintemer"><hi rend="bold">Hintemer</hi>, gemeene, vieze, ontuchtige kerel; sodomiter.
+</p><p id="hip"><hi rend="bold">Hip</hi>, avontuurtje; ook snol. Dat niese loopt op een hip. Ze kan hippies bij de vleet krijgen.
+</p><p><hi rend="bold">Hobbelbak met daaien</hi>, tafel waarop met dobbelsteenen gespeeld wordt.
+</p><p id="hoed"><hi rend="bold">Hoed</hi>, agent van politie.
+</p><lg type="Group"><l>Hoed, spuug bloed,
+    </l><l>Zooals de waterleiding doet.</l></lg><p id="hoek"><hi rend="bold">Hoek</hi>, brigadier van politie te Rotterdam. Dubbele Hoek (Majoor idem).
+</p><p id="hoerenkolkje"><hi rend="bold">Hoerenkolkje</hi>, Oudezijds Kolk, een grachtje b/d. Prins Hendrikkade te Amsterdam achter de St. Nicolaas kerk. Ik wou de vink in het Hoerenkolkje gooien toen ik merkte, dat er nog cassavies in steunden.
+</p><p id="hollanders"><hi rend="bold">Hollanders</hi>, sleutels met kruisen. Ze waren bezig eenige Hollanders uit te peezen (uit te vijlen). Zie <ref target="kienen">Kienen</ref>.
+</p><p id="hommeles"><hi rend="bold">Hommeles</hi>, twist.
+</p><p id="hondje"><hi rend="bold">Hondje</hi>, dubbeltje.
+</p><p id="hoofdsmeris"><hi rend="bold">Hoofdsmeris</hi>, Hoofdcommissaris van Politie.
+</p><p><hi rend="bold">Hoog gaan</hi>, gearresteerd worden (verschut gaan).
+</p><p id="hoogeschool"><hi rend="bold">Hoogeschool</hi>, gevangenis te Leeuwarden.
+</p><p id="hoogstapelaar"><hi rend="bold">Hoogstapelaar</hi>, spotnaam voor iemand, die een schijntje verdient. Schrijver van bedelbrieven in hoogdravenden en hartroerenden stijl.
+</p><p><hi rend="bold">Hotel Bellevue; id. de houten lepel etc.</hi>, gevangenis.
+</p><p id="hortsik"><hi rend="bold">Hortsik</hi>, paardevleesch. Ook: paardenslager.
+</p><p id="huidje"><hi rend="bold">Huidje</hi>, jas.
+</p><p id="huis"><hi rend="bold">Huis</hi>, verstand. Ben je dan heelemaal je huis kwijt?
+</p><p id="huppelwater"><hi rend="bold">Huppelwater</hi>, jenever.
+
+
+</p></div1><div1 id="i" n="I" type="Chapter"><head>I.</head><p id="iep"><hi rend="bold">Iep</hi>, musch. Een jonge iep.
+<pb n="27"/></p><p id="iezel"><hi rend="bold">Iezel</hi>, huis. Een leeg iezel (een onbewoond huis). Ik ga dat leege iezel op, om blauw (verkort voor blauw laken). Op de leege iezeltjes tippelen (op onbewoonde huizen uitgaan).
+</p><p id="immes"><hi rend="bold">Immes</hi>, (zie <ref target="emmes">emmes</ref>), goed, echt, prettig. Een immese lik (een goede gevangenis). Immese schooren (best goed).
+</p><p>Ook: heusch. Het is immes.
+</p><p>Als ik maar &#233;&#233;n neutje (slokje) gehad heb, voel ik me weer immes (lekker).
+</p><p>Knijs immes uit je lampies (kijk goed uit je oogen).
+</p><p id="inspringer"><hi rend="bold">Inspringer</hi>, opgeschoven raam.
+</p><p id="intippelen"><hi rend="bold">Intippelen</hi>, binnengaan.
+
+
+</p></div1><div1 id="j" n="J" type="Chapter"><head>J.</head><p id="jajem"><hi rend="bold">Jajem</hi>, jenever.
+</p><p id="jajemen"><hi rend="bold">Jajemen</hi>, drinken.
+</p><p id="jajemer"><hi rend="bold">Jajemer</hi>, drinkebroer.
+</p><p id="jajempie"><hi rend="bold">Jajempie</hi>, slokje, borrel.
+</p><p id="jandoedel"><hi rend="bold">Jandoedel</hi>, jenever.
+</p><p id="jantif"><hi rend="bold">Jantif</hi>, Paschen.
+</p><p id="jantje"><hi rend="bold">Jantje</hi>, jaar. Hij was pas ontslagen van 2 jantjes.
+</p><p id="jas"><hi rend="bold">Jas</hi>, een jas met staldeuren (een jacquet).
+</p><p>Een jas krijgen (slecht wegkomen; in &#8217;t ootje genomen worden). Hij heb een jas gehad (hij is voor den mal gehouden).
+</p><p>Iemand een jas geven (hem voor &#8217;t lapje houden, of hem erin laten vliegen). Zie <ref target="vrijzetter">Vrijzetter</ref>.
+</p><p id="jaspenen"><hi rend="bold">Jaspenen</hi>, zitten. Hij jaspent in de lik.
+</p><p id="jat"><hi rend="bold">Jat</hi>, hand. Wat een jatte heeft die! Doe weg die jat. Met de jat peezen. (De hand ophouden, bedelen).
+</p><p id="jatmoos"><hi rend="bold">Jatmoos</hi>, (ook jetmoos), handgeld. Heb je wat benosseld, van avond? Noppes (neen) &#8217;k heb den heelen dag getippeld en nog geen jatmoos gehad.
+</p><p id="jatmouzen"><hi rend="bold">Jatmouzen</hi>, kleinigheden stelen; die met de handen te grijpen zijn, bijv. appels, peren, een zakmes etc.
+</p><p id="jato"><hi rend="bold">Jato</hi>, agent van politie.
+<pb n="28"/></p><p id="jatten"><hi rend="bold">Jatten</hi>, stelen. Zie <ref target="jat">Jat</ref>.
+</p><p id="jatter"><hi rend="bold">Jatter</hi>, (ook jetter), dief. Die goozers zijn zelf de grootste jatters.
+</p><p id="jeile"><hi rend="bold">Jeile</hi> of <hi rend="bold">Jeilie</hi>, geschreeuw, ophef.
+</p><p>Maak er maar zoo&#8217;n jeilie niet van.
+</p><p id="jen"><hi rend="bold">Jen</hi>, grap. Voor de jen (voor de leus).
+</p><p id="jennen"><hi rend="bold">Jennen</hi>, spelen, liegen. Ik ga jennen. Jen wat voor me.
+</p><p id="jenner"><hi rend="bold">Jenner</hi>, speler. De jenner heeft de bank.
+</p><p>Ook: Quasi-toeschouwer, die mee in &#8217;t complot is, maar zich houdt als een vreemde; ongeveer als voerder, verlokker.
+</p><p id="jennetje"><hi rend="bold">Jennetje</hi>, leugen.
+</p><p id="jensen"><hi rend="bold">Jensen</hi>, gebruiken. Een niese (meid) jensen.
+</p><p id="jetje"><hi rend="bold">Jetje</hi>, ik gaf hem van Jetje (een pak slaag).
+</p><p id="job-1"><hi rend="bold">Job</hi>, onnoozel.
+</p><p id="job-2"><hi rend="bold">Job</hi>, schip, schuit, stoomboot. Hoe hard moest ik niet bavianen toen ik op die job was.
+</p><p id="joekel"><hi rend="bold">Joekel</hi> (tjoekel), hond. Daar is een joekel in de bajes.
+</p><p id="joentje"><hi rend="bold">Joentje</hi>, (zie <ref target="joetje">Joetje</ref>).
+</p><p id="joet"><hi rend="bold">Joet</hi>, 10. Beis joetjes (20). Hij heeft er al beis joetjes opzitten (20 jaar). Joet bas (10 stuiver); Joet meier &#402;1000.&#8212;.
+</p><p><hi rend="bold">Joet-beis</hi>, 12.
+</p><p><hi rend="bold">Joet-dold</hi>, 14.
+</p><p id="joeter"><hi rend="bold">Joeter</hi>, 10 stuivers (&#189; gld.).
+</p><p id="joetje"><hi rend="bold">Joetje</hi>, gouden tientje.
+</p><p id="jokef"><hi rend="bold">Jokef</hi>, Jozef.
+</p><p id="joosie"><hi rend="bold">Joosie</hi>, je zult er een joosie aan hebben (ik zal je maar gelijk geven).
+</p><p id="joven"><hi rend="bold">Joven</hi>, goed, mooi. Een joven ponum. (Een mooi gezicht).
+</p><p id="jouker"><hi rend="bold">Jouker</hi>, duur. 7 pietermannen (7 gld.) is toch niet te jouker. Een poenbroekie is nog jouker ook, op Kattenburg betaal je er 7&#189; piek voor.
+</p><p><hi rend="bold">Jozef godin</hi>, de brave Jozef.
+</p><p id="juutje"><hi rend="bold">Juutje</hi>, (zie <ref target="joetje">Joetje</ref>).
+</p><p id="jijles"><hi rend="bold">Jijles</hi>, drukte, moeilijkheid.
+
+
+<pb n="29"/></p></div1><div1 id="k" n="K" type="Chapter"><head>K.</head><p id="kaaien"><hi rend="bold">Kaaien</hi>, (zie <ref target="kajemen">Kajemen</ref>), vallen. Moet ik hem laten kaaien of schiet jij hem aan?
+</p><p id="kaairidders"><hi rend="bold">Kaairidders</hi>, sjouwerlui aan de kaden.
+</p><p id="kabanes"><hi rend="bold">Kabanes</hi>, (zie <ref target="cabanes">cabanes</ref>). Herrie.
+</p><p id="kabs"><hi rend="bold">Kabs</hi>, alles kwijt; van alles beroofd. Ik heb hem kabs gehaald (bij &#8217;t spel alles afgewonnen).
+</p><p id="kachel"><hi rend="bold">Kachel</hi>, stomdronken.
+</p><p id="kadin"><hi rend="bold">Kadin</hi>, (<hi rend="bold">Kedin</hi>), veilig. De val is niet kadin (de gelegenheid is niet veilig).
+</p><p id="kaf-1"><hi rend="bold">Kaf</hi>, dorp, stad.
+</p><p id="kaf-2"><hi rend="bold">Kaf</hi>, 11.
+</p><p id="kaf-3"><hi rend="bold">Kaf</hi> of <hi rend="bold">Kijf</hi>, rug.
+</p><p id="kajem"><hi rend="bold">Kajem</hi>, val. Ze deden een kajem over een paar kooters (kinderen).
+</p><p id="kajemen"><hi rend="bold">Kajemen</hi>, vallen. Een laat er zich kajemen en de rus (rechercheur) doet een tuimel over hem heen, dat zijn heele kanes (hoofd) uit elkaar ligt.
+</p><p id="kajim"><hi rend="bold">Kajim</hi>, neus.
+</p><p id="kakebeenhuishouden"><hi rend="bold">Kakebeenhuishouden</hi>, scheldnaam voor een magere.
+</p><p id="kakkies"><hi rend="bold">Kakkies</hi>, voeten. Ze liep op bloote kakkies.
+</p><p id="kalfie"><hi rend="bold">Kalfie</hi>, kinkel. Je hebt geen kalfie voor.
+</p><p id="kalie"><hi rend="bold">Kalie</hi>, water, rivier, haven.
+</p><p id="kalf"><hi rend="bold">Kalf</hi>, groot mes. (Zie <ref target="galf">Galf</ref>). Het scheelt me geen haar of ik haal hem een kalf door zijn bast.
+</p><p id="kalfsch"><hi rend="bold">Kalfsch</hi>, zilveren. Het kalfsche medaille (de zilveren medaille).
+</p><p id="kalle"><hi rend="bold">Kalle</hi>, bruid.
+</p><p id="kallebak"><hi rend="bold">Kallebak</hi>, politieagent.
+</p><p id="kalles"><hi rend="bold">Kalles</hi>, zilver, ook: niets. Kalles kanteren. (Niets zeggen).
+</p><p id="kalletje"><hi rend="bold">Kalletje</hi>, publieke vrouw.
+</p><p id="kanebrajer"><hi rend="bold">Kanebrajer</hi> of <hi rend="bold">Kaantjesbrader</hi>, iemand die zich over kleinigheden druk maakt.
+</p><p id="kanes"><hi rend="bold">Kanes</hi>, hoofd.
+<pb n="30"/></p><p id="kanker"><hi rend="bold">Kanker</hi>, makke met een kanker (35 cent).
+</p><p id="kankeren"><hi rend="bold">Kankeren</hi>, plagen, pesten.
+</p><p id="kanteraar"><hi rend="bold">Kanteraar</hi>, straatzanger.
+</p><p id="kanteren"><hi rend="bold">Kanteren</hi>, zingen langs de huizen.
+</p><p id="kapoeres"><hi rend="bold">Kapoeres</hi>, kapoet, kapot (stuk).
+</p><p>Zijn tik is kapoeres. (Zijn horloge is stuk).
+</p><p id="kapsie"><hi rend="bold">Kapsie</hi>, aanmerking. Kapsie op iets maken.
+</p><p id="kapsoones"><hi rend="bold">Kapsoones</hi>, drukte. Die heeft altoos zoo&#8217;n kapsoones over z&#8217;n lijf.
+</p><p id="kapsoonesmaker"><hi rend="bold">Kapsoonesmaker</hi>, opschepper.
+</p><p id="kar"><hi rend="bold">Kar</hi> of <hi rend="bold">Karretje</hi>, rijwiel.
+</p><p id="kaskedoole"><hi rend="bold">Kaskedoole</hi>, drukte.
+</p><p id="kaskenade"><hi rend="bold">Kaskenade</hi>, herrie.
+</p><p id="kaskienen"><hi rend="bold">Kaskienen</hi>, kleine sleutels voor kasten en kistjes.
+</p><p id="kassavie"><hi rend="bold">Kassavie</hi>, brief, briefje. Ik zal een kassavie aan mijn gabber (kameraad) veeberen (schrijven).
+</p><p>Ook: bankbillet. Een kassavie van kimmel meier (300 gld.)
+</p><p id="kast"><hi rend="bold">Kast</hi>, bochel. Ook draaiorgel.
+</p><p id="katezel"><hi rend="bold">Katezel</hi>, (zie <ref target="kattebak">Kattebak</ref>).
+</p><p id="katoen"><hi rend="bold">Katoen</hi>, kalm. Hou je katoen. Dood katoen (volkomen kalm).
+</p><p id="katsen-1"><hi rend="bold">Katsen</hi>, kijken. Kats den grandige roojemen naar de seeferaars. (Zie den agent eens kijken naar de dieven).
+</p><p id="katsen-2"><hi rend="bold">Katsen</hi>, (zie <ref target="kotsen">Kotsen</ref> en aankwatsen), praten. Een advocaat die goed katsen kan.
+</p><p id="katser"><hi rend="bold">Katser</hi>, veelprater.
+</p><p id="katsjef"><hi rend="bold">Katsjef</hi>, slager, die onrein vleesch verkoopt.
+</p><p id="katsjemme"><hi rend="bold">Katsjemme</hi>, luimkeet, penne, <corr sic="slaapst&#233;e">slaapstee</corr>.
+</p><p id="kattebak"><hi rend="bold">Kattebak</hi>, ook <hi rend="bold">Katterik</hi> en <hi rend="bold">Katezel</hi>, winkellade. Ik kan dien kattebak niet nemen; er steunt (is) gajes (volk) in den winkel.
+</p><p id="katteborrel"><hi rend="bold">Katteborrel</hi>, glas melk.
+</p><p id="kattekop"><hi rend="bold">Kattekop</hi>, scheepslantaarn, gewoonlijk van koper.
+</p><p id="kazer"><hi rend="bold">Kazer</hi>, vleesch. Bonzen met kazer (aardappels met vleesch).
+<pb n="31"/></p><p id="kedeevie"><hi rend="bold">Kedeevie</hi>, ook <hi rend="bold">Kedeevid</hi>, klap, slag, stoot.
+</p><p>Jan gaf zijn niese een kedeevid in der lampies.
+</p><p id="kedin"><hi rend="bold">Kedin</hi>, zie <ref target="kadin">Kadin</ref>. Veilig.
+</p><p id="keesie"><hi rend="bold">Keesie</hi>, pruim tabak.
+</p><p id="keet-1"><hi rend="bold">Keet</hi>, herrie, drukte, janboel.
+</p><p>Bij Lammetje, daar is &#8217;t me een keet; hier zitten er kienen te vijlen; daar studeert er een, hoe hij &#8217;t best een vin in een ruit kan zetten (een barst in de ruit aanbrengen, om ze zonder geraas uit te kunnen nemen).
+</p><p>Ook: menigte. Wat een keet gajes!
+</p><p id="keet-2"><hi rend="bold">Keet</hi>, (<hi rend="bold">kit</hi>), zaak, luimkeet (slaapstee).
+</p><p id="keggie"><hi rend="bold">Keggie</hi>, mik, broodje.
+</p><p id="keien"><hi rend="bold">Keien</hi>, iemand op de keien laten staan (hem niet meenemen in de kroeg).
+</p><p>Ook: Iemand in de verlegenheid laten.
+</p><p id="keilen"><hi rend="bold">Keilen</hi>, gooien. Hij keilde hem over de straat.
+</p><p id="keiletje"><hi rend="bold">Keiletje</hi>, slokje, borrel. Ik heb een keiletje of tien van den loensche (schele) gehad.
+</p><p id="kennef"><hi rend="bold">Kennef</hi> of <hi rend="bold">Kennep</hi>, kink, klap, stoot.
+</p><p id="kenijve"><hi rend="bold">Kenijve</hi>, brood.
+</p><p id="kersepit"><hi rend="bold">Kersepit</hi>, hoofd.
+</p><p id="kesef"><hi rend="bold">Kesef</hi>, zilver.
+</p><p id="ketippie"><hi rend="bold">Ketippie</hi>, dubbeltje.
+</p><p id="kewijne"><hi rend="bold">Kewijne</hi>, Kaas.
+</p><p id="kezavie"><hi rend="bold">Kezavie</hi>, zie <ref target="kassavie">Kassavie</ref>.
+</p><p id="khein"><hi rend="bold">Khein</hi>, loos, slim. Zie <ref target="kim">kim</ref>.
+</p><p id="khoug"><hi rend="bold">Khoug</hi>, kracht. Wat heb die vent een khoug in ze jatten.
+</p><p id="kiebes"><hi rend="bold">Kiebes</hi>, hoofd.
+</p><p id="kiendop"><hi rend="bold">Kiendop</hi>, klein persoontje.
+</p><p id="kien"><hi rend="bold">Kien</hi>, hij drukt kien. (Hij zit vast, hij kan zich er niet meer uitredden).
+</p><p id="kienen-1"><hi rend="bold">Kienen</hi>, ook wel <hi rend="bold">Kiejenen</hi>, koopen. Ze zijn een jajempie wezen kienen (een borreltje gaan koopen). Hij verklaarde dat ie dien dag van mij een zwijntje (fiets) had gekiend.
+</p><p>Ook opensluiten. Hij kient de deur open.
+<pb n="32"/></p><p id="kienen-2"><hi rend="bold">Kienen</hi>, sleutels. Een mooi stel kienen (ook tandels).
+
+<figure id="kienen"><head>Enkele soorten van kienen:</head></figure>
+</p><p id="kieren"><hi rend="bold">Kieren</hi>, ik had hem in de kieren (in de ramen, in de gaten).
+<pb n="33"/></p><p id="kim"><hi rend="bold">Kim</hi>, (<hi rend="bold">Khein</hi>), goed. Dat smaakt kim. Ook: loos.
+</p><p id="kimmel"><hi rend="bold">Kimmel</hi>, 3. Kimmel meier (300 gld.)
+</p><p>Kimmel jantjes (3 jaar).
+</p><p>Met ze kimmele (met z&#8217;n drie&#235;n).
+</p><p><hi rend="bold">Kimmel en dollet</hi>, 3 + 4 = 7.
+</p><p id="kimmelaar"><hi rend="bold">Kimmelaar</hi>, 3 gulden.
+</p><p id="kimpet"><hi rend="bold">Kimpet</hi>, in kimpet (in de kraam).
+</p><p id="kin"><hi rend="bold">Kin</hi>, ja; ook wel stil.
+</p><p id="kinematograaf"><hi rend="bold">Kinematograaf</hi>, sleutel (woordspeling met kien).
+</p><p id="kinf"><hi rend="bold">Kinf</hi>, luizen. Hij zit in de kinf.
+</p><p id="kink"><hi rend="bold">Kink</hi>, klap, stoot.
+</p><p id="kip"><hi rend="bold">Kip</hi>, agent van politie, ook hond.
+</p><p id="kippen"><hi rend="bold">Kippen</hi>, aandeel, portie. Heb jij er ook kippen aan?
+</p><p>Hij kreeg een roodruggetje op ze&#8217;n kippen.
+</p><p id="kippenhok"><hi rend="bold">Kippenhok</hi>, school.
+</p><p id="kit"><hi rend="bold">Kit</hi>, (zie <ref target="keet-2">keet</ref>), luimkit (slaapstee), (zie <ref target="plattekit">platte kit</ref>).
+</p><p id="klabak"><hi rend="bold">Klabak</hi>, politieagent.
+</p><p id="klabbes"><hi rend="bold">Klabbes</hi>, hoer.
+</p><p id="klanker"><hi rend="bold">Klanker</hi>, flesch. Een klanker neurie, (een flesch drank).
+</p><p id="klapper"><hi rend="bold">Klapper</hi>, kamer. Bovenklapper (bovenkamer). Luchtklapper (bovenhuis).
+</p><p id="klinkertje"><hi rend="bold">Klinkertje</hi>, glaasje.
+</p><p id="kleerenprik"><hi rend="bold">Kleerenprik</hi>, kleermaker.
+</p><p id="kleezen"><hi rend="bold">Kleezen</hi>, voeten. Hou je kleezen een beetje voor je, je schopt tegen me broek op. Die heit me een paar kleezen! Denk om je kleezen.
+</p><p><hi rend="bold">Kleine knoop</hi>, gulden.
+</p><p id="klepelstok"><hi rend="bold">Klepelstok</hi>, een stok met een gleufje aan de voorzijde, gebruikt om de kwak (winkelschel) over te tikken, (vast te houden).
+</p><p id="kletspatet"><hi rend="bold">Kletspatet</hi>, hoofdzeer.
+</p><p id="kleum"><hi rend="bold">Kleum</hi>, slaag. Je kunt nog kleum krijgen.
+</p><p><hi rend="bold">Kleur houden</hi>, blijven ontkennen.
+</p><p id="klimmerd"><hi rend="bold">Klimmerd</hi>, om daarbij te komen, moet ik een geduchte klimmerd maken.
+<pb n="34"/></p><p><hi rend="bold">Kloek legem</hi>, pond brood.
+</p><p><hi rend="bold">Kloek met kuikens</hi>, stel gewichten.
+</p><p id="kloft"><hi rend="bold">Kloft</hi>, kleeding. Je bent godin gekloft, (netjes gekleed).
+</p><p id="klofting"><hi rend="bold">Klofting</hi>, kleeren, ook wel beddegoed.
+</p><p id="klok"><hi rend="bold">Klok</hi>, (voor uur). De drukste klok van den Jodenhoek is 11 uur. Onder de klok tippelen. (Naar den dokter loopen op spreekuur; ziek zijn van jongens of meiden die met den neus in den wind hebben geloopen).
+</p><p><hi rend="bold">Klok met kuikens</hi>, stel gewichten in blok.
+</p><p id="klokkie"><hi rend="bold">Klokkie</hi>, horloge.
+</p><p id="klomp"><hi rend="bold">Klomp</hi>, groote neus.
+</p><p id="klopdaai"><hi rend="bold">Klopdaai</hi>, man met een zeer hoofd.
+</p><p id="kluif"><hi rend="bold">Kluif</hi>, een hartig stuk van den slager. Schertsend, voor een stuk koek. Moeke, geef me een bak zweet, (kom koffie) met een kluif.
+</p><p id="kluisgaten"><hi rend="bold">Kluisgaten</hi>, oogen.
+</p><p id="kluit"><hi rend="bold">Kluit</hi>, groote hoeveelheid. Een kluit geld.
+</p><p id="klijf"><hi rend="bold">Klijf</hi>, zilver. (Zie <ref target="timtim"><corr sic="timtim">Timtim</corr></ref>).
+</p><p id="klijfsch"><hi rend="bold">Klijfsch</hi>, zilveren. Klijfsche speentjes (zilveren knipjes; beursjes).
+</p><p id="knaak"><hi rend="bold">Knaak</hi>, rijksdaalder. Loensche knaken (valsche rijksd.)<corr>.</corr> Je krijgt bij den snees nog beis knaken voor dat pijtje (jas). Die ander heeft je een lammetje gegeven; het is mij een knaak waard.
+</p><p id="knageling"><hi rend="bold">Knageling</hi>, rat.
+</p><p id="knaker"><hi rend="bold">Knaker</hi>, portemonnaie.
+</p><p id="knappert"><hi rend="bold">Knappert</hi>, pistool. Knappers (pistolen).
+</p><p id="knar"><hi rend="bold">Knar</hi>, hoofd. Hij heeft een harde knar. Ik kreeg onverwachts een mep tegen me knar.
+</p><p id="knees"><hi rend="bold">Knees</hi> en <hi rend="bold">Kneesde</hi>, kende; van knijzen (kennen). Zij kneesde mijn niese.
+</p><p id="kneibel"><hi rend="bold">Kneibel</hi>, sterke, pootige kerel.
+</p><p><hi rend="bold">Knikker op het dak</hi>, Brigadier van politie in Amsterdam.
+</p><p id="knikkers"><hi rend="bold">Knikkers</hi>, biljartballen.
+</p><p id="knippen"><hi rend="bold">Knippen</hi>, aanhouden.
+<pb n="35"/></p><p><hi rend="bold">Knobbel-</hi> of <hi rend="bold">knopsmeris</hi>, Brigadier van politie in Amsterdam.
+</p><p id="knoften"><hi rend="bold">Knoften</hi>, (zie <ref target="kloft">Kloften</ref>).
+</p><p id="knok"><hi rend="bold">Knok</hi>, slag (ook slaag). Dat is er een, die je knok kan geven. Zij was bang, dat zij knok kreeg van mijn niese.
+</p><p id="knokken"><hi rend="bold">Knokken</hi>, vechten, slaan, stukslaan.
+</p><p>Ook: wisselen.
+</p><p>Hij had dat poen (geld) nog niet geknokt.
+</p><p id="knoloog"><hi rend="bold">Knoloog</hi>, schele.
+</p><p id="knolsmeris"><hi rend="bold">Knolsmeris</hi>, bereden politieagent. Knopknolsmeris (bereden brigadier in Amsterdam).
+</p><p id="knoopje"><hi rend="bold">Knoopje</hi>, dubbeltje.
+</p><p id="knul"><hi rend="bold">Knul</hi>, vent. Die knul, die de knaken (rijksd.) maakt, was bijna geschaakt (gesnapt).
+</p><p id="knurf"><hi rend="bold">Knurf</hi>, klap. Hij kreeg een knurf in zijn tronie.
+</p><p id="knijzen"><hi rend="bold">Knijzen</hi> ook <hi rend="bold">Knijtsen</hi>, kijken. Zij knijsden hem goed in de lampies.
+</p><p>Knijs even uit, of er wat op de vlakte is.
+</p><p>Stijf staan knijtsen.
+</p><p>Al de buren stonden voor het raam te knijzen.
+</p><p>Ook kennen. Ik knijsde hem noppes. (Ik kende hem niet.) Een broocher, dien ik niet knijs.
+</p><p><hi rend="bold">Koef noen</hi>, twee Hebreeuwsche letters, K en N, gebruikt voor: kost niets.
+</p><p id="koetsef"><hi rend="bold">Koetsef</hi>, diamant, (roosje).
+</p><p><hi rend="bold">Koetsef blinker</hi>, briljant.
+</p><p id="koeskoepee"><hi rend="bold">Koeskoepee</hi>, bed, slaapplaats.
+</p><p id="koffer"><hi rend="bold">Koffer</hi>, bed. Ik ga naar den koffer. Hij gaat met zen mokkel in de koffer.
+</p><p id="kokkerd"><hi rend="bold">Kokkerd</hi>, een groote. Een groote neus, bijv.
+</p><p id="konkel"><hi rend="bold">Konkel</hi>, koffieketel.
+</p><p id="kontslinger"><hi rend="bold">Kontslinger</hi>, achterjaszak.
+</p><p id="kool"><hi rend="bold">Kool</hi>, bedrog, (seibel). Iemand een kool stoven.
+</p><p id="kooler"><hi rend="bold">Kooler</hi>, spoortrein. Pleite gaan met de kooler is altijd gevaarlijk; zoodra de zaak ontdekt is, gaat het naar alle kanten rikketikketik en je bent zoo gesjankt. (Met den <pb n="36"/>trein er van doorgaan is altijd gevaarlijk, zoodra de zaak ontdekt is, wordt naar alle kanten getelegrapheerd en je wordt direct aangehouden).
+</p><p id="koone"><hi rend="bold">Koone</hi>, aangezicht.
+</p><p id="kolf"><hi rend="bold">Kolf</hi>, mes, (zie <ref target="galf">galf</ref>).
+</p><p><hi rend="bold">Koperen bout</hi>, agent van politie in uniform.
+</p><p id="koppie"><hi rend="bold">Koppie</hi>, dubbeltje.
+</p><p id="kopstoot"><hi rend="bold">Kopstoot</hi>, een stoot met het hoofd, van onderen tegen iemands kin, waarbij het woord hengs! wordt gesproken. De gestootene valt in den regel duizelig achterover en wordt beroofd.
+</p><p><hi rend="bold">Korpus delik</hi> (<hi rend="bold">Corpus delicti</hi>), bewijsstuk. Ze heb het korpus delik (ze is zwanger).
+</p><p id="kooter"><hi rend="bold">Kooter</hi>, kind. De kooters zijn naar school.
+</p><p>Heb dat niese een kooter? (Heeft die meid een kind?)
+</p><p id="kooterum"><hi rend="bold">Kooterum</hi>, klein.
+</p><p id="kortjan"><hi rend="bold">Kortjan</hi>, matrozenmes.
+</p><p id="kotel-bajes"><hi rend="bold">Kotel bajes</hi>, gevangenis.
+</p><p id="kotsen"><hi rend="bold">Kotsen</hi>, braken, ook opbiechten. Je moet voor den goochemerd kotsen, (voor den rechter van instructie moet je opbiechten). Zie <ref target="katsen-2">Katsen</ref>.
+</p><p id="kopzorg"><hi rend="bold">Kopzorg</hi>, bekommering. Heb daar geen kopzorg over, (bemoei je daar niet mee.)
+</p><p><hi rend="bold">Koud maken</hi>, vermoorden.
+</p><p id="kout"><hi rend="bold">Kout</hi>, mes. (Zie <ref target="nijf"><corr sic="nijf">Nijf</corr></ref>, <ref target="galf"><corr sic="galf">Galf</corr></ref>, <ref target="nifterik"><corr sic="nifterik">Nifterik</corr></ref>).
+</p><p id="kousjer"><hi rend="bold">Kousjer</hi>, zuiver. Dat zijn kousjere bullen.
+</p><p>Je zou bij je olmse (ouders) toch een veel kousjerer leven hebben dan in zoo&#8217;n spiese.
+</p><p id="kraak"><hi rend="bold">Kraak</hi>, inbraak. Een krakie zetten (een inbraak doen).
+</p><p>Twee vrijers waren bezig met een kraak.
+</p><p id="kraanoogen"><hi rend="bold">Kraanoogen</hi>, spelden. Leverworst met kraanoogen aan een joekel (hond) geven om hem stil te maken (te dooden).
+</p><p id="krabbedaaier"><hi rend="bold">Krabbedaaier</hi>, vechtersbaas, ruziemaker.
+</p><p id="krabbelpoj"><hi rend="bold">Krabbelpoj</hi>, inkt.
+</p><p id="krabber"><hi rend="bold">Krabber</hi>, breekijzer.
+<pb n="37"/></p><p id="krakeling"><hi rend="bold">Krakeling</hi>, ze verlunzen geen krakeling (ze verstaan geen woord).
+</p><p id="kraken"><hi rend="bold">Kraken</hi>, inbreken<corr sic=",">.</corr> Het nobele volk neemt den nacht voor den dag; bij dag luimen ze, bij nacht kraken ze.
+</p><p id="kraker"><hi rend="bold">Kraker</hi>, inbreker. Hij stond bekend als een kraker.
+</p><p id="krakertje"><hi rend="bold">Krakertje</hi>, borreltje.
+</p><p id="krankjorem"><hi rend="bold">Krankjorem</hi>, krankzinnig.
+</p><p id="krates"><hi rend="bold">Krates</hi>, (kriek), gebochelde.
+</p><p id="krats"><hi rend="bold">Krats</hi>, streep; streep door de rekening, teleurstelling; een niet in de loterij.
+</p><p id="krauter"><hi rend="bold">Krauter</hi>, politieagent.
+</p><p id="kreeft"><hi rend="bold">Kreeft</hi>, vleesch.
+</p><p id="kreischen"><hi rend="bold">Kreischen</hi>, schreeuwen.
+</p><p id="kren"><hi rend="bold">Kren</hi>, meid. Ze zit met kren (ze is zwanger).
+</p><p id="krententuin"><hi rend="bold">Krententuin</hi>, Veenhuizen.
+</p><p id="kriek"><hi rend="bold">Kriek</hi>, gebochelde.
+</p><p id="krien"><hi rend="bold">Krien</hi>, zilver.
+</p><p id="krot"><hi rend="bold">Krot</hi>, verdacht huis.
+</p><p id="kruif"><hi rend="bold">Kruif</hi>, kwast, verwaande kerel, grootdoender.
+</p><p id="krummeldieven"><hi rend="bold">Krummeldieven</hi>, minachtend voor pruldieven. Dat is een mooie stad om te jatten voor de krummeldieven.
+</p><p id="kug"><hi rend="bold">Kug</hi>, brood.
+</p><p id="kuierstokken"><hi rend="bold">Kuierstokken</hi>, beenen. Neem je kuierstokken (pak je weg).
+</p><p id="kuil"><hi rend="bold">Kuil</hi>, kelder, ook: diepert. Bierkuil (bierkelder). We gaan naar de kuil van Moeke.
+</p><p id="kuiten"><hi rend="bold">Kuiten</hi>, neem de kuiten (maak beenen; zet het op een loopen).
+</p><p id="kutpooier"><hi rend="bold">Kutpooier</hi>, iemand, die leeft van zijn meid of vrouw. Zie: <ref target="behojjebikker">Behojjebikker</ref>.
+</p><p id="kwak"><hi rend="bold">Kwak</hi>, winkelschel. De kwak doet ting-ting. Tik de kwak over (hou de schel vast).
+</p><p id="kwakkie"><hi rend="bold">Kwakkie</hi>, kleine hoeveelheid. De snees (opkooper) zou de daaien (diamanten) bij kwakkies laten verslijpen.
+</p><p id="kwant"><hi rend="bold">Kwant</hi>, flink. Dat vind ik kwant van hem.
+<pb n="38"/></p><p><hi rend="bold">Kwart meier</hi>, &#188; van &#402;100. Bankje van &#402;25.
+</p><p id="kwats"><hi rend="bold">Kwats</hi>, uitroep. Kwats! die zit er weer in. (Wordt bedoeld: in de gevangenis).
+</p><p id="kwiek"><hi rend="bold">Kwiek</hi>, vlug.
+</p><p id="kwinten"><hi rend="bold">Kwinten</hi>, zakkenrollen.
+</p><p id="kijletje"><hi rend="bold">Kijletje</hi>, (zie <ref target="keiletje">Keiletje</ref>), slokje.
+</p><p id="kijf"><hi rend="bold">Kijf</hi>, zie <ref target="kaf-3">Kaf</ref>.
+
+
+</p></div1><div1 id="l" n="L" type="Chapter"><head>L.</head><p id="labe"><hi rend="bold">Labe</hi>, heele hoop; een boel. Daar zal wel een labe van in de flik (krant) steunen.
+</p><p id="lak"><hi rend="bold">Lak</hi>, ik heb er lak aan. Er is lak aan me te verdienen. (Ik laat me niet beetnemen).
+</p><p id="laken"><hi rend="bold">Laken</hi>, blauw laken, (lood).
+</p><p id="lakijfe"><hi rend="bold">Lakijfe</hi>, (lekijve), beminde, vrouw.
+</p><p id="lammet"><hi rend="bold">Lammet</hi>, 30.
+</p><p id="lammetje"><hi rend="bold">Lammetje</hi>, 30 stuivers. Een lammetje, (een daalder). Veel schokt hij er niet voor, maar toch altijd wel een lammetje. Die ander heit je een lammetje gegeven; &#8217;t is mij een knaak waard.
+</p><p id="lamp"><hi rend="bold">Lamp</hi>, politie, onraad. Tegen de lamp loopen.
+</p><p id="lampies"><hi rend="bold">Lampies</hi>, oogen, smeerpitjes, waspitjes. Iemand blauwe lampies slaan. Laat je lampies goed knijzen, (kijk goed uit je doppen).
+</p><p id="landing"><hi rend="bold">Landing</hi>, ruzie. De gooser heb landing met ze niese gehad.
+</p><p id="last"><hi rend="bold">Last</hi>, hij heb de last, (zooveel hij dragen kan, knap dronken).
+</p><p id="lat"><hi rend="bold">Lat</hi>, stok, sabel, kerfstok. Me olmse had daar aardig op de lat gedronken, (op de pof), op crediet.
+</p><p><hi rend="bold">Laten zakken</hi>, in &#8217;t water gooien.
+</p><p id="latkip"><hi rend="bold">Latkip</hi>, agent van politie.
+</p><p id="laulem"><hi rend="bold">Laulem</hi>, ten minste.
+</p><p id="lausie"><hi rend="bold">Lausie</hi>, ei.
+</p><p id="laveloos"><hi rend="bold">Laveloos</hi>, stomdronken. Dat kren is laveloos. (Die meid is stomdronken).
+<pb n="39"/></p><p id="laven"><hi rend="bold">Laven</hi>, dronken maken.
+</p><p id="lawaje"><hi rend="bold">Lawaje</hi>, begrafenis. Daar gaat een lawaje voorbij. Krijg een lawaje in je huis! (verwensching).
+</p><p id="lawajen"><hi rend="bold">Lawajen</hi>, begraven. Ik ben uit lawajen geweest.
+</p><p id="lazerus"><hi rend="bold">Lazerus</hi>, stomdronken.
+</p><lg type="Group"><l>Och meneertje heb me&#234;lij met mijn,
+    </l><l>Ik zal nooit weer lazerus zijn.</l></lg><p id="leb"><hi rend="bold">Leb</hi>, lief. Saarleb, (Saralief).
+</p><p id="leepoogen"><hi rend="bold">Leepoogen</hi>, etterende oogen.
+</p><p id="lef"><hi rend="bold">Lef</hi>, moed. Om te moorden, daar heb ik nooit lef voor gehad. Op groot lef uitgaan (willen stelen tot elken prijs). Zuipen op lef (drinken op avontuur). &#8217;t Was een heele lef voor me (een stout stuk). (Zie <ref target="grootlef"><corr sic="groot lef">Grootlef</corr></ref>).
+</p><p id="lefjongen"><hi rend="bold">Lefjongen</hi>, een jongen met moed (durfal).
+</p><p id="legem"><hi rend="bold">Legem</hi>, brood.
+</p><p id="lekijve"><hi rend="bold">Lekijve</hi>, (zie <ref target="lakijfe">Lakijfe</ref>).
+</p><p id="lel"><hi rend="bold">Lel</hi>, borrel. Een haaie lel. (Een groote borrel).
+</p><p id="lenzelink"><hi rend="bold">Lenzelink</hi>, luisteren. Zie ook <ref target="lunzelink">Lunzelink</ref>.
+</p><p id="lenzen"><hi rend="bold">Lenzen</hi>, kijken. Lens goed uit je doppen.
+</p><p id="leuningbijter"><hi rend="bold">Leuningbijter</hi>, leeglooper.
+</p><p id="leut"><hi rend="bold">Leut</hi>, koffie.
+</p><p id="lichten"><hi rend="bold">Lichten</hi>, rollen. Ik knijsde dat de platvink werd gelicht. (Ik zag dat de portefeuille werd gerold).
+</p><p id="lichterik"><hi rend="bold">Lichterik</hi>, dag.
+</p><p id="lik"><hi rend="bold">Lik</hi>, gevangenis. Een linke lik (een strenge gevangenis, waar &#8217;t niet deugt<corr sic=".)">).</corr> Een immese lik (een goede).
+</p><p id="likkar"><hi rend="bold">Likkar</hi>, celwagen.
+</p><p id="link"><hi rend="bold">Link</hi>, loos, slim, niet pluis, gevaarlijk, leelijk, niet te vertrouwen. Steun niet meer op die val, het is er veel te link geworden. (Ga niet meer in dat huis; &#8217;t is er veel te gevaarlijk geworden). (Zie <ref target="verlinken"><corr sic="verlinken">Verlinken</corr></ref>). Link tegen link (list tegen list). Een linke slag (een slinksche streek). Een linke broger. (Een leelijke vent). Zakkenrollen is een link werk. Dat is een linke pernoose (gevaarlijke taak). Het link (politie).
+</p><p><hi rend="bold">Link dajem</hi>, valsche eed.
+<pb n="40"/></p><p id="linken-1"><hi rend="bold">Linken</hi>, bedriegen. Laat je niet linken. Op link nemen (er in laten loopen). De rechters wouen hem op de link nemen.
+</p><p id="linken-2"><hi rend="bold">Linken</hi> en <hi rend="bold">Lenzen</hi>, kijken en loeren.
+</p><p id="linkgajes"><hi rend="bold">Linkgajes</hi>, niet te vertrouwen volk. Slecht volk. Politie.
+</p><p id="linkmiggel"><hi rend="bold">Linkmiggel</hi>, grappenmaker, ook wel akelige vent of deugniet. Gevaarlijke kerel, die de jongens aflegt.
+</p><p id="lippies"><hi rend="bold">Lippies</hi>, sleutels met smalle baarden.
+</p><p id="loebertangetje"><hi rend="bold">Loebertangetje</hi> of <hi rend="bold">Loevertangetje</hi><corr sic=".">,</corr> Halve cent.
+</p><p id="loeder"><hi rend="bold">Loeder</hi>, dweil, slobber, meid van slecht allooi.
+</p><p id="loefie"><hi rend="bold">Loefie</hi>, halve cent. De kerel valt dood over een loefie, ofschoon hij bulkt van geld.
+</p><p id="loegie"><hi rend="bold">Loegie</hi>, spel kaarten.
+</p><p id="loeken"><hi rend="bold">Loeken</hi>, kijken. Loek reis even in dat spoormeelukje. Je komt voorbij, maakt een veter van je schoen vast en loekt terwijl even naar &#8217;t slot. &#8217;s Avonds ga je er een paar kienen opgooien, of het soms springt.
+</p><p id="loen"><hi rend="bold">Loen</hi>, bedriegelijk, valsch. Schermen met een loen jatje, (zich mal houden, zich krankzinnig aanstellen).
+</p><p id="loene"><hi rend="bold">Loene</hi>, slecht, kwaad.
+</p><p id="loenen"><hi rend="bold">Loenen</hi>, valsch doen.
+</p><p id="loenenaar"><hi rend="bold">Loenenaar</hi>, valsche kerel, verraderlijke kameraad.
+</p><p id="loensch"><hi rend="bold">Loensch</hi>, scheel, schuin, onecht, valsch, ook wel koper. Ze kijken zoo loensch. De loensche, (de schele). Een loensche oksenaar, (een horloge van onecht goud). Loensche knaken, (valsche rijksdaalders). Een loensche brommer, (een koperen ketel). Loensche glimmerikken (schele oogen).
+</p><p><hi rend="bold">Loensch poen</hi>, valsch geld.
+</p><p><hi rend="bold">Loensche sjoefe</hi>, meineed.
+</p><p><hi rend="bold">Loensche cassavies</hi>, valsche bankbiljetten.
+</p><p><hi rend="bold">Loensche daai</hi>, valsche diamant.
+</p><p id="loentjes"><hi rend="bold">Loentjes</hi>, leugens. Ik vertel je geen loentjes.
+</p><p><hi rend="bold">Loentjes draaien</hi>, moppen verkoopen.
+</p><p id="loep"><hi rend="bold">Loep</hi> of <hi rend="bold">Loepie</hi>, horloge. Hij heb een loep in de meeluk.
+<pb n="41"/></p><p id="loerie"><hi rend="bold">Loerie</hi>, chocolade. Hij heb loerie gegapt.
+</p><p id="lokvogel"><hi rend="bold">Lokvogel</hi>, de voerder bij de kwartjesvinders.
+</p><p id="lollepot"><hi rend="bold">Lollepot</hi>, wellustige vrouw; vrouw die zich aan ontucht met vrouwen overgeeft.
+</p><p><hi rend="bold">Lol-tiejijs</hi>, middel tot het opwekken van vrouwelijke wellust.
+</p><p id="lommerdbriefje"><hi rend="bold">Lommerdbriefje</hi>, (doorgefourneerd), hoer.
+</p><p id="lommerdspiese"><hi rend="bold">Lommerdspiese</hi>, bank van leening.
+</p><p id="lood"><hi rend="bold">Lood</hi>, geld. &#8217;t Schijnt dat jij je lood niet op kan.
+</p><p>Een plak lood op den kop hebben. (Dronken zijn).
+</p><p>Een dot lood, ook een poet lood. (Een hoop geld).
+</p><p id="loodpot"><hi rend="bold">Loodpot</hi>, men kan wel zien, waar de loodpot zit.
+</p><p>Hier heb je de loodpot<corr sic=",">.</corr> (Hier is &#8217;t geld).
+</p><p id="looien"><hi rend="bold">Looien</hi>, kloppen, vechten.
+</p><p id="loojig"><hi rend="bold">Loojig</hi>, zwaar. Dat blauw laken is loojig (dat lood is zwaar).
+</p><p id="lorum"><hi rend="bold">Lorum</hi>, zwendel.
+</p><p id="loste"><hi rend="bold">Loste</hi>, alles kwijt. Zie <ref target="kabs">Kabs</ref>. Ik ben glad loste, (zonder een cent).
+</p><p id="lousie"><hi rend="bold">Lousie</hi>, ei.
+</p><p id="louw"><hi rend="bold">Louw</hi>, niets, weinig, neen. Raffie, ga je mee? Antw. Louw (neen). Sjak me louw, <corr sic="("/>&#8217;t kan me weinig schelen, (schadt mir lau). Voor louw (voor niets, gratis).
+</p><p id="louwfikus"><hi rend="bold">Louwfikus</hi>, niets. Louwfikus te beknijzen. (Niets te zien).
+</p><p id="louwloene"><hi rend="bold">Louwloene</hi>, slechte zaken, tegenspoed.
+</p><p id="louwpoekelen"><hi rend="bold">Louwpoekelen</hi>, niets zeggen, niets meedeelen.
+</p><p id="louwsmoezen"><hi rend="bold">Louwsmoezen</hi>, id. Ik moet kotsen, (opbiechten) voor den goochemerd, (rechter-commissaris), maar ik smoes louw, (ik zeg niets).
+</p><p id="lovie"><hi rend="bold">Lovie</hi>, geld. Lovie in de meeluk. (Geld in den zak).
+</p><p id="luchtklapper"><hi rend="bold">Luchtklapper</hi>, bovenhuis.
+</p><p id="luffie"><hi rend="bold">Luffie</hi>, (zie <ref target="loefie"><corr sic="loefie">Loefie</corr></ref>). Halve cent.
+</p><p id="luikes"><hi rend="bold">Luikes</hi>, stiekum, stilletjes, in &#8217;t geniep. &#8217;t Manvolk houdt zich in zulke gevallen altijd luikes.
+</p><p id="luimen"><hi rend="bold">Luimen</hi>, slapen. Ze konden van nacht op de brits luimen.
+<pb n="42"/></p><p id="luimkeet"><hi rend="bold">Luimkeet</hi> (<hi rend="bold">luimkit</hi>), slaapstee.
+</p><p id="luimspiese"><hi rend="bold">Luimspiese</hi>, slaapstee, logement.
+</p><p id="luisterlap"><hi rend="bold">Luisterlap</hi>, oor.
+</p><p id="lul"><hi rend="bold">Lul</hi>, suffer, domme kerel. Een lul van een brooger.
+</p><p>Ook: dupe. Hij is de lul (hij betaalt het gelag of hij is gesnapt).
+</p><p id="lummelbout"><hi rend="bold">Lummelbout</hi>, mannelijkheid.
+</p><p id="lunzelink"><hi rend="bold">Lunzelink</hi>, kijk om je heen, laat je niet uithooren of beluisteren. (Zie ook <ref target="lenzelink">Lenzelink</ref>).
+</p><p id="lunzen"><hi rend="bold">Lunzen</hi>, zie <ref target="lenzen">Lenzen</ref>.
+</p><p id="lurven"><hi rend="bold">Lurven</hi>, kleeren. Ik pakte hem bij zijn lurven.
+</p><p id="lussen"><hi rend="bold">Lussen</hi>, ik lus hem (ik wil met hem vechten, ik durf hem aan).
+</p><p id="lijk"><hi rend="bold">Lijk</hi>, versleten vrouw.
+</p><p id="lijnschieter"><hi rend="bold">Lijnschieter</hi>, suffer.
+</p><p id="lijntrekken"><hi rend="bold">Lijntrekken</hi>, rekken.
+</p><p id="lijpen"><hi rend="bold">Lijpen</hi>, drinken.
+
+
+</p></div1><div1 id="m" n="M" type="Chapter"><head>M.</head><p id="macher"><hi rend="bold">Macher</hi>, koopman, boerenbedrieger, kwakzalver.
+</p><p id="maf"><hi rend="bold">Maf</hi>, slaap.
+</p><p id="maffen"><hi rend="bold">Maffen</hi>, slapen.
+</p><p id="maffie"><hi rend="bold">Maffie</hi>, kwartje.
+</p><p id="maholle"><hi rend="bold">Maholle</hi>, bedorven, kapot.
+</p><p id="majem"><hi rend="bold">Majem</hi>, water. Ik gooi hem in de majem. Geef me een glas majem. Tof majem (goed water); link majem (slecht water). Ga dit majem maar niet buizen (drinken) het is link.
+</p><p id="majemen"><hi rend="bold">Majemen</hi>, regenen. Het majemt dat het giet. Het blijft maar doormajemen.
+</p><p id="makke"><hi rend="bold">Makke</hi>, makke met een kanker, (35 cent).
+</p><p id="makkes"><hi rend="bold">Makkes</hi>, slaag, klap, last, onheil. Hij gaf haar een linke makkes in der koone. (Hij gaf haar een klap die raak was in haar aangezicht.) Daar zit makkes voor &#8217;m an. (Daar krijgt hij last mee). Er zijn lieden die niet houden van makkes en peigere (bedorven) visch.
+<pb n="43"/></p><p id="maling"><hi rend="bold">Maling</hi>, iemand in de maling nemen. (Iemand er tusschen nemen of voor den gek houden). Ik had uit de maling kunnen zijn. (Ik had voor altijd binnen kunnen zijn). Ik heb er maling aan.
+</p><p id="malogemen"><hi rend="bold">Malogemen</hi>, werken.
+</p><p id="malogemer"><hi rend="bold">Malogemer</hi> of <hi rend="bold">Maloochum</hi>, werkplaats. Foksmalogemer (goudsmidswerkplaats). De grandige knijst naar het gajes van de maloochum. (De agent kijkt naar het volk van de werkplaats).
+</p><p id="maloochum"><hi rend="bold">Maloochum</hi>, (Melogo), werk.
+</p><p id="mangen"><hi rend="bold">Mangen</hi>, vragen.
+</p><p id="mannetjesputter"><hi rend="bold">Mannetjesputter</hi>, sterke kerel.
+</p><p id="mansjen"><hi rend="bold">Mansjen</hi>, (mansj maken) aanprijzen; recommandeeren.
+</p><p id="mareedsemen"><hi rend="bold">Mareedsemen</hi>, stelen.
+</p><p id="mareedsemer"><hi rend="bold">Mareedsemer</hi>, dief.
+</p><p id="marwiegen"><hi rend="bold">Marwiegen</hi>, stelen.
+</p><p id="marwieger"><hi rend="bold">Marwieger</hi>, dief.
+</p><p id="masker"><hi rend="bold">Masker</hi>, pand, (voor de bank van leening).
+</p><p id="massel"><hi rend="bold">Massel</hi>, winst, geluk, voorspoed. Aan gestolen goed is geen massel. (Gedijt niet).
+</p><p id="masselen"><hi rend="bold">Masselen</hi>, goede zaken. Masselen broocher, (geluk man!) Hij is in zijn massel. (Hij heeft geluk). Il a de la veine.
+</p><p id="massematten"><hi rend="bold">Massematten</hi>, handel, negotie, zaken, ook wel gestolen buit.
+</p><p id="matograaf"><hi rend="bold">Matograaf</hi>, sleutel. (Zie <ref target="kinematograaf"><corr sic="kinematograaf">Kinematograaf</corr></ref> en <ref target="motograaf"><corr sic="motograaf">Motograaf</corr></ref>).
+</p><p id="matschudding"><hi rend="bold">Matschudding</hi>, herrie, ruzie.
+</p><p id="matses"><hi rend="bold">Matses</hi>, Paaschbrooden.
+</p><p id="mattenklopper"><hi rend="bold">Mattenklopper</hi>, tien gulden. (Gouden tientje).
+</p><p id="mauwerik"><hi rend="bold">Mauwerik</hi>, kat.
+</p><p id="meegig"><hi rend="bold">Meegig</hi>, lui, suf. (ook: meelig).
+</p><p id="meeleg"><hi rend="bold">Meeleg</hi>, zout.
+</p><p id="meeluk"><hi rend="bold">Meeluk</hi>, (<hi rend="bold">Meelik</hi>)<corr>,</corr> zak. Poen in de meeluk. (Geld op zak). Een meeluk schoren (goederen). Een meeluk koffie, etc.
+</p><p id="meelukpeezer"><hi rend="bold">Meelukpeezer</hi>, zakkenroller.
+<pb n="44"/></p><p><hi rend="bold">Meie(r)</hi>, 100. Een goede meier. (Een goede &#402;100). &#189; meier. (50). &#188; meier. (25)<corr>.</corr>
+</p><p id="meier"><hi rend="bold">Meier</hi>, man. Houd den meier in de gaten.
+</p><p id="meikever"><hi rend="bold">Meikever</hi>, zwerver, schooier. (Ook <ref target="merwiechers">Merwiecher</ref>).
+</p><p id="meilig"><hi rend="bold">Meilig</hi>, Koning.
+</p><p id="meiligin"><hi rend="bold">Meiligin</hi>, Koningin.
+</p><p id="meimus"><hi rend="bold">Meimus</hi>, dood. Hij gaat meimus. Ik zal je meimus slaan.
+</p><p><hi rend="bold">Meine-Deine</hi>, Duitsch hasardspel met kaarten.
+</p><p id="meis"><hi rend="bold">Meis</hi>, lijk.
+</p><p id="mekajem"><hi rend="bold">Mekajem</hi>, groote hoeveelheid, een hoop, een klap.
+</p><p>Ook gebruikt voor veel slaag. Hij geeft &#8217;t dier mekajem, als &#8217;t niet loopt.
+</p><p>Daar lag een mekajem oksenaars achter die ruit. Jongens met een mekajem poen in de meeluk. Ga weg of ik geef je een mekajem. Wat een mekajem gajes op de vlakte. Het wemelt van russen. Als ik alles bij mekaar had, wat ik van me leven geslagen (bemachtigd) heb, dan had ik mekajem.
+</p><p id="mekattering"><hi rend="bold">Mekattering</hi>, ook <hi rend="bold">bekattering</hi>, beschuldiging. Ook ruzie: Ze hadden een mekattering met een kar met blauw laken.
+</p><p id="melane"><hi rend="bold">Melane</hi>, lading. Ze kregen de melane (ze werden dronken).
+</p><p id="melogo"><hi rend="bold">Melogo</hi> of <hi rend="bold">Melogem</hi>, werk. Zie <ref target="maloochum">Maloochum</ref>.
+</p><p id="melojen"><hi rend="bold">Melojen</hi>, wenken.
+</p><p id="mem"><hi rend="bold">Mem</hi>, 40.
+</p><p id="meneertje"><hi rend="bold">Meneertje</hi>, de Commissaris van Politie.
+</p><p id="menobbel"><hi rend="bold">Menobbel</hi>, monster, bijzonder leelijk schepsel.
+</p><p id="mep"><hi rend="bold">Mep</hi>, klap, stoot.
+</p><p id="meppen"><hi rend="bold">Meppen</hi>, beetnemen, stelen. Ik laat me niet meppen. Wat praat je van meppen? Ik zal de spie&#235;n hebben, die jij van een ander gemept hebt. Katten meppen. Kattenmepper.
+</p><p id="mepschooren"><hi rend="bold">Mepschooren</hi>, onbruikbare goederen. (Zie <ref target="nepschooren">Nepschooren</ref>).
+</p><p id="merode"><hi rend="bold">Merode</hi>, neerlaag, armoede. Hij is nou in de merode (aan lager wal).
+</p><p id="merriekie"><hi rend="bold">Merriekie</hi>, moeder.
+<pb n="45"/></p><p id="merwiechers"><hi rend="bold">Merwiechers</hi>, meikevers, landloopers, dieven.
+</p><p id="mesokke"><hi rend="bold">Mesokke</hi>, <hi id="mesjoche" rend="bold">Mesjoche</hi>, <hi rend="bold">Mesjoege</hi>, <hi rend="bold">Mezokke</hi>, gek, suf. Zie <ref target="besjoche"><corr sic="besjoche">Besjoche</corr></ref>, (gek). Schele Mie heeft zich ook mesokke gehouden.
+</p><p id="mezoles"><hi rend="bold">Mezoles</hi>, ook <hi rend="bold">Bezoles</hi>, bedorven, kapot, ook ziek. Vleesch, dat ruikt; boter, die sterk is; een ei, dat niet versch is; heet mezoles. Kijk eens wat een knap mokkel daar voor de glonissen scheft, maar neem je in acht voor dat niese. Ze is mezoles, dat kan je aan der patsjif wel zien.
+</p><p id="mezoomen"><hi rend="bold">Mezoomen</hi> (<hi rend="bold">Mesomme</hi>), <corr sic="Geld">geld</corr>.
+</p><p id="middendek"><hi rend="bold">Middendek</hi>, sleutel. (Zie <ref target="kienen">Kienen</ref>).
+</p><p id="miegen"><hi rend="bold">Miegen</hi>, wateren.
+</p><p><hi rend="bold">Mieg-tiejijs</hi>, pisbak, urinoir.
+</p><p id="mieniker"><hi rend="bold">Mieniker</hi>, vuilik. (Bij verkorting Mien). Een kerel, die gnieperige streken uithaalt.
+</p><p id="mietje"><hi rend="bold">Mietje</hi>, iemand, die een hekel heeft aan de vrouwen. In den regel &#8217;t zelfde als hintemer, flikker.
+</p><p id="miesgasser"><hi rend="bold">Miesgasser</hi>, zie <ref target="misgasser">Misgasser</ref>.
+</p><p id="miezig"><hi rend="bold">Miezig</hi>, schuldig. Ik heb me nooit aan een portemonnaie miezig gemaakt.
+</p><p id="miggelen"><hi rend="bold">Miggelen</hi>, lachen. Hij miggelde link en ze schokten hem een jantje. (Hij lachte verdacht en ze gaven hem een jaar).
+</p><p id="miggelaar"><hi rend="bold">Miggelaar</hi>, uitkijker; iemand die op uitkijk staat.
+</p><p id="mik"><hi rend="bold">Mik</hi>, buik, maag. Hij heeft zijn mik weer vol. Sla dit treitertje (broodje) maar vlug in je mik.
+</p><p id="mikwe"><hi rend="bold">Mikwe</hi>, bad. Den avond voor den trouwdag moet het Joodsche meisje een mikwe nemen.
+</p><p id="mimmele"><hi rend="bold">Mimmele</hi>, moeder.
+</p><p id="minette"><hi rend="bold">Minette</hi>, poesje, jonge dame, snolletje. Iemand die het minetten uitvoert.
+</p><p id="minetten"><hi rend="bold">Minetten</hi>, streelen, kittelen, likken van de geslachtsdeelen.
+
+<table><row><cell rows="1" cols="1"><hi rend="bold">Miskaf</hi>,      </cell><cell rend="image(images/brace4.gif) valign(middle)" rows="4" cols="1"/><cell rend="valign(middle)" rows="4" cols="1">vuilik, akelige vent, sodomieter.</cell></row><row><cell rows="1" cols="1"><hi rend="bold">Miskuiken</hi>,</cell></row><row><cell rows="1" cols="1"><hi id="misgasser" rend="bold">Misgasser</hi>,</cell></row><row><cell rows="1" cols="1"><hi rend="bold">Miesgasser</hi>,</cell></row></table>
+<pb n="46"/></p><p id="misslaan"><hi rend="bold">Misslaan</hi>, te kort doen, geld achterhouden en dus niet eerlijk deelen.
+</p><p>Hij heeft me een meie misgeslagen, (&#402;100 te weinig van den buit gegeven).
+</p><p>We waren allen godinne jongens, misslaan hebben we mekaar nooit gedaan.
+</p><p id="misslaander"><hi rend="bold">Misslaander</hi>, iemand, die &#8217;t gestolene niet eerlijk deelt.
+</p><p id="moeke"><hi rend="bold">Moeke</hi> (<hi rend="bold">Moeke Kommers</hi>), kelder Nieuwe Markt 19, Amsterdam.
+</p><p id="mok"><hi rend="bold">Mok</hi>, beker. Een mokkie bruin (een kop koffie).
+</p><p id="mokkel"><hi rend="bold">Mokkel</hi> of <hi rend="bold">Mokkeltje</hi>, meid, geliefde.
+</p><p id="mokum"><hi rend="bold">Mokum</hi>, stad. Groot Mokum, (Amsterdam). Er zijn hier in Mokum geen goede tiejijzen meer, (geen welvoorziene brandkasten). Klein Mokum, (Rotterdam). Mokum Mollof, Mokum Alf (Amsterdam). Mokum Reis, (Rotterdam). Mokum Beisz (Berlijn).
+</p><p id="mokumer"><hi rend="bold">Mokumer</hi>, Amsterdammer.
+</p><p id="molleke"><hi rend="bold">Molleke</hi>, (zie <ref target="mokkel">Mokkel</ref>).
+</p><p id="molm"><hi rend="bold">Molm</hi>, geld. Ik weet dat er molm steunt, (dat er geld zit). Een kattebak met molm (een winkellade met geld).
+</p><p id="mollof"><hi rend="bold">Mollof</hi>, Mokum mollof, (Groot Mokum), Amsterdam.
+</p><p id="monnie"><hi rend="bold">Monnie</hi>, geld.
+</p><p id="moord"><hi rend="bold">Moord</hi>, de moord steken. (Om &#8217;t leven komen). Steek de moord, (krijg een ongeluk).
+</p><p id="moos"><hi rend="bold">Moos</hi>, geld.
+</p><p id="mootvlek"><hi rend="bold">Mootvlek</hi>, hij peest met de mootvlek, (met 9 dobbelsteenen).
+</p><p id="moppentrommel"><hi rend="bold">Moppentrommel</hi>, effectentrommel, geldkist.
+</p><p><hi rend="bold">Morf letten</hi>, goed opletten op &#8217;t geen iemand zegt.
+</p><p id="morig"><hi rend="bold">Morig</hi>, vrees. Hij schokt geen morig, (hij is niet bang). Ben je morig? Hij schokt morig. (Hij is bang). Je zult zien dat hij morig schokt. (Je zult zien dat hij wegloopt). Hij peest morig. (Hij werkt niet vastberaden).
+</p><p id="mot"><hi rend="bold">Mot</hi>, twist.
+</p><p id="motlap"><hi rend="bold">Motlap</hi>, mottige.
+<pb n="47"/></p><p id="motograaf"><hi rend="bold">Motograaf</hi>, (zie <ref target="matograaf">Matograaf</ref>). Sleutel. Heb je de matograaf pekaan. (Heb je den sleutel bij je?)
+</p><p id="muim"><hi rend="bold">Muim</hi>, slaag.
+</p><p id="muimen"><hi rend="bold">Muimen</hi>, slaan.
+</p><p id="munt"><hi rend="bold">Munt</hi>, smak hem munt, (werp hem tegen den grond).
+</p><p id="muntmeter"><hi rend="bold">Muntmeter</hi>, brandkast.
+</p><p id="muziekdoos"><hi rend="bold">Muziekdoos</hi>, brandkast.
+</p><p id="mijlie"><hi rend="bold">Mijlie</hi>, mond. Hoor eens, wat een mijlie, (wat een groote mond).
+</p><p id="mijmus"><hi rend="bold">Mijmus</hi>, dood.
+
+
+</p></div1><div1 id="n" n="N" type="Chapter"><head>N.</head><p id="naai"><hi rend="bold">Naai</hi>, bij de hand.
+</p><p id="nafke"><hi rend="bold">Nafke</hi>, meid. Ook: nefke. Als ik met hard werken wat verdiend had, dacht ik: &#8217;t Is voor me nefke.
+</p><p id="nafkoone"><hi rend="bold">Nafkoone</hi>, id.
+</p><p id="najin"><hi rend="bold">Najin</hi>, oog.
+</p><p id="nase"><hi rend="bold">Nase</hi>, neus.
+</p><p id="nefke"><hi rend="bold">Nefke</hi>, meid.
+</p><p id="negenweker"><hi rend="bold">Negenweker</hi>, iemand, die maar half voor zijn kost berekend is.
+</p><p id="nekijve"><hi rend="bold">Nekijve</hi>, (zie <ref target="lakijfe"><corr sic="Lakijve">Lakijfe</corr></ref>).
+</p><p id="nemen"><hi rend="bold">Nemen</hi>, zich laten nemen, (beetnemen).
+</p><p id="nepschooren"><hi rend="bold">Nepschooren</hi>, (zie <ref target="mepschooren"><corr sic="Mepschoren">Mepschooren</corr></ref>). Onbruikbare goederen.
+</p><p id="neuren"><hi rend="bold">Neuren</hi>, rondgaan om te zien of er iets te stelen is.
+</p><p id="neurie"><hi rend="bold">Neurie</hi>, drank, sterke drank.
+</p><p id="neuriespiese"><hi rend="bold">Neuriespiese</hi>, herberg. Ook huis met kelnerinnen.
+</p><p id="neus"><hi rend="bold">Neus</hi>, 2. Bij &#8217;t dobbelen, Aas-Neus (1&#8211;2).
+</p><p id="neuzen"><hi rend="bold">Neuzen</hi>, kijken. Ga je mee neuzen in &#8217;t woud, (&#8217;t <corr sic="Vondelspark">Vondelpark</corr>).
+</p><p id="neut"><hi rend="bold">Neut</hi>, hoofd. Je wordt al aardig olmsch met je kale neut.
+</p><p id="neutje"><hi rend="bold">Neutje</hi>, slokje. Een neutje kraken (een borreltje drinken).
+</p><p id="niese"><hi rend="bold">Niese</hi>, dame, meid. Dat niese van hem is ook naai (bij de hand).
+<pb n="48"/></p><p id="nifteren"><hi rend="bold">Nifteren</hi>, dooden. Hij moet genifterd worden.
+</p><p id="nifterik"><hi rend="bold">Nifterik</hi>, mes.
+</p><p id="nobel"><hi rend="bold">Nobel</hi>, geschikt, goed, vertrouwd, veilig. Jongens, de val is nobel (de gelegenheid is schoon).
+</p><p>Een nobel spiese (een vertrouwde herberg).
+</p><p>Ook: gepakt. Hij is nobel.
+</p><p id="nobele"><hi rend="bold">Nobele</hi>, man, vrijer. Wat doet je nobele? Die luimt nog. Dat liet de nobele (de man) zich geen tweemaal zeggen.
+</p><p id="noen"><hi rend="bold">Noen</hi>, 50.
+</p><p id="nooien"><hi rend="bold">Nooien</hi>, uitnoodigen, uitdagen.
+</p><p id="noppes"><hi rend="bold">Noppes</hi>, neen, niets.
+</p><p>Noppes poen (geen geld).
+</p><p>Noppes pekaan (niets bij me, niets op zak, van mij is niets te halen, niets voorhanden).
+</p><p>Er steunde noppes in de platvin (er zat niets in de portemonnaie).
+</p><p>Ik wou een sjaans, (chance, kans) bij haar hebben, maar noppes, hoor je (&#8217;t gaf niets).
+</p><p><hi rend="bold">Noppes kotsen</hi>, niets zeggen.
+</p><p id="nor"><hi rend="bold">Nor</hi>, &#8217;t hok, &#8217;t cachot op &#8217;t Politiebureau. In de nor.
+</p><p id="nosselen"><hi rend="bold">Nosselen</hi>, stelen. Heeft Bet van avond nog wat benosseld?
+</p><p id="nosteren"><hi rend="bold">Nosteren</hi>, vloeken, ook wel spreken.
+</p><p id="nosterik"><hi rend="bold">Nosterik</hi>, boek.
+</p><p id="notting"><hi rend="bold">Notting</hi>, niets. (Nothing at all).
+</p><p id="nijf"><hi rend="bold">Nijf</hi>, mes.
+</p><p id="nijs"><hi rend="bold">Nijs</hi>, moed, lust. Die heeft nijs om wat te bedissen (moed om te stelen).
+
+
+</p></div1><div1 id="o" n="O" type="Chapter"><head>O.</head><p id="oj"><hi rend="bold">Oj</hi>, wel, wat moet je?
+</p><p id="okketaaien"><hi rend="bold">Okketaaien</hi>, iemand te weinig geld terug geven, door kelners, en bij ontdekking het teruggehoudene op den grond laten vallen, alsof &#8217;t bij vergis ergens was blijven hangen.
+<pb n="49"/></p><p id="oks"><hi rend="bold">Oks</hi>, degelijk, goed.
+</p><p>Zoo gaat ie oks. Dat smaakt oks. Een okse oksenaar (een goed horloge).
+</p><p id="oksenaar"><hi rend="bold">Oksenaar(tje)</hi>, horloge. Een foks (een gouden). Een halffoks (een zilveren). Een loensch (een nikkelen of koperen).
+</p><p id="olf"><hi rend="bold">Olf</hi>, 1.
+</p><p id="olms"><hi rend="bold">Olms</hi>, oud, ook gek of kindsch. Een olmse serrore (man). Een olmse niese (een oude vrouw). Een stuk van een olms hemd. Een paar olmse lappen dienden voor kousen. Wat doet ie weer olms. Laat dien gooser toch, hij is olms.
+</p><p id="olmse"><hi rend="bold">Olmse</hi>, ouders. Ben je weer bij je olmse thuis?
+</p><p>Ook enkelvoudig<corr sic=": voor">voor:</corr> Vader of Moeder. Ik ga naar mijn olmse. Mijn olmse schokt (geeft) mij nog wel eens wat; hij heeft nog al wat molm. Een die zich olms houdt heet een simulant.
+</p><p id="olmspiese"><hi rend="bold">Olmspiese</hi>, oudemannenhuis. (Ook Gekkenhuis).
+</p><p id="oltrip"><hi rend="bold">Oltrip</hi>, cigaret. (Old rip, een cigaretten merk).
+</p><p id="omslaan"><hi rend="bold">Omslaan</hi>, bekennen.
+</p><p id="omslag"><hi rend="bold">Omslag</hi>, omtrekkende beweging. Een omslag maken (door een of andere slinksche manoeuvre iets bewerken).
+</p><p id="onderkruiper"><hi rend="bold">Onderkruiper</hi>, klein mannetje.
+</p><p id="onderkruis"><hi rend="bold">Onderkruis</hi>, sleutel, zie <ref target="kienen">Kienen</ref>.
+</p><p id="onderzeil"><hi rend="bold">Onderzeil</hi>, iemand onder zeil brengen. (Iemand in slaap maken).
+</p><p id="ongodin"><hi rend="bold">Ongodin</hi>, onoprecht, niet waar.
+</p><p><hi rend="bold">Oome Jan</hi>, de Bank van Leening.
+</p><p id="oosser"><hi rend="bold">Oosser</hi>, neen, neen! Een krachtig van de hand wijzen.
+</p><p id="opjacht"><hi rend="bold">Opjacht</hi>, <corr sic="Kostwinning">kostwinning</corr>.
+</p><p id="opgaan"><hi rend="bold">Opgaan</hi>, gestraft worden. Zou hij opgaan? Toch is die gooser niet opgegaan voor dat zwijn (fiets). Wie dekt, gaat net zoo goed op als de dader die verschut wordt.
+</p><p id="opknappen"><hi rend="bold">Opknappen</hi>, 2 jantjes opknappen (2 jaar in de gevangenis zitten).
+<pb n="50"/></p><p id="opladen"><hi rend="bold">Opladen</hi>, voeren, bewegen. Hij laadt den sooger op. (Hij bewerkt den man om b.v. aan &#8217;t kaartspel deel te nemen).
+</p><p id="oppikken"><hi rend="bold">Oppikken</hi>, opvangen. Een vreempie oppikken.
+</p><p id="orel"><hi rend="bold">Orel</hi>, Christen. Zie <ref target="gnorel">Gnorel</ref>.
+</p><p id="ottenoj"><hi rend="bold">Ottenoj</hi>, (zie <ref target="attenoj">Attenoj</ref>). Heer in den hemel!
+</p><p id="ousten"><hi rend="bold">Ousten</hi>, praten. Oust zachter. (Praat niet zoo luid).
+</p><p id="overbruggen"><hi rend="bold">Overbruggen</hi>, overbrengen, verklikken. Dit werd alles door dien punt (bochel) overgebrugd.
+</p><p id="oxenaar"><hi rend="bold">Oxenaar</hi>, horloge, (zie <ref target="oksenaar">Oksenaar</ref>).
+
+
+</p></div1><div1 id="p" n="P" type="Chapter"><head>P.</head><p id="paaltje"><hi rend="bold">Paaltje</hi>, stuk roggebrood, (in de gevangenis). Krijg ik van avond je paaltje.
+</p><p id="padjakker"><hi rend="bold">Padjakker</hi>, deugniet, schelm.
+</p><p id="pafferik"><hi rend="bold">Pafferik</hi>, vuurwapen, pistool, of revolver. De oude Peters draagt altijd een groote pafferik bij zich.
+</p><p id="pageintjes"><hi rend="bold">Pageintjes</hi>, (zie <ref target="geintjes"><corr sic="geintjes">Geintjes</corr></ref>), aardigheden, grapjes. Hij had enkel wat pageintjes in zijn brief geschreven.
+</p><p id="pakslinger"><hi rend="bold">Pakslinger</hi>, scheldnaam voor Jood.
+</p><p id="palmegoone"><hi rend="bold">Palmegoone</hi>, een koloniaal.
+</p><p id="palmer"><hi rend="bold">Palmer</hi>, soldaat. Daar tippelt een palmer.
+</p><p id="panas"><hi rend="bold">Panas</hi>, chef, directeur, ook winkel of lombard. Breng het maar naar de panas.
+</p><p id="paradegeld"><hi rend="bold">Paradegeld</hi>, geld van een ander, dat iemand bij zich draagt om mee te pronken.
+</p><p id="parademaker"><hi rend="bold">Parademaker</hi>, bluffer, die opschept met geld, dat niet van hem is.
+</p><p id="paradet"><hi rend="bold">Paradet</hi>, kletskop, zeer hoofd, schurftkop, (zie <ref target="parrig">Parrig</ref>).
+</p><p id="parag"><hi rend="bold">Parag</hi>, <corr sic="Scheldnaam">scheldnaam</corr> voor Jood.
+</p><p id="paraplu"><hi rend="bold">Paraplu</hi>, koepelgevangenis. (Haarlem, Arnhem, Breda).
+</p><p id="parrig"><hi rend="bold">Parrig</hi>, hoofdzeer, (zie <ref target="paradet"><corr sic="paradet">Paradet</corr></ref>).
+</p><p><hi rend="bold">Passe-route</hi>, vagebond.
+</p><p id="patatters"><hi rend="bold">Patatters</hi>, aardappelen.
+<pb n="51"/></p><p id="paternosters"><hi rend="bold">Paternosters</hi>, handboeien. (braceletten).
+</p><p id="patet"><hi rend="bold">Patet</hi>, hoofd.
+</p><p id="patjakker"><hi rend="bold">Patjakker</hi>, deugniet, fielt.
+</p><p id="patsjif"><hi rend="bold">Patsjif</hi>, gezicht.
+</p><p id="pattisj"><hi rend="bold">Pattisj</hi>, zwanger.
+</p><p id="peesvrijer"><hi rend="bold">Peesvrijer</hi>, werkman.
+</p><p id="peezen"><hi rend="bold">Peezen</hi>, werken. Hij peest met de flik. (Hij werkt met de kaarten).
+</p><p>Peezen is goed voor de paarden. (&#8217;t Werken is voor de dommen). We zullen morgenavond gaan peezen, misschien is de val dan nobel, (de gelegenheid schoon).
+</p><p>Jan is een gooser, die nooit peest, hij steunt den heelen dag in het neuriespiese.
+</p><p id="peget"><hi rend="bold">Peget</hi>, 2.
+</p><p id="pei"><hi rend="bold">Pei</hi>, 80.
+</p><p id="peiger"><hi rend="bold">Peiger</hi>, dood, aas, lijk, kapot, bedorven, rot .... van dieren. Peigere visch.
+</p><p><hi rend="bold">Peiger maken</hi>, dood maken.
+</p><p id="peigeren"><hi rend="bold">Peigeren</hi> (<hi rend="bold">peieren</hi>), sterven, doodgaan.
+</p><p id="pekaan"><hi rend="bold">Pekaan</hi>, (<hi rend="bold">piekaan</hi>, <hi rend="bold">bekaan</hi>), hier, aanwezig, voorhanden.
+</p><p>Pekaan nemen, (in beslag nemen). Noppes pekaan. (niets in den zak). Ze nemen een dronken gooser pekaan, (inrekenen).
+</p><p id="penne"><hi rend="bold">Penne</hi>, slaapstee. Platte pen. (Slaapstee onder den blooten hemel).
+</p><p id="penneboes"><hi rend="bold">Penneboes</hi>, huisbaas, slaapsteehouder.
+</p><p id="pennen"><hi rend="bold">Pennen</hi>, vingers. Wijspen, Ringpen.
+</p><p id="pennetje"><hi rend="bold">Pennetje</hi>, cigaret.
+</p><p id="penooze"><hi rend="bold">Penooze</hi>, neus.
+</p><p id="permonje"><hi rend="bold">Permonje</hi>, verlof. Als ie visschen wil moet ie altijd permonje vragen aan ze temeie.
+</p><p id="pernooze"><hi rend="bold">Pernooze</hi>, kostwinning, werk, jacht. Hij gaat op de pernooze. Kon ik met de pernooze niets verdienen, dan bikte ik niet, (had ik niets te eten).
+</p><p>Zoo&#8217;n tippelaarster peest meteen op vinkies, dat hoort bij die pernooze thuis.
+<pb n="52"/></p><p id="pernoozemannen"><hi rend="bold">Pernoozemannen</hi>, mannen van &#8217;t vak. Hij heeft onder de pernoozemannen den naam van vinkendresseur, (zakkenroller).
+</p><p id="perriekie"><hi rend="bold">Perriekie</hi>, vader.
+</p><p id="personsie"><hi rend="bold">Personsie</hi>, (presonsie, presumptie), verdenking.
+</p><p id="pesaules"><hi rend="bold">Pesaules</hi>, aangebrand, veneriek.
+</p><p id="pestman"><hi rend="bold">Pestman</hi>, gierigaard.
+</p><p id="peut"><hi rend="bold">Peut</hi>, slaag, klappen. Het doet me lol, dat de russen (rechercheurs) zoo&#8217;n peut gehad hebben.
+</p><p id="philippie"><hi rend="bold">Philippie</hi>, muntbiljet of bankbiljet van 10 gld. (De philippus, het geld).
+</p><p id="pichem"><hi rend="bold">Pichem</hi>, jood.
+</p><p id="pickpocket"><hi rend="bold">Pickpocket</hi>, zakkenroller.
+</p><p><hi rend="bold">Pi&#233;</hi>, buurt. Hoerenpi&#233;. Ruiterpi&#233;. (Pieter Jacobstraat te Amsterdam).
+</p><p id="piechern"><hi rend="bold">Piechern</hi>, suffer.
+</p><p id="piejijzers"><hi rend="bold">Piejijzers</hi>, heitjes piejijzers (kwartjesvinders).
+</p><p id="piekelman"><hi rend="bold">Piekelman</hi> ook <hi rend="bold">Piek</hi>, gulden. Ik heb een mooi vinkie (portemonnaie) in dat spoormeelukje (zakje) gezien, met een piekelman er in. Ik ga er op peezen (er moeite voor doen). Dat was de man 4 piek (vier gulden).
+</p><p id="piekeren"><hi rend="bold">Piekeren</hi>, denken.
+</p><p id="piemelen"><hi rend="bold">Piemelen</hi>, huilen.
+</p><p id="piender"><hi rend="bold">Piender</hi>, loos, bij de hand. Hij was hem te piender af.
+</p><p id="piepen"><hi rend="bold">Piepen</hi>, slapen. Maar ook wegsluipen, vluchten, lichten, enz.
+</p><p>Hij schijnt hem gepiept te hebben. Ik piep hem, hoor! (Ik maak me uit de voeten). Het is gepiept. (Het is gebeurd). Hij heeft een ezeltje gepiept. (Hij heeft een lade gelicht).
+</p><p id="pieper"><hi rend="bold">Pieper</hi>, aardappel.
+</p><p><hi rend="bold">Pi&#232;r</hi> of <hi rend="bold">piej&#232;r</hi>, opkooper. (Pierre, naam van een snees in den Haag).
+</p><p id="pierder"><hi rend="bold">Pierder</hi>, speler, nachtbraker.
+</p><p id="pierement"><hi rend="bold">Pierement</hi>, harmonica.
+</p><p id="pieremezeur"><hi rend="bold">Pieremezeur</hi>, cent.
+<pb n="53"/></p><p id="pieren"><hi rend="bold">Pieren</hi>, spelen, nachtbraken (pierewaaien).
+</p><p id="pieskapee"><hi rend="bold">Pieskapee</hi>, loopje, grapje. Maak geen pieskapee met mij. (Neem geen loopje met me.)
+</p><p id="pieterman"><hi rend="bold">Pieterman</hi>, gulden. Zeven pietermannen is toch niet te jouker (duur).
+</p><p id="pietsie"><hi rend="bold">Pietsie</hi> (<hi rend="bold">Bischen</hi>), weinig. De Motlap vond 6 heitjes wel een pietsie min. (De mottige vond 6 kwartjes wel wat weinig).
+</p><p id="pikke"><hi rend="bold">Pikke</hi>, de duivel.
+</p><p id="pikken"><hi rend="bold">Pikken</hi>, nemen. Een oksenaartje pikken.
+</p><p id="pikker"><hi rend="bold">Pikker</hi>, matroos.
+</p><p id="pil"><hi rend="bold">Pil</hi>, iemand de pil ingeven. (Iemand beduiden wat hij doen of zeggen moet. Suggereeren).
+</p><p id="pin"><hi rend="bold">Pin</hi>, ketel. Een koperen pin.
+</p><p id="pinkeling"><hi rend="bold">Pinkeling</hi>, pink.
+</p><p id="pinter"><hi rend="bold">Pinter</hi>, slim. (Zie <ref target="piender">piender</ref>).
+</p><p id="piot"><hi rend="bold">Piot</hi>, soldaat.
+</p><p id="pit"><hi rend="bold">Pit</hi>, moed. Hij heeft nog al pit.
+</p><p id="plak"><hi rend="bold">Plak</hi>, halve stuiver.
+</p><p id="planten"><hi rend="bold">Planten</hi>, verstoppen.
+</p><p id="plat"><hi rend="bold">Plat</hi>, stil. We moeten die getuige zien plat te maken. Ik moet haar met zoete woordjes plat maken (sussen) om haar mee te krijgen. Zich plat maken (buiten slapen).
+</p><p id="plattekit"><hi rend="bold">Plattekit</hi> (<hi rend="bold">stille kit</hi>), winkel waar men gestolen goederen koopt.
+</p><p id="platvink-1"><hi rend="bold">Platvink</hi>, portemonnaie. Een platvink met knaken (rijksd.)<corr>.</corr> Hij zei, dat er noppes in de platvink steunde.
+</p><p id="platvink-2"><hi rend="bold">Platvink</hi>, <corr sic="Zakportefeuille">zakportefeuille</corr>, tasch.
+</p><p id="pleite"><hi rend="bold">Pleite</hi> (ook pleiter), weg. Pleite gaan (wegloopen, weg gaan, zich bergen). Ga maar pleite, het is een beetje link (onveilig); ze knijzen op je. Is de smeris pleite? Hij is pleite gekommen (weggekomen, ontkomen). Ik tippel gauw pleite. (Ik loop gauw weg). Ze hadden juist nog tijd om pleite te tippelen.
+</p><p><hi rend="bold">Pleite scheften</hi>, wegloopen.
+<pb n="54"/></p><p><hi rend="bold">Pleite maken</hi>, wegwerpen.
+</p><p>Daar kwam een rus (smeris) aan, zoo hard hij kon, en wij pleite. De vonk pleite maken. (Het licht uitdoen).
+</p><p id="plentie"><hi rend="bold">Plentie</hi>, genoeg.
+</p><p id="ploeg"><hi rend="bold">Ploeg</hi>, vereeniging. De gouden ploeg (van jongens in Haarlem).
+</p><p id="ploeteren"><hi rend="bold">Ploeteren</hi>, werken.
+</p><p id="pluk"><hi rend="bold">Pluk</hi>, werk. Zie dat je pluk krijgt.
+</p><p id="poedel"><hi rend="bold">Poedel</hi>, agent van politie.
+</p><p id="poeierpen"><hi rend="bold">Poeierpen</hi>, cigaret.
+</p><p id="poekelaar"><hi rend="bold">Poekelaar</hi>, prater, iemand die <corr sic="niets">niet</corr> kan zwijgen, babbelaar.
+</p><p id="poekelen"><hi rend="bold">Poekelen</hi>, praten. Louw poekelen (niets vertellen).
+</p><p>Je poekelt over dingen, waar je geen verstand van hebt.
+</p><p>Ze begrepen eerst niet, wat ik poekelde.
+</p><p id="poen-1"><hi rend="bold">Poen</hi>, geld. Poen in de meeluk.
+</p><p>Daar steunt een dot poen.
+</p><p>Hoe kom jij aan poen, dat je met de melane (dronken) thuis komt?
+</p><p id="poen-2"><hi rend="bold">Poen</hi> (<hi rend="bold">een</hi>), een opschepper, een gemeene vent.
+</p><p id="poenbroekie"><hi rend="bold">Poenbroekie</hi>, broek, zooals de jongens op de Zeedijk dragen, nauw over de knie&#235;n en wijd op de hiepen (schoenen).
+</p><p id="poengassie"><hi rend="bold">Poengassie</hi>, pet.
+</p><p id="poeplappie"><hi rend="bold">Poeplappie</hi>, zakje met geld. Hij heeft een aardig poeplappie.
+</p><p id="poerem"><hi rend="bold">Poerem</hi>, drukte.
+</p><p id="poet"><hi rend="bold">Poet</hi>, een poet lood (een hoop geld).
+</p><p id="poets"><hi rend="bold">Poets</hi>, politiebeambte.
+</p><p id="poj"><hi rend="bold">Poj</hi>, water.
+</p><p id="politoeren"><hi rend="bold">Politoeren</hi>, blanketten, sminken.
+</p><p id="pompertje"><hi rend="bold">Pompertje</hi>, valsche sleutel. Leen mij dat pompertje voor die val (huis). Een pomper met 5, 6 of 7 tandjes.
+</p><p id="ponem"><hi rend="bold">Ponem</hi>, gezicht. Dat niese heeft een joven (knap) ponem, een leelijk ponem.
+</p><p id="pooien"><hi rend="bold">Pooien</hi>, eten. Moeke, schok wat te pooien. Ik moet maar zorgen, dat er wat te pooien is, jij brengt geen spie thuis. Zij kon zelf wel haar pooien verdienen.
+<pb n="55"/></p><p id="pooier-1"><hi rend="bold">Pooier</hi>, dikvreter. Kerel die met een meid leeft, die voor hem den kost verdient. Als ik zoo&#8217;n pooier moest hebben, liet ik hem gauw den moord steken (om hals komen).
+</p><p id="pooier-2"><hi rend="bold">Pooier</hi>, staalboor.
+</p><p id="poozer"><hi rend="bold">Poozer</hi> (<hi rend="bold">posser</hi>), duit. Ik had geen posser in de meeluk. Daar is geen posser te verschieren (verdienen).
+</p><p id="poozetjat"><hi rend="bold">Poozetjat</hi>, platzak.
+</p><p id="pop"><hi rend="bold">Pop</hi> (<hi rend="bold">Poppie</hi> of <hi rend="bold">Poppetje</hi>), gulden.
+</p><p id="poppekast"><hi rend="bold">Poppekast</hi>, bedstede.
+</p><p id="pores"><hi rend="bold">Pores</hi>, koe, stuk rundvee (Beheime).
+</p><p id="poser"><hi rend="bold">Poser</hi>, vleesch.
+</p><p id="posjer"><hi rend="bold">Posjer</hi>, (zie <ref target="poozer">Poozer</ref>), cent, duit.
+</p><p id="posser"><hi rend="bold">Posser</hi>, (zie <ref target="poozer">Poozer</ref>), duit.
+</p><p id="posterik"><hi rend="bold">Posterik</hi>, deur.
+</p><p id="pot"><hi rend="bold">Pot</hi>, smeltkroes.
+</p><p id="poteten"><hi rend="bold">Poteten</hi>, belooning. De versliegeraar kreeg &#402;25 voor een poteten.
+</p><p id="pots"><hi rend="bold">Pots</hi>, snor, knevel. Een zware pots.
+</p><p id="potsvrijer"><hi rend="bold">Potsvrijer</hi>, iemand, die met kwartjesvinders uitgaat, om uit te kijken.
+</p><p id="prames"><hi rend="bold">Prames</hi>, deel, aandeel, portie.
+</p><p id="prent"><hi rend="bold">Prent</hi>, beeld, mooie vent (spottend).
+</p><p id="preuvelen"><hi rend="bold">Preuvelen</hi>, praten.
+</p><p id="preuvelement"><hi rend="bold">Preuvelement</hi>, praatje. Ik maakte mijn preuvelement bij haar en kreeg ze mee naar een dansspiese.
+</p><p id="priem"><hi rend="bold">Priem</hi>, dolkmes.
+</p><p id="priemerik"><hi rend="bold">Priemerik</hi>, zwerver, landlooper, ook wel dominee of geestelijke.
+</p><p id="prikken"><hi rend="bold">Prikken</hi>, met een mes steken.
+</p><p id="prins"><hi rend="bold">Prins</hi>, politieagent.
+
+<table><row><cell rows="1" cols="1"><hi id="prinsemarij" rend="bold">Prinsemarij</hi>, </cell><cell rend="image(images/brace2.gif) valign(middle)" rows="2" cols="1"/><cell rend="valign(middle)" rows="2" cols="1">de politie.</cell></row><row><cell rows="1" cols="1"><hi rend="bold">Prinserij</hi>,</cell></row></table>
+</p><p>Jongens, deize, daar is prinsemarij op de vlakte. (Stil, jongens, daar is politie in de buurt).
+<pb n="56"/></p><p id="pruif"><hi rend="bold">Pruif</hi>, lading, last. Hij heb de pruif. (Hij is dronken).
+</p><p id="puinsteker"><hi rend="bold">Puinsteker</hi>, vingerring. (Zie <ref target="veemsteker">Veemsteker</ref>).
+</p><p id="punt"><hi rend="bold">Punt</hi>, bochel.
+</p><p id="pij"><hi rend="bold">Pij</hi>, jas, demi-saison, ook wel mond. Halt de pij. (Houd den mond).
+</p><p id="pijger"><hi rend="bold">Pijger</hi>, (zie <ref target="peiger">Peiger</ref>), dood.
+</p><p id="pijtje"><hi rend="bold">Pijtje</hi>, jas. (Zie <ref target="velletje">Velletje</ref>).
+
+
+</p></div1><div1 id="r" n="R" type="Chapter"><head>R.</head><p id="rachmones"><hi rend="bold">Rachmones</hi>, medelijden.
+</p><p id="rad"><hi rend="bold">Rad</hi>, geldstuk. Rijksdaalder, Gulden, Mark, Franc.
+</p><p id="raggeling"><hi rend="bold">Raggeling</hi>, mislukking, tegenvaller. Heb je nog wat loensche knaken (valsche rijksd.) uitgegeven?&#8212;Ja, beis, maar ik heb ook verscheiden raggelings gehad.
+</p><p id="ramen"><hi rend="bold">Ramen</hi>, oogen. Hij heeft het in de ramen (in de gaten, in de smiesen, in de kijkert).
+</p><p id="rammen"><hi rend="bold">Rammen</hi>, vechten. Als jullie rammen willen, gaat dan op de vlakte (op straat). De jongens gingen rammen met de geslagen treiters (brooden).
+</p><p id="ramsjen"><hi rend="bold">Ramsjen</hi>, opkoopen.
+</p><p id="randeevoe"><hi rend="bold">Randeevoe</hi> (<hi rend="bold">Rendez-vous</hi>), op randeevoe gaan. (Met een niese in een logement gaan slapen).
+</p><p id="rats"><hi rend="bold">Rats</hi>, gestampt eten.
+</p><p id="rausj"><hi rend="bold">Rausj</hi>, hoofd.
+</p><p id="rausjen"><hi rend="bold">Rausjen</hi>, stelen, rooven. Alles wil ook rausjen. (Ieder meent maar te kunnen stelen).
+</p><p id="ree"><hi rend="bold">Ree</hi>, flink, bij de hand. Een ree&#235; vrouw.
+</p><p id="regen"><hi rend="bold">Regen</hi>, (zie <ref target="gouden-regen">Gouden regen</ref>).
+</p><p id="reis"><hi rend="bold">Reis</hi>, Mokum Reis. (Klein Mokum). (Rotterdam).
+</p><p id="reizen"><hi rend="bold">Reizen</hi>, loopen. Ze reizen op hem (ze loopen op hem) (ze zoeken hem).
+</p><p id="rekel"><hi rend="bold">Rekel</hi>, voet.
+</p><p><hi rend="bold">Remsch hebben</hi>, verbannen zijn.
+</p><p id="rewoochem"><hi rend="bold">Rewoochem</hi>, winst, overmaat.
+<pb n="57"/></p><p id="ribbemoos"><hi rend="bold">Ribbemoos</hi>, mannetjesputter, sterke kerel.
+</p><p id="rikketikbons"><hi rend="bold">Rikketikbons</hi>, Bank van Leening in Rotterdam.
+
+<table><row><cell rows="1" cols="1"><hi rend="bold">Riks</hi>,   </cell><cell rend="image(images/brace2.gif) valign(middle)" rows="2" cols="1"/><cell rend="valign(middle)" rows="2" cols="1">rijksdaalder.</cell></row><row><cell rows="1" cols="1"><hi rend="bold">Riksie</hi>,</cell></row></table>
+</p><p id="rollen"><hi rend="bold">Rollen</hi>, biljarten. Ik mag graag een potje rollen. Ook: stelen, bemachtigen. Hij had een gondel (dameszak) gerold. (Zakkenroller).
+</p><p><hi rend="bold">Roode haan</hi>, de roode haan op een huis zetten (den brand erin steken).
+</p><p id="rooderug"><hi rend="bold">Rooderug</hi>, rood ruggetje (bankbiljet van &#402;1000).
+</p><p id="roodevlag"><hi rend="bold">Roodevlag</hi>, de vrouwelijke stonden (zie <ref target="vuile-week">vuile week</ref>).
+</p><p id="rooieloop"><hi rend="bold">Rooieloop</hi>, kopergeld.
+</p><p id="roojemen"><hi rend="bold">Roojemen</hi>, kijken. Die vrijer staat daar te roojemen, die wil weer 9 stuiver (getuigengeld) verdienen. Kun je niet beter roojemen? Roojeme, (kijk) wat mijn kerel daar doet. Ik kan noppes roojemen. (Ik kan niets zien).
+</p><p id="rookertje"><hi rend="bold">Rookertje</hi>, sigaar.
+</p><p id="rosj"><hi rend="bold">Rosj</hi>, hoofd; ook haar. Wat heb die vent een rosj.
+</p><p id="rosjie"><hi rend="bold">Rosjie</hi>, id. De niesetjes (dametjes) hadden allen een safiaantje (sigaar) in der rosjie.
+</p><p id="rot"><hi rend="bold">Rot</hi>, bankrot, ook dood. Als bij &#8217;t banken de bankhouder een 9 krijgt, heeft ie de rot. De jongens onder mekaar zijn eerlijk als goud, der mag geen spie aan mankeeren en is d&#8217;r eens een misslaander bij, dan slaan ze &#8217;m half rot als ie op de vlakte komt.
+</p><p id="rotten"><hi rend="bold">Rotten</hi>, stinken.
+</p><p id="rotteraar"><hi rend="bold">Rotteraar</hi>, verrader.
+</p><p id="ruiker"><hi rend="bold">Ruiker</hi>, slechte stoot op &#8217;t biljart (zie <ref target="ui">ui</ref> en stinker).
+</p><p><hi rend="bold">Ruiter pi&#233;</hi>, Pieter Jacobstraat in Amsterdam.
+</p><p id="rukkerd"><hi rend="bold">Rukkerd</hi>, hij heeft in &#233;&#233;n rukkerd (aan een stuk) joet-beis (12) jantjes (jaren) opgeknapt.
+</p><p id="rus"><hi rend="bold">Rus</hi> (<hi rend="bold">Smeris</hi>), politieagent, rechercheur.
+</p><p id="russies"><hi rend="bold">Russies</hi>, id.
+
+
+</p></div1><div1 id="s" n="S" type="Chapter"><head>S.</head><p id="sabberaar"><hi rend="bold">Sabberaar</hi>, koevoet.
+<pb n="58"/></p><p id="sabberen"><hi rend="bold">Sabberen</hi>, inbreken.
+</p><p id="sabbervelletje"><hi rend="bold">Sabbervelletje</hi>, slabbetje, front.
+</p><p id="safiaantje"><hi rend="bold">Safiaantje</hi>, sigaar. Safiaantjes van de dold (van de 4).
+</p><p id="safianenkoker"><hi rend="bold">Safianenkoker</hi>, sigarenkoker.
+</p><p id="salans"><hi rend="bold">Salans</hi>, vuur; ook heet. Geef me een beetje salans. Wat is dat niese salans.
+</p><p id="samenetje"><hi rend="bold">Samenetje</hi>, cigaret.
+</p><p id="sammech"><hi rend="bold">Sammech</hi>, 60.
+</p><p id="sappelen"><hi rend="bold">Sappelen</hi>, talmen.
+</p><p id="sapperen"><hi rend="bold">Sapperen</hi>, werken. Daar moet een mensch hard voor sapperen.
+</p><p id="saribel"><hi rend="bold">Saribel</hi>, kerel.
+</p><p id="saroespeelster"><hi rend="bold">Saroespeelster</hi>, heelster.
+</p><p id="saskenen"><hi rend="bold">Saskenen</hi>, loopen.
+</p><p id="sassem"><hi rend="bold">Sassem</hi>, suiker.
+</p><p id="sassie"><hi rend="bold">Sassie</hi>, cigaret.
+</p><p id="sauzen"><hi rend="bold">Sauzen</hi>, regenen.
+</p><p id="sawor"><hi rend="bold">Sawor</hi>, hals.
+</p><p id="schacheren"><hi rend="bold">Schacheren</hi>, handelen.
+</p><p><hi rend="bold">Schaf je</hi>, zie <ref target="schof-je">Schof je</ref>.
+</p><p id="schafthuis"><hi rend="bold">Schafthuis</hi>, huis, waar de jongens eten en hun wasch laten doen.
+</p><p id="schaken"><hi rend="bold">Schaken</hi>, snappen, pakken, arresteeren. Heintje en Pastoortje (2 bekende Amsterdamsche rechercheurs) hebben weer een jongen geschaakt.
+</p><p id="scharre"><hi rend="bold">Scharre</hi>, slet.
+</p><p id="scheffen"><hi rend="bold">Scheffen</hi>, zitten; ook gevangenzitten.
+</p><p>Daar scheft noppes. (Daar zit niets).
+</p><p>Een oude scheffer of schefter (iemand, die veel gevangen gezeten heeft).
+</p><p id="scheg"><hi rend="bold">Scheg</hi>, neus. Ottenoj, wat een scheg. (Kijk! wat een neus).
+</p><p id="scheppen"><hi rend="bold">Scheppen</hi>, bij het vechten de tegenpartij met den nek opvangen en over &#8217;t hoofd werpen.
+</p><p id="schermen"><hi rend="bold">Schermen</hi>, scherm met een loen jatje. (Houd je mal).
+</p><p><hi rend="bold">Scherp staan</hi>, besloten zijn tot het uiterste. Ik sta zoo scherp mogelijk. (Ik ben tot alles in staat).
+<pb n="59"/></p><p id="schiebaart"><hi rend="bold">Schiebaart</hi> (<hi rend="bold">sjiebaart</hi>), masker, mombakkes. Ook: geschonden gelaat.
+</p><p>Ik kan van avond niet tremmen (op de baan loopen) met zoo&#8217;n schiebaart voor (met zoo&#8217;n stukgeslagen gezicht).
+</p><p id="schieten"><hi rend="bold">Schieten</hi>, zien, begrijpen.
+</p><p id="schim"><hi rend="bold">Schim</hi>, gezicht, bewijs; ook wel naam. Er staat geen schim in het oksenaartje. Ze hebben stellig zijn schim wel gezien. Een agere schim. (Een andere, valsche, naam). Ik zal je veeberen (schrijven) op een agere (andere) schim (onder een anderen naam). Maak de schim asjewijne (verdonkeremaan de bewijzen).
+</p><p><hi rend="bold">Schimmen trekken</hi>, photographeeren.
+</p><p id="schimmetje"><hi rend="bold">Schimmetje</hi>, bagatel. Ik heb er maar een schimmetje voor gehad.
+</p><p id="schlemiel"><hi rend="bold">Schlemiel</hi>, lummel, ongeluksvogel.
+</p><p id="schoenen"><hi rend="bold">Schoenen</hi>, hij heeft mij alles in de schoenen gegooid (alle schuld op mij geworpen).
+</p><p id="schof-je"><hi rend="bold">Schof je</hi>, zie er af, doe het niet. Soms ook: hou je stil, of verroer je niet.
+</p><p id="schok"><hi rend="bold">Schok</hi>, goedgeluk. Uitgaan op de schok (op avontuur). Op de schok gaan (uit bedelen of op avontuur uitgaan). Op de schok tippelen. (Des avonds op woningen loopen waarvan de bewoners uit zijn; of op kermissen reizen om een slag te slaan).
+</p><p id="schokken"><hi rend="bold">Schokken</hi>, betalen; ook geven. Schok je een potje bier? Schok dien vrijer een paar spie&#235;n. Wat schok je voor dat pijtje? Hij schokt geen morig. (Hij is niet bang).
+</p><p>De bollebof uit het neuriespiese kreeg noppes van hem geschokt. (De kastelein uit de kroeg kreeg geen cent van hem betaald).
+</p><p id="schol"><hi rend="bold">Schol</hi>, 2&#189; ct. stuk.
+</p><p id="schorem"><hi rend="bold">Schorem</hi>, arm; ook slecht en leugen. Je hebt schorem gehandeld. &#8217;t Is allemaal schorem wat je daar vertelt.
+</p><p><hi rend="bold">Schorem en al</hi>, rommelzoo.
+</p><p id="schooren"><hi rend="bold">Schooren</hi>, goederen, in tegenstelling met geld. Daar is geen poen (geld) te vinden, willen we &#8217;t schooren maar meenemen? Gejatte schooren. (Gestolen goederen). <pb n="60"/>Een kist (baal) schooren. Goeie schooren. Op de schooren tippelen. (Uitgaan op diefstal van onbeheerdstaande goederen).
+</p><p id="schoot"><hi rend="bold">Schoot</hi> of <hi rend="bold">schotel</hi>, onderdeel van een slot. De deur zit op de nachtschoot.
+</p><p id="schot"><hi rend="bold">Schot</hi>, hij had het in &#8217;t schot (in de gaten).
+</p><p id="schrabber"><hi rend="bold">Schrabber</hi>, cent. Piet wou er geen schrabber (geen cent) bijgeven.
+</p><p id="schrabbes"><hi rend="bold">Schrabbes</hi> (ook <hi rend="bold">Schrappes</hi>), geld.
+</p><p id="schrapper"><hi rend="bold">Schrapper</hi>, zie <ref target="schrabber">Schrabber</ref>.
+</p><p id="schragen"><hi rend="bold">Schragen</hi>, beenen. Kromme schragen. Zoodra er verschutting viel (onraad kwam) heeft hij de schragen genomen.
+</p><p id="schrandere"><hi rend="bold">Schrandere</hi>, verbastering van grandige. Deis je voor den schrandere (politie).
+</p><p id="schranderig"><hi rend="bold">Schranderig</hi>, schraal. Hij zit er schranderig bij.
+</p><p id="schranzen"><hi rend="bold">Schranzen</hi>, smullen.
+</p><p id="schriebes"><hi rend="bold">Schriebes</hi>, honger. Kijk dat stomme dier een schriebes hebben.
+</p><p id="schrooi"><hi rend="bold">Schrooi</hi> (ook wel <hi rend="bold">Schroei</hi>), trek, eetlust, honger. Ik heb niet veel schrooi.
+</p><p id="schrooien"><hi rend="bold">Schrooien</hi>, hard werken, ploeteren.
+</p><p id="schrijfspiese"><hi rend="bold">Schrijfspiese</hi>, kantoor.
+</p><p id="schubbetje"><hi rend="bold">Schubbetje</hi>, dubbeltje.
+</p><p id="schuifster"><hi rend="bold">Schuifster</hi>, hysterische vrouw.
+</p><p id="schuiven"><hi rend="bold">Schuiven</hi>, loopen. Laat die maar schuiven.
+</p><p id="schuiver"><hi rend="bold">Schuiver</hi><corr sic=",">.</corr> Een schuiver nemen (hard wegloopen).
+</p><p id="schunnerd"><hi rend="bold">Schunnerd</hi>, zwerver, schooier.
+</p><p id="schuurtje"><hi rend="bold">Schuurtje</hi>, &#8217;t hok, &#8217;t politiebureau, cel. De prinserij wou hem naar &#8217;t schuurtje brengen. Als hij mij niet had, zegt Bet, had hij al lang in &#8217;t schuurtje gesteund.
+</p><p id="schijthuis"><hi rend="bold">Schijthuis</hi>, hoer.
+</p><p id="secreet"><hi rend="bold">Secreet</hi>, hoer.
+</p><p id="seeweren"><hi rend="bold">Seeweren</hi>, stelen. (Zie <ref target="zeeferen">Zeeferen</ref>).
+</p><p id="segem"><hi rend="bold">Segem</hi>, schouder.
+<pb n="61"/></p><p id="seibel"><hi rend="bold">Seibel</hi>, bedrog, zwendel, slechte waar. Laat je geen seibel in je jatten stoppen.
+</p><p id="seigel"><hi rend="bold">Seigel</hi>, verstand. Ik heb daar geen seigel van.
+</p><p id="sein"><hi rend="bold">Sein</hi>, afgesproken teeken.
+</p><p id="seinen"><hi rend="bold">Seinen</hi>, informeeren. Hij durft niet te seinen en niet te dekken, hij schokt morig. (Hij durft niet te informeeren of op den uitkijk te staan, hij is bang).
+</p><p id="sereife"><hi rend="bold">Sereife</hi>, brand. Sereife maken (brand stichten). Ik zit in de sereife. Waar is de sereife?
+</p><p id="seribel"><hi rend="bold">Seribel</hi> of <hi rend="bold">Sereibel</hi>, ongeluk, mis&#232;re. Door eigen stommigheid zouden ze je in de seribel helpen.
+</p><p id="serrore"><hi rend="bold">Serrore</hi>, persoon, heer. Een olmse serrore (een oud heer).
+</p><p id="siene"><hi rend="bold">Siene</hi>, agent van politie.
+</p><p id="sikker"><hi rend="bold">Sikker</hi> (<hi rend="bold">sjikker</hi>), dronken, duizelig. De gokkers zijn knap sjikker. &#8217;s Morgens als ik opsta ben ik eerst wat sikker.
+</p><p id="simpen"><hi rend="bold">Simpen</hi>, schreien.
+</p><p id="sirool"><hi rend="bold">Sirool</hi>, man, kerel. Een rare sirool. Een dronken sirool, die niet weet of het <corr sic="uchtend">ochtend</corr> of avond is.
+</p><p id="sjaak"><hi rend="bold">Sjaak</hi> of <hi rend="bold">Sjaakies</hi>, kalm. Houd je sjaakies (houd je kalm, doe of je nergens van weet).
+</p><p id="sjaans"><hi rend="bold">Sjaans</hi>, kansje (chance). Ik ging uit om een sjaans (avontuurtje) bij een niese. Dat is een mooi sjaansje voor je.
+</p><p id="sjachelen"><hi rend="bold">Sjachelen</hi>, soort dobbelspel.
+</p><p id="sjad"><hi rend="bold">Sjad</hi>, sjad mie louw of sjakt me louw (&#8217;t kan mij niet schelen, <corr sic="("/>schad&#8217;t mir lau).
+</p><p id="sjanken"><hi rend="bold">Sjanken</hi>, trouwen.
+</p><p><hi rend="bold">Sjappie-hendele-mendele</hi>, Hutspot.
+</p><p id="sjaskelbajes"><hi rend="bold">Sjaskelbajes</hi>, kroeg, herberg.
+</p><p id="sjaskelen"><hi rend="bold">Sjaskelen</hi>, drinken.
+</p><p id="sjed"><hi rend="bold">Sjed</hi>, duivel, vijand, politie.
+</p><p id="sjeezen"><hi rend="bold">Sjeezen</hi>, hard loopen, wegvluchten.
+</p><p id="sjeg"><hi rend="bold">Sjeg</hi>. Zie <ref target="scheg">Scheg</ref>.
+</p><p id="sjeks"><hi rend="bold">Sjeks</hi>, man.
+</p><p id="sjein"><hi rend="bold">Sjein</hi>, lekker, ook schoon. Sjein in de kloften (knap in de kleeren).
+<pb n="62"/></p><p id="sjerfen"><hi rend="bold">Sjerfen</hi> (<hi rend="bold">sjerpen</hi>), helen, opkoopen.
+</p><p id="sjerfer"><hi rend="bold">Sjerfer</hi>, heler.
+</p><p id="sjiebaart"><hi rend="bold">Sjiebaart</hi>, masker.
+</p><p id="sjief"><hi rend="bold">Sjief</hi> (<hi rend="bold">Schiff</hi>), schip.
+</p><p id="sjien"><hi rend="bold">Sjien</hi>, politieagent.
+</p><p id="sjikse"><hi rend="bold">Sjikse</hi>, een christenmeid. Een nobele sjikse.
+</p><p id="sjikker"><hi rend="bold">Sjikker</hi>, dronken. (Zie <ref target="sikker">Sikker</ref>).
+</p><p id="sjim"><hi rend="bold">Sjim</hi>, zie <ref target="schim">Schim</ref>, naam.
+</p><p id="sjoeche"><hi rend="bold">Sjoeche</hi>, begrip; ook verdenking, vermoeden.
+</p><p id="sjoechem"><hi rend="bold">Sjoechem</hi>, antwoord, bescheid. Ik kreeg geen sjoechem.
+</p><p id="sjoefe"><hi rend="bold">Sjoefe</hi>, eed. Loensche sjoefe (meineed).
+</p><p id="sjoege"><hi rend="bold">Sjoege</hi>, gek.
+</p><p id="sjoele"><hi rend="bold">Sjoele</hi>, kerk.
+</p><p id="sjoes"><hi rend="bold">Sjoes</hi> (verkort voor <hi rend="bold">Schuster</hi>), schoenmaker.
+</p><p id="sjofel"><hi rend="bold">Sjofel</hi>, armzalig. Een slechte kerel. Sjofel werk (werk, waaraan weinig te verdienen is).
+</p><p id="sjofelaar"><hi rend="bold">Sjofelaar</hi>, armoedzaaier.
+</p><p id="sjoof"><hi rend="bold">Sjoof</hi>, gulden (zie <ref target="soof">Soof</ref>); ook schaap.
+</p><p id="sjooges"><hi rend="bold">Sjooges</hi>, erwten. Een H.L. sjooges.
+</p><p id="sjoome"><hi rend="bold">Sjoome</hi>, vet.
+</p><p id="sjoucher"><hi rend="bold">Sjoucher</hi>, koopman.
+</p><p id="sjouter"><hi rend="bold">Sjouter</hi>, politieagent.
+</p><p id="slaan"><hi rend="bold">Slaan</hi>, stelen. Geslagen schooren. (Gestolen goederen).
+</p><p id="slagen"><hi rend="bold">Slagen</hi>, winst, buit. Hij heeft mooie slagen gemaakt.
+</p><p><hi rend="bold">Slag slaan</hi>, gebruik maken van de gelegenheid om iets te doen, b.v. stelen.
+</p><p id="slak"><hi rend="bold">Slak</hi>, horloge (ook tik, tikkie en oksenaar).
+</p><p id="slamassel"><hi rend="bold">Slamassel</hi>, ongeluk.
+</p><p id="slampamper"><hi rend="bold">Slampamper</hi>, drinkebroer.
+</p><p id="slang"><hi rend="bold">Slang</hi>, horlogeketting. Fokse slang (gouden ketting). Loensche slang (namaak).
+</p><p id="slemassel"><hi rend="bold">Slemassel</hi>, ongeluk.
+</p><p id="slemp"><hi rend="bold">Slemp</hi>, koffie.
+</p><p id="sleur-1"><hi rend="bold">Sleur</hi>, water en melk (in de gevangenis).
+<pb n="63"/></p><p id="sleur-2"><hi rend="bold">Sleur</hi> (<hi rend="bold">slurf</hi>), nauwe gang.
+</p><p id="slobber"><hi rend="bold">Slobber</hi>, koffie. Een bak slobber. Den man komt een spatje toe, de vrouw een bak slobber.
+</p><p>Ook: slons, slordige vrouw. Hoe jammer dat ie aan die slobber verzeild is.
+</p><p id="sloeber"><hi rend="bold">Sloeber</hi>, vuilpoes.
+</p><p id="sloeper"><hi rend="bold">Sloeper</hi>, pantoffel.
+</p><p><hi rend="bold">Slof(je)</hi>, halve stuiver. Ook: een krentenbroodje.
+</p><p id="sloom"><hi rend="bold">Sloom</hi>, langzaam.
+</p><p id="sloome"><hi rend="bold">Sloome</hi>, suffer. Een sloome Hannes.
+</p><p><hi rend="bold">Sloome duikelaar</hi>, iemand die door zijn luiheid ten onder gegaan is. Iemand die geen lef heeft.
+</p><p id="sloopen"><hi rend="bold">Sloopen</hi>, het lood wegstelen van leegstaande gebouwen.
+</p><p id="slooper"><hi rend="bold">Slooper</hi>, looddief.
+</p><p id="smakken"><hi rend="bold">Smakken</hi>, gooien. Smak hem munt. (Gooi hem tegen den grond).
+</p><p id="smeer"><hi rend="bold">Smeer</hi>, klap.
+</p><p id="smeerkanes"><hi rend="bold">Smeerkanes</hi>, vuilik (eig. vuilkop). Zie <ref target="kanes">kanes</ref> (hoofd).
+</p><p id="smeichler"><hi rend="bold">Smeichler</hi> (<hi rend="bold">Schmeichler</hi>), vleier, mooiprater.
+</p><p id="smeren"><hi rend="bold">Smeren</hi>, hard <corr sic="wegloogen">wegloopen</corr>. Smeer &#8217;em met den looppas.
+</p><p id="smeris"><hi rend="bold">Smeris</hi>, politieagent. Op smeris staan. (Op uitkijk staan).
+</p><p id="smerrie"><hi rend="bold">Smerrie</hi> of <hi rend="bold">Smurrie</hi>, tabak.
+</p><p id="smerrietje"><hi rend="bold">Smerrietje</hi>, sigaar.
+</p><p id="smiesen"><hi rend="bold">Smiesen</hi>, oogen. Dat loopt in de smiesen (in de gaten). Ik had hem in de smiezen. Houd hem in de smiezen.
+</p><p id="smikkelen"><hi rend="bold">Smikkelen</hi>, smullen.
+</p><p id="smiksem"><hi rend="bold">Smiksem</hi>, boter.
+</p><p id="smoesie"><hi rend="bold">Smoesie</hi>, praatje.
+</p><p id="smoezen"><hi rend="bold">Smoezen</hi>, praten. Ik moet er op kunnen vertrouwen, dat je met niemand smoest. De dokters smoezen niet; die kan &#8217;t wat schelen of je in Medemblik zit of in de bajes. Gedekt smoezen (zacht praten). Louw smoezen (niets zeggen).
+</p><p id="smous"><hi rend="bold">Smous</hi>, dief. Ook scheldnaam voor Jood.
+</p><p id="snaar"><hi rend="bold">Snaar</hi>, onwettige vrouw.
+<pb n="64"/></p><p id="snees"><hi rend="bold">Snees</hi>, opkooper van gestolen goederen. De sneezen schuilen wel eens met de politie onder &#233;&#233;n hoedje.
+</p><p id="sneezen"><hi rend="bold">Sneezen</hi>, opkoopen, en ook stelen. In de Marnixbeis woont een okse (een godinne) snees (vertrouwde opkooper).
+</p><p id="snoeien"><hi rend="bold">Snoeien</hi>, rondgaan om te zien of er iets te stelen valt.
+</p><p id="snoet"><hi rend="bold">Snoet</hi>, lieverd, schat. Dag snoet.
+</p><p id="snol"><hi rend="bold">Snol</hi>, lichtekooi, hoer.
+</p><p id="snuiven"><hi rend="bold">Snuiven</hi>, bemerken. Snoof je &#8217;m? (Heb je hem begrepen?)
+</p><p id="snurkers"><hi rend="bold"><corr sic="Suurkers">Snurkers</corr></hi>, zij die op een kansje tippelen.
+</p><p id="snij"><hi rend="bold">Snij</hi>, zakdoek.
+</p><p id="soemkoef"><hi rend="bold">Soemkoef</hi>, politie.
+</p><p id="soentje"><hi rend="bold">Soentje</hi>, verraderlijke steek of por.
+</p><p id="soeteneur"><hi rend="bold">Soeteneur</hi>, bijspringer.
+</p><p id="sohof"><hi rend="bold">Sohof</hi>, goud.
+</p><p id="sokken"><hi rend="bold">Sokken</hi>, hard loopen. De sokken zetten. (Hard loopen).
+</p><p id="sokon"><hi rend="bold">Sokon</hi>, baard.
+</p><p id="solletje"><hi rend="bold">Solletje</hi>, hoed.
+</p><p id="soof"><hi rend="bold">Soof</hi>, (zie <ref target="sjoof">sjoof</ref>). Ik heb je Zaterdag nog beis soof (2 gld.) geschokt<corr sic=")"/>.
+</p><p id="sooger"><hi rend="bold">Sooger</hi>, jongen uit een dievenhuis.
+</p><p id="sooges"><hi rend="bold">Sooges</hi>, heete (gekookte) boontjes.
+</p><p id="sossem"><hi rend="bold">Sossem</hi>, paard.
+</p><p><hi rend="bold">Sossem Prinserij</hi>, bereden politie.
+</p><p id="spaander"><hi rend="bold">Spaander</hi>, cent.
+</p><p id="spak"><hi rend="bold">Spak</hi>, cent.
+</p><p id="span"><hi rend="bold">Span</hi>, uitkijk.
+</p><p id="spannen"><hi rend="bold">Spannen</hi>, kijken, zien. Span reis. Ik zal spannen of er onraad is. Span immes (kijk goed). Span je het?
+</p><p id="spanling"><hi rend="bold">Spanling</hi>, oog.
+</p><p id="spankeren"><hi rend="bold">Spankeren</hi>, hard wegloopen, vluchten. Hij spankert de deur uit.
+</p><p id="sparber"><hi rend="bold">Sparber</hi>, parapluie. (Zie <ref target="sperwer">Sperwer</ref>).
+</p><p id="spat"><hi rend="bold">Spat</hi>, de spat zetten (aan de haal gaan).
+<pb n="65"/></p><p id="spatje"><hi rend="bold">Spatje</hi>, slokje. Me vader houdt veel van een spatje.
+</p><p id="specie"><hi rend="bold">Specie</hi>, geld, maar ook drank. Gewonnen specie. Een flesch specie.
+</p><p id="speeldoos"><hi rend="bold">Speeldoos</hi>, brandkast.
+</p><p id="speentjes"><hi rend="bold">Speentjes</hi>, knipjes, beursjes.
+</p><p id="spekkerd"><hi rend="bold">Spekkerd</hi>, spekslager.
+</p><p id="sperwer"><hi rend="bold">Sperwer</hi>, parapluie. (Zie <ref target="sparber">Sparber</ref>).
+</p><p id="spie"><hi rend="bold">Spie</hi>, cent. Vijf spie. Geen spie breng je thuis. Pak op de spiezen.
+</p><p id="spienoze"><hi rend="bold">Spienoze</hi>, roof, diefstal. Hij gaat uit op de spienoze. (Zie <ref target="pernooze"><corr sic="Pernose">Pernooze</corr></ref>).
+</p><p id="spiese"><hi rend="bold">Spiese</hi>, huis. Neuriespiese (drankwinkel). De donkere spiese (&#8217;t cachot). Luimspiese (logement).
+</p><p><hi rend="bold">Spiesertje maken</hi>, uitgaan op een val.
+</p><p id="spinnekop"><hi rend="bold">Spinnekop</hi>, dasspeld.
+</p><p id="splint"><hi rend="bold">Splint</hi>, geld.
+</p><p id="spoormeeluk"><hi rend="bold">Spoormeeluk</hi>, zijzakje van de jas, waarin het spoorkaartje gestoken wordt.
+</p><p id="spoortiejijs"><hi rend="bold">Spoortiejijs</hi>, id., id.
+</p><p id="springen"><hi rend="bold">Springen</hi>, losspringen, opengaan. Is het ezeltje gesprongen? (Is de lade losgegaan?)
+</p><p id="spuit"><hi rend="bold">Spuit</hi>, geweer, ook wel parapluie.
+</p><p id="spulle"><hi rend="bold">Spulle</hi>, kleeren. (Zie <ref target="bulle">Bulle</ref>).
+</p><p id="stand"><hi rend="bold">Stand</hi>, hoop menschen bijeen, oploop. Een stand maken (een hoop menschen om zich verzamelen, &#8217;t zij om een artikel te verkoopen, of om zakkenrollers gelegenheid te verschaffen).
+</p><p id="standel"><hi rend="bold">Standel</hi>, sleutel. Zie <ref target="tandels">Tandel</ref>.
+</p><p id="standwerker"><hi rend="bold">Standwerker</hi>, iemand die aangenomen is om een menigte bijeen te brengen.
+</p><p id="stapelaars"><hi rend="bold">Stapelaars</hi>, Zie <ref target="hoogstapelaar"><corr sic="hoogstapelaars">Hoogstapelaar</corr></ref>.
+</p><p id="steunen"><hi rend="bold">Steunen</hi>, zijn, vertoeven, zitten, blijven staan; ook logeeren. Daar steunt een brandtiejijs (brandkast). Ik moet weten of er poen (geld) steunt. Ik steun (logeer) op een luimspiese. Steunt de kien in &#8217;t slot? (Zit de sleutel in &#8217;t slot?) Laat de deur open steunen.
+<pb n="66"/></p><p id="stiek"><hi rend="bold">Stiek</hi>, stand. Een van ons stiek (een van onzen stand, van ons soort volk).
+</p><p id="stiekem"><hi rend="bold">Stiekem</hi>, stilletjes, arglistig, in &#8217;t geheim. Een stiekemerd.
+</p><p id="stiekemerd"><hi rend="bold">Stiekemerd</hi>, iemand die in &#8217;t geheim kwaad doet.
+</p><p id="stieken"><hi rend="bold">Stieken</hi> of <hi rend="bold">stiekjen</hi>, geven, reiken. Als je ziet, dat je verschud (gesnapt) wordt, dan stiek je &#8217;t zoo over aan een gabber (kameraad). Stiek dien gooser nou z&#8217;n poen. Stiek me de kienen.
+</p><p>Zijn olmse (vader of moeder) stiekt hem nou en dan een paar knaken.
+</p><p id="stik"><hi rend="bold">Stik</hi>, zie <ref target="stuk">Stuk</ref>.
+</p><p id="stille"><hi rend="bold">Stille</hi>, geheime politieagent.
+</p><p><hi rend="bold">Stille kit</hi>, zie <ref target="plattekit">Platte kit</ref>.
+</p><p><hi rend="bold">Stil maken</hi>, dooden.
+</p><p id="stinker"><hi rend="bold">Stinker</hi>, slechte bal, misstoot (op &#8217;t biljart). Zie <ref target="ui">Ui</ref>.
+</p><p id="stinkniese"><hi rend="bold">Stinkniese</hi>, vuile meid; hoer.
+</p><p id="stoot"><hi rend="bold">Stoot</hi>, ze hebben een mooien stoot gehad (een goeden slag geslagen). 17000 gld. was mijn laatste stoot. Een mooi stootje zou ik zeggen.
+</p><p id="streep"><hi rend="bold">Streep</hi>, die trekt een streep. (Die bedriegt ons).
+</p><p id="streeptrekker"><hi rend="bold">Streeptrekker</hi>, bedrieger.
+</p><p id="strontschragen"><hi rend="bold">Strontschragen</hi>, beenen.
+</p><p id="strootje"><hi rend="bold">Strootje</hi>, sigaar. Stiek me een strootje. (Geef me een sigaar).
+</p><p id="strop"><hi rend="bold">Strop</hi>, tegenvaller, mislukking. Als je daar op loert, dan krijg je een strop. Ik had een strop. (&#8217;t Pakte verkeerd uit).
+</p><p id="struinen"><hi rend="bold">Struinen</hi>, stroopen. Ga je mee op de struin?
+</p><p id="stuk"><hi rend="bold">Stuk</hi> (<hi rend="bold">stik</hi>), boterham.
+</p><p><hi rend="bold">Stukken zakkie</hi>, broodzakje.
+</p><p id="stukkiesdraaien"><hi rend="bold">Stukkiesdraaien</hi>, spijbelen, platloopen, peuen.
+</p><p id="swel"><hi rend="bold">Swel</hi>, fat, kwast. (Zie <ref target="zwel">Zwel</ref>).
+</p><p id="swellen"><hi rend="bold">Swellen</hi>, verwaand worden. (Zie <ref target="zwellen">Zwellen</ref>).
+</p><p id="swiebel"><hi rend="bold">Swiebel</hi>, ketting.
+</p><p id="swiepen"><hi rend="bold">Swiepen</hi>, slingeren. Je haalt het poen er uit en swiept het pijtje in de majem (te water).
+<pb n="67"/></p><p id="swiepert"><hi rend="bold">Swiepert</hi>, iemand, die er zijn werk van maakt, menschen tegen den grond te werpen, om ze te berooven.
+</p><p id="sijbebelajum"><hi rend="bold">Sijbebelajum</hi>, beste kamer, no. 100.
+
+
+</p></div1><div1 id="t" n="T" type="Chapter"><head>T.</head><p id="tabee"><hi rend="bold">Tabee</hi>, gegroet. Tabee, broer. (Goedendag, vrind).
+</p><p id="tafeltimtim"><hi rend="bold">Tafeltimtim</hi>, tafelzilver.
+</p><p id="talhoutjes"><hi rend="bold">Talhoutjes</hi>, breekijzers.
+</p><p id="tamp"><hi rend="bold">Tamp</hi>, brood. Is er nog tamp?
+</p><p id="tampil"><hi rend="bold">Tampil</hi>, slag.
+</p><p id="tapijtje"><hi rend="bold">Tapijtje</hi>, jas.
+</p><p id="tandels"><hi rend="bold">Tandels</hi>, sleutels. Ze schokten mekaar de tandels over.
+</p><p id="teefie"><hi rend="bold">Teefie</hi>, meid. Een mooi teefie.
+</p><p id="teller"><hi rend="bold">Teller</hi>, bord.
+</p><p id="temeie"><hi rend="bold">Temeie</hi>, meid uit een verdachte omgeving. Hij heeft dat temeie beis (2) hondjes (dubbeltjes) geschokt (gegeven). Zijn temeie had een paar trederikken (pantoffels) voor dat poen (geld) gekocht.
+</p><p id="temeierlikker"><hi rend="bold">Temeierlikker</hi>. Zie <ref target="minette">Minette</ref>.
+</p><p id="temeierspiese"><hi rend="bold">Temeierspiese</hi>, bordeel.
+</p><p id="tennef"><hi rend="bold">Tennef</hi>, slechte koopwaar.
+</p><p id="tes"><hi rend="bold">Tes</hi>, 9.
+</p><p id="test"><hi rend="bold">Test</hi>, hoofd. Sla je lat op zijn test stuk. Ik had hem wel eens willen zien rollen met z&#8217;n test tegen de daaien (keien).
+</p><p id="tiejijs"><hi rend="bold">Tiejijs</hi>, huis; ook brandkast, en verder elk ding waarvan de naam niet dadelijk te binnen schiet (dinges).
+</p><p>Een zeere tiejijs (zieke geslachtsdeelen).
+</p><p>Voor de deur van z&#8217;n tiejijs zat de bollebof een praatje te houden.
+</p><p>Daar steunt geen tiejijs (brandkast). De tiejijs steunt dicht bij de wipper (het raam).
+</p><p>Wat heb die gooser een haaie slang op zen tiejijs hangen (op zijn vest in dit geval).
+</p><p id="tiejijspeezer"><hi rend="bold">Tiejijspeezer</hi>, brandkastforceerder.
+</p><p id="tift"><hi rend="bold">Tift</hi>, thee (drank).
+<pb n="68"/></p><p id="tik"><hi rend="bold">Tik</hi>, horloge. Tik met bengel (horloge met ketting of wel met signetten).
+</p><p id="tikken"><hi rend="bold">Tikken</hi>, op den kop tikken (bemachtigen).
+</p><p id="tikkertje"><hi rend="bold">Tikkertje</hi>, horloge.
+</p><p id="til"><hi rend="bold">Til</hi>, verzamelplaats van kwartjesvinders, dieven en dergelijken.
+</p><p id="timmer"><hi rend="bold">Timmer</hi>, slaag. Op de bazaar (politiebureau) kreeg hij timmer.
+</p><p>Ook: zaken. Heb je een goeie timmer gemaakt? (een goeden slag geslagen?)
+</p><p id="timtim"><hi rend="bold">Timtim</hi>, zilver. Tafeltimtim (tafelzilver).
+</p><p id="ting"><hi rend="bold">Ting</hi>, schel.
+</p><p id="tingeling"><hi rend="bold">Tingeling</hi>, gewone winkelschel.
+</p><p id="tinnef"><hi rend="bold">Tinnef</hi>, slechte kost.
+</p><p id="tip"><hi rend="bold">Tip</hi>, man. Een sikkere tip, (een dronken man).
+</p><p id="tippel"><hi rend="bold">Tippel</hi>, uit de voeten.
+</p><p id="tippelaar"><hi rend="bold">Tippelaar</hi>, straatdief. Een tippelaar op klompen (iemand zonder lef).
+</p><p id="tippelen"><hi rend="bold">Tippelen</hi>, loopen, op roof uitgaan; ook: op de baan loopen, gezegd van meiden. Ik tippel op een zwijn. (Ik ben bezig om een fiets te stelen). Op een ezel (winkellade of kantoorlessenaar) tippelen. Op de schippers tippelen.
+</p><p id="tippelsjikse"><hi rend="bold">Tippelsjikse</hi>, rondzwervende vrouw.
+</p><p id="tjakmoos"><hi rend="bold">Tjakmoos</hi> (<hi rend="bold">Gakmoos</hi>), verbasterd van jatmoos (handgeld, eerste ontvangst).
+</p><p id="tjoekel"><hi rend="bold">Tjoekel</hi>, hond. Zie <ref target="joekel">Joekel</ref>.
+</p><p id="toeren"><hi rend="bold">Toeren</hi>, rondgaan, bijv. met den voddenzak.
+</p><p id="toet"><hi rend="bold">Toet</hi>, mond. Kom er uit, dan kan je je toet onder de kraan houen; water aan je nest brengen, dat doe ik vast niet.
+</p><p id="toetje"><hi rend="bold">Toetje</hi>, mond. Ik gaf haar een kedeevid voor haar toetje.
+</p><p id="tof"><hi rend="bold">Tof</hi>, goed, degelijk; ook kalm en eerlijk. Het was een toffe gooser (een flinke kerel), eigenlijk kachel zag je hem nooit. Hou je maar tof. Hij speelt tof. Dat je een tof niese hebt wil ik graag gelooven. Tof poen (goed <pb n="69"/>geld). Toffe brogers (nette heeren). Een tof niese (een mooie meid). Tof gajes (goed volk). Louw tof (niet goed). We hebben een tof meelukje gehad.
+</p><p id="tofes"><hi rend="bold">Tofes</hi>, gevangenis.
+</p><p id="toges"><hi rend="bold">Toges</hi> of <hi rend="bold">Tokes</hi>, achterste, gat.
+</p><p id="toppie"><hi rend="bold">Toppie</hi>, pet, ook wel hoed. Als dat ezeltje springt, schaf ik mij dadelijk een velletje en een toppie aan. Me olmse wierp ze toppie in een hoek. Alle tippelaars dragen toppies van 2 pieken, mooie gassies maar jouker.
+</p><p id="tor"><hi rend="bold">Tor</hi>, vrouw van slechte zeden.
+</p><p id="trammelan"><hi rend="bold">Trammelan</hi>, lawaai. Ik zal maar geen trammelan maken.
+</p><p id="tredekers"><hi rend="bold">Tredekers</hi> of <hi rend="bold">Trederikken</hi>, schoenen of pantoffels. Daar hangen een paar trederiks of trederikken.
+</p><p><hi rend="bold">Trederiks-bajes</hi>, schoenwinkel.
+</p><p id="tredikers"><hi rend="bold">Tredikers</hi>, schoenen.
+</p><p id="tredikerspiese"><hi rend="bold">Tredikerspiese</hi>, schoenenwinkel.
+</p><p id="treiter"><hi rend="bold">Treiter</hi>, een brood. Een krentetreiter (een krentebrood). Hij kreeg 3 maanden voor een treitertje.
+</p><p>Een bakker bekeuren of op zijn kop tikken voor een paar treiters.
+</p><p><hi rend="bold">Treiter-chocolade</hi>, water en melk dat in de gevangenis bij het brood wordt gegeven (sleur).
+</p><p id="treitertippelaar"><hi rend="bold">Treitertippelaar</hi>, brooddief.
+</p><p id="treive"><hi rend="bold">Treive</hi>, slecht, onrein.
+</p><p id="tremmen"><hi rend="bold">Tremmen</hi>, op de baan loopen; de hoer spelen. Voor zoo&#8217;n kerel moet je nog tremmen.
+</p><p id="treter"><hi rend="bold">Treter</hi>, schoen of pantoffel.
+</p><p id="treters"><hi rend="bold">Treters</hi>, schoenen.
+</p><p id="tring"><hi rend="bold">Tring</hi>, bel, schel. De tring overgooien.
+</p><p id="tronie"><hi rend="bold">Tronie</hi>, gezicht. Zet een ander tronie.
+</p><p id="troost"><hi rend="bold">Troost</hi>, koffie. Een kommetje troost.
+</p><p id="truk"><hi rend="bold">Truk</hi> (<hi rend="bold">truc</hi>), streek. Linke trukken (listige streken).
+</p><p id="trutten"><hi rend="bold">Trutten</hi>, twee <corr sic="drieen">drie&#235;n</corr> werpen bij &#8217;t dobbelen (zie <ref target="drutten">Drutten</ref>).
+</p><p id="tuimel"><hi rend="bold">Tuimel</hi>, tuimelraam boven een winkeldeur.
+</p><p>Ik ga de tuimel openmaken en haal de schoren (goederen) eruit. Je klimt nooit een tuimel binnen of <pb n="70"/>de tandel moet aan den binnenkant op de val zitten.
+</p><p id="tuffel"><hi rend="bold">Tuffel</hi> (of <hi rend="bold">tiffel</hi>), kerk.
+</p><p id="turftrekker"><hi rend="bold">Turftrekker</hi>, zakkenroller.
+</p><p><hi rend="bold">Turksche tafelschel</hi>, hoer.
+
+
+</p></div1><div1 id="u" n="U" type="Chapter"><head>U.</head><p id="ui"><hi rend="bold">Ui</hi>, een slecht gemaakte stoot op &#8217;t biljart (zie <ref target="stinker">Stinker</ref>). In &#8217;t algemeen een misslag.
+</p><p id="uitpeezen"><hi rend="bold">Uitpeezen</hi>, uitvijlen. De kienen uitpeezen. Hollanders gaan gemakkelijk. (Zie <ref target="kienen">Kienen</ref>).
+</p><p id="uitvisschen"><hi rend="bold">Uitvisschen</hi>, uithooren.
+</p><p id="universiteiten"><hi rend="bold">Universiteiten</hi>, gevangenissen.
+</p><p id="uppie"><hi rend="bold">Uppie</hi>, &#189; cent. (Zie <ref target="luffie">luffie</ref> en <ref target="loefie">loefie</ref>).
+
+
+</p></div1><div1 id="v" n="V" type="Chapter"><head>V.</head><p id="val"><hi rend="bold">Val</hi>, gelegenheid, huis, deur, ook wel bedekt bordeel of rendez-vous. Leen me dat pompertje voor die val. Is dat jou valletje? (woning). De val is nobel. (De gelegenheid is schoon. Er is geen onraad). Heb je de tandel (sleutel) van de val bekaan (bij je). Op de val steunen of drukken (op logement leven).
+</p><p id="varsche-waar"><hi rend="bold">Varsche waar</hi>, afval van geslacht vee, pens, longen, enz. Luuk is in de varsche-waar beweging; die jat niet meer.
+</p><p id="vatling"><hi rend="bold">Vatling</hi>, gereedschap.
+</p><p id="vau"><hi rend="bold">Vau</hi>, 6.
+</p><p id="vazelen"><hi rend="bold">Vazelen</hi>, valsch spelen. Pas op, Bok, dat je niet vazelt, want dan knok ik je lampies dicht.&#8212;Je knokt niks. (Je zult het wel laten).
+</p><p id="veeberen"><hi rend="bold">Veeberen</hi>, schrijven. Ik zal een kassavie aan mijn gabber veeberen. Iemand veeberen op een agere (andere) schim (naam).
+</p><p id="veemen"><hi rend="bold">Veemen</hi>, vingers (zie <ref target="feemen">Feemen</ref>).
+</p><p id="veemsteker"><hi rend="bold">Veemsteker</hi>, vingerring.
+<pb n="71"/></p><p id="veiling"><hi rend="bold">Veiling</hi>, in de veiling zetten. (In de maling nemen).
+</p><p id="vel"><hi rend="bold">Vel</hi>, jas. Hou me vel even vast, we gaan looien (kloppen). Dat is een joven (uitstekend) vel.
+</p><p id="velletje"><hi rend="bold">Velletje</hi>, jas. Uit vrees dat zijn velletje in brand zou raken, etc.
+</p><p>Ook: bankbiljet. Een geel velletje (een bankbiljet van 25 gld.)
+</p><p id="verbruggen"><hi rend="bold">Verbruggen</hi>, verkoopen.
+</p><p id="verbuizen"><hi rend="bold">Verbuizen</hi>, verdrinken, opmaken. Die broger verbuist al z&#8217;n schrappes.
+</p><p id="verdienen"><hi rend="bold">Verdienen</hi>, stelen.
+</p><p id="verdiend"><hi rend="bold">Verdiend</hi>, gestolen.
+</p><p id="vergokken"><hi rend="bold">Vergokken</hi>, het gelach betalen. Kaplaars had het gedaan en Stille Jan moest het vergokken (er voor boeten).
+</p><p id="verkienen"><hi rend="bold">Verkienen</hi>, ook wel verkiejenen, verkoopen. We gaan foks (goud) bij den snees verkienen. De gejatte schoren verkienen.
+</p><p id="verkleffer"><hi rend="bold">Verkleffer</hi>, verklikker.
+</p><p id="verklefster"><hi rend="bold">Verklefster</hi>, verklikster (politie-spion).
+</p><p id="verklikker"><hi rend="bold">Verklikker</hi>, winkelbel, ook telephoon.
+</p><p id="verknoeien"><hi rend="bold">Verknoeien</hi> of <hi rend="bold">verknoezen</hi>, verraden. Hij is verknoesd (hij is verraden).
+</p><p id="verknoeier"><hi rend="bold">Verknoeier</hi>, verrader, (ook verknoezer).
+</p><p id="verknoeierij"><hi rend="bold">Verknoeierij</hi>, verraad.
+</p><p id="verknijzen"><hi rend="bold">Verknijzen</hi>, verraden, bespieden.
+</p><p id="verkrummelen-1"><hi rend="bold">Verkrummelen</hi>, wegstoppen.
+</p><p id="verkrummelen-2"><hi rend="bold">Verkrummelen</hi> (<hi rend="bold">zich</hi>), zich wegmaken, uitknijpen, zich verstoppen.
+</p><p id="verlinken"><hi rend="bold">Verlinken</hi>, verraden, bedotten.
+</p><p id="verlinker"><hi rend="bold">Verlinker</hi>, verrader.
+</p><p id="verlunzen"><hi rend="bold">Verlunzen</hi>, ook <hi rend="bold">verlenzen</hi>, bespieden, beloeren, beluisteren, maar ook verstaan. Ze verlunzen geen krakeling (ze verstaan geen woord).
+</p><p id="vermamsen"><hi rend="bold">Vermamsen</hi>, verraden.
+</p><p id="vermoffelen"><hi rend="bold">Vermoffelen</hi>, wegstoppen.
+<pb n="72"/></p><p id="vernollen"><hi rend="bold">Vernollen</hi>, sluiten. De deur is vernold.
+</p><p id="vernold"><hi rend="bold">Vernold</hi>, gesloten. Hoe is ie vernold, met een Hollandsche of een Engelsche kien<corr sic=".">?</corr> Is de kattebak vernold? Een vernolde val. (Een gesloten deur).
+</p><p id="verpatsen"><hi rend="bold">Verpatsen</hi>, verkoopen.
+</p><p id="verpieren"><hi rend="bold">Verpieren</hi>, kwijt raken, van de hand doen.
+</p><p>Ook verliezen: Hij had zijn fokse veemsteker verpierd.
+</p><p>Heb je je bruine joekel al verpierd?
+</p><p><hi rend="bold">Versche waar</hi>, zie <ref target="varsche-waar">Varsche waar</ref>.
+</p><p id="verschieren"><hi rend="bold">Verschieren</hi>, verkoopen, verklikken en verdienen. Mesomme verschieren (geld verdienen). Weet je het te verschieren?
+</p><p id="verschud"><hi rend="bold">Verschud</hi> of <hi rend="bold">verschut</hi>, betrapt, gevat. Als ik nu weer verschud kom (gearresteerd word) kan ik rekenen op kimmel jantjes (3 jaren). Maar enfin, verschud-verschud (ik moet het er op wagen). De jongen was verschud geworden wegens een oksenaartje.
+</p><p id="verschudden"><hi rend="bold">Verschudden</hi> of <hi rend="bold">verschutten</hi>, het bed voor iemand verschudden (hem de zaak bederven).
+</p><p id="verschudding"><hi rend="bold">Verschudding</hi> of <hi rend="bold">verschutting</hi>, stoornis. Ik heb heel wat verschuddings gehad. Ik stond te werken op het oksenaartje van een vrijer; ik had de swiebel los en toen kreeg ik een kleine verschutting.
+</p><p id="verkwartsen"><hi rend="bold">Verkwartsen</hi>, vervloeken.
+</p><p id="versliegeraar"><hi rend="bold">Versliegeraar</hi>, verrader, politiespion.
+</p><p id="versmiegelen"><hi rend="bold">Versmiegelen</hi>, verklagen. Die vrijer ging ons bij den rus versmiegelen.
+</p><p id="versneezen"><hi rend="bold">Versneezen</hi>, verkoopen bij een opkooper.
+</p><p id="versnoeien"><hi rend="bold">Versnoeien</hi>, versnoepen.
+</p><p><hi rend="bold">Versta j&#8217;em</hi>, begrip. Daar krijg je geen versta j&#8217;em van.
+</p><p id="viege"><hi rend="bold">Viege</hi>, niets. Hij krijgt een viege.
+</p><p id="vigileeren"><hi rend="bold">Vigileeren</hi>, zich heen en weer bewegen op de straat of staan in een deur, door een publieke vrouw, om mannen te lokken.
+</p><p id="vin"><hi rend="bold">Vin</hi>, barst. Een vin in een ruit zetten (een barst erin maken).
+<pb n="73"/></p><p><hi rend="bold">Vink(je)</hi>, portemonnaie.
+</p><p id="vinkendresseur"><hi rend="bold">Vinkendresseur</hi>, zakkenroller.
+</p><p id="vinkenpeezer"><hi rend="bold">Vinkenpeezer</hi>, id. Ik moet niets hebben van dat vinkenpeezen; zeg me liever een godin spiese, waar poen steunt (een goedgelegen huis, waar geld is).
+</p><p id="violen"><hi rend="bold">Violen</hi>, begaan. Mijn niese dee ook wel is wat dat niet in den haak was, maar ik liet ze maar stil violen.
+</p><p><hi rend="bold">De Vlakte</hi>, de straat; buiten. De jongens van de vlakte. Een jongen of een niese van de vlakte.
+</p><p id="vlammen"><hi rend="bold">Vlammen</hi>, hij vlamt op dat niese. (Hij hoopt dat meisje te bezitten).
+</p><p id="vlerk"><hi rend="bold">Vlerk</hi>, arm. Een lamme vlerk. Linker- en rechter vlerk.
+</p><p id="vliegerik"><hi rend="bold">Vliegerik</hi>, vogel.
+</p><p id="voeren"><hi rend="bold">Voeren</hi>, lokken, meetroonen. Koo, de kippenboer wist dat joven ponempie mee naar de val te voeren.
+</p><p>Een der kwartjesvinders voert den vrijer naar een neuriespiese waar de anderen hem opwachten.
+</p><p id="voetenlicht"><hi rend="bold">Voetenlicht</hi>, opening onder of bezijden een gordijn, waardoor men in huis kan zien. Ik knijsde door het voetenlicht, een gooser werd zijn platvink gelicht.
+</p><p id="vol"><hi rend="bold">Vol</hi>, diefstal. Die vol kan ik van avond niet opknappen.
+</p><p id="vonk"><hi rend="bold">Vonk</hi>, licht, lamp, kaars. Kun je in die val (dat huis) met de vonk werken? (is het vertrouwd er licht te ontsteken?) Er brandde nog vonk. De vonk pleite maken.
+</p><p id="vonkert"><hi rend="bold">Vonkert</hi>, kachel.
+</p><p id="vonkie"><hi rend="bold">Vonkie</hi>, lucifer, vlammetje, zaklantaarntje. Geef reis een vonkie.
+</p><p id="voorwiel"><hi rend="bold">Voorwiel</hi>, gulden.
+</p><p id="vreempie"><hi rend="bold">Vreempie</hi>, vreemdeling.
+</p><p id="vrouwedod"><hi rend="bold">Vrouwedod</hi>, laffe vent.
+</p><p id="vrijer"><hi rend="bold">Vrijer</hi>, man. Iemand die uitgekozen is om slachtoffer te worden van kwartjesvinders. Ik heb dien vrijer aangeschoten (aangekwatst).
+</p><p id="vrijzetter"><hi rend="bold">Vrijzetter</hi>, iemand een vrijzetter geven.
+</p><p id="vuile-week"><hi rend="bold">Vuile week</hi>, dat niese heb de vuile week (maandelijksche stonden).
+
+
+<pb n="74"/></p></div1><div1 id="w" n="W" type="Chapter"><head>W.</head><p id="waffel"><hi rend="bold">Waffel</hi>, mond. Hou je waffel dicht.
+</p><p id="wagensmeer"><hi rend="bold">Wagensmeer</hi>, boter. Geef me een broodje met wagensmeer.
+</p><p id="wandelstok"><hi rend="bold">Wandelstok</hi>, groot breekijzer. Is de wandelstok pekaan? (Heb je het breekijzer bij je?)
+</p><p id="watjekow"><hi rend="bold">Watjekow</hi>, klap.
+</p><p id="wees"><hi rend="bold">Wees</hi><corr>,</corr> ook <hi rend="bold">Weets</hi>, stille agent. Jongens daar komt een wees aan.
+</p><p id="werkelooze"><hi rend="bold">Werkelooze</hi>, groote borrel voor 5 spie. Een heitje betalen voor maffen is zonde; je hebt er 5 werkeloozen voor.
+</p><p><hi rend="bold">Werken met 2 vingers</hi>, zakkenrollen.
+</p><p id="wieberig"><hi rend="bold">Wieberig</hi>, uit de voeten, weg. Tippel maar gauw wieberig. Maak je wieberig. Breng mijn oksenaar maar wieberig. Maak het maar gauw wieberig.
+</p><p id="wiedes"><hi rend="bold">Wiedes</hi>, begrijpelijk. Dat was nogal wiedes (dat spreekt).
+</p><p id="wiepsjer"><hi rend="bold">Wiepsjer</hi>, bedrieger; kaartspeler, die de kaarten zoo weet te schudden, dat hij altijd een mooi spel heeft.
+</p><p id="winde"><hi rend="bold">Winde</hi>, plaats waar iets te verdienen is.
+</p><p id="windfang"><hi rend="bold">Windfang</hi> of <hi rend="bold">Windvank</hi>, overjas, demi, mantel.
+</p><p id="wip"><hi rend="bold">Wip</hi> of <hi rend="bold">wipper</hi>, raam. Blijf jij staan knijtsen, dan zal ik zien de wip open te krijgen.
+</p><p id="wippen"><hi rend="bold">Wippen</hi>, bemachtigen. Hij wipte een vinkie.
+</p><p id="wissiewassie"><hi rend="bold">Wissiewassie</hi>, kleinigheid.
+</p><p id="witje"><hi rend="bold">Witje</hi>, dubbeltje.
+</p><p id="wolletje"><hi rend="bold">Wolletje</hi>, deken.
+</p><p id="wolber"><hi rend="bold">Wolber</hi> of <hi rend="bold">Wolver</hi>, goedkoop. Dat heb je wolver gekiend.
+</p><p id="woof"><hi rend="bold">Woof</hi>, 6.
+</p><p><hi rend="bold">&#8217;t Woud</hi>, ga je mee neuzen in &#8217;t Woud (in &#8217;t <corr sic="Vondelspark">Vondelpark</corr>).
+</p><p id="wijzik"><hi rend="bold">Wijzik</hi>, ziekte. Krijg alle judische wijzik (verwensching).
+
+
+</p></div1><div1 id="ij" n="IJ" type="Chapter"><head>IJ.</head><p><hi rend="bold">IJzeren Hein</hi>, de brandkast.
+
+
+<pb n="75"/></p></div1><div1 id="z" n="Z" type="Chapter"><head>Z.</head><p id="zachts"><hi rend="bold">Zachts</hi>, &#8217;t mag wel, &#8217;t is wel billijk.
+</p><p>Geef me een bittere, maar een kanjer hoor, want ik krijg maar &#233;&#233;n; zachts dat-ie goed is.
+</p><p>Die gannef heeft een karvol, zachts dat ik er ook een paar heb.
+</p><p id="zain"><hi rend="bold">Zain</hi>, 7.
+</p><p id="zakken"><hi rend="bold">Zakken</hi>, laten zakken (in &#8217;t water werpen).
+</p><p><hi rend="bold">Zand er ieber</hi>, (zand er over). Zwijg er verder van. (Schwamm dr&#252;ber).
+</p><p id="zeeferen"><hi rend="bold">Zeeferen</hi>, stelen, zweeten. Hij begint te zeeferen. (Hij wordt benauwd, bang). Ze hadden kimmel (3) knaken (rijksd.) van een sjikkeren gooser gezeeverd. Mijn broertje is voor &#8217;t kippen-zeeferen voor 2 jaar naar Alkmaar.
+</p><p id="zeeferaar"><hi rend="bold">Zeeferaar</hi>, dief, geslachtsziekte.
+</p><p id="zeik"><hi rend="bold">Zeik</hi>, pis. Stinken naar de zeik.
+</p><p id="zeiken"><hi rend="bold">Zeiken</hi>, wateren.
+</p><p id="zeil"><hi rend="bold">Zeil</hi>, iemand onder zeil brengen. (Iemand in slaap maken).
+</p><p id="zerouang"><hi rend="bold">Zerouang</hi>, arm (lichaamsdeel).
+</p><p id="zeventandje"><hi rend="bold">Zeventandje</hi>, soort Engelsche sleutel.
+</p><p id="zitterik"><hi rend="bold">Zitterik</hi>, stoel.
+</p><p id="zoei"><hi rend="bold">Zoei</hi>, soep. Een bord zoei.
+</p><p id="zoeterik"><hi rend="bold">Zoeterik</hi>, koek.
+</p><p id="zog"><hi rend="bold">Zog</hi>, vocht, drank (koffie, chocolade). Een kop zog.
+</p><p id="zojen"><hi rend="bold">Zojen</hi>, 7.
+</p><p id="zoldertippelaar"><hi rend="bold">Zoldertippelaar</hi>, iemand, die zijn werk maakt van &#8217;t stelen van waschgoed, dat op zolders te drogen hangt.
+</p><p id="zoof"><hi rend="bold">Zoof</hi>, gulden (zie <ref target="soof">Soof</ref>).
+</p><p id="zuipen-1"><hi rend="bold">Zuipen</hi>, winnen. Hij zoop van morgen een kwart meier (25 gld.).
+</p><p id="zuipen-2"><hi rend="bold">Zuipen</hi>, verliezen. Hij zuipt. (Hij gaat onder, hij is zijn geld gauw kwijt).
+</p><p id="zuur"><hi rend="bold">Zuur</hi>, gesnapt.
+<pb n="76"/></p><p id="zwabber"><hi rend="bold">Zwabber</hi>, dronkenlap.
+</p><p id="zwartje"><hi rend="bold">Zwartje</hi>, koffie.
+</p><p><hi rend="bold">Zwartjes Bargoensch</hi>, Zigeuner Bargoensch.
+</p><p id="zweet"><hi rend="bold">Zweet</hi> of <hi rend="bold">Zweeterik</hi>, koffie. Een bak zweet.
+</p><p id="zwel"><hi rend="bold">Zwel</hi>, fat, kwast.
+</p><p id="zwellen"><hi rend="bold">Zwellen</hi>, verwaand worden.
+</p><p id="zwerver"><hi rend="bold">Zwerver</hi>, gestolen parapluie.
+</p><p id="zwerverssteeg"><hi rend="bold">Zwerverssteeg</hi>, de Servetsteeg.
+</p><p id="zwiepen"><hi rend="bold">Zwiepen</hi>, slingeren, werpen (zie <ref target="swiepen">Swiepen</ref>).
+</p><p id="zwik"><hi rend="bold">Zwik</hi>, in een soort kaartspel (zwikken) 3 boeren, 3 vrouwen en 3 heeren.
+</p><p id="zwirren"><hi rend="bold">Zwirren</hi>, kijken. Zwir link. (Houd het goed in de gaten. Ook wel: kijk uit, er is onraad).
+</p><p id="zwijn"><hi rend="bold">Zwijn</hi>, fiets.
+</p><p id="zwijnrijder"><hi rend="bold">Zwijnrijder</hi>, fietsrijder.
+
+<table><row><cell rows="1" cols="1"><hi rend="bold">Zwijnenverhuurder</hi>, </cell><cell rend="image(images/brace2.gif) valign(middle)" rows="2" cols="1"/><cell rend="valign(middle)" rows="2" cols="1">fietsenverhuurder.</cell></row><row><cell rows="1" cols="1"><hi rend="bold">Zwijnenbollebof</hi>,</cell></row></table>
+</p><p id="zwijnenjacht"><hi rend="bold">Zwijnenjacht</hi><corr sic=".">,</corr> <corr sic="Op">op</corr> de zwijnenjacht gaan (op &#8217;t stelen van fietsen uitgaan).
+</p><p><hi rend="bold">Zijden ezel</hi>, zijden halsdoek, foulard.
+
+</p></div1></body><back id="backmatter"><div1 id="backcover" type="Cover"><p><figure id="achterkant"><figDesc>Oorspronkelijke achterkant.</figDesc></figure>
+
+</p></div1><divGen type="Colophon"/></back></text></TEI.2>
